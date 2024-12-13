@@ -1,0 +1,33 @@
+{
+  "parent": "minecraft:item/handheld",
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [-45, -90, 55],
+			"translation": [-0.75, 1.75, -5.0],
+			"scale": [ 1.75, 1.75, 1.75 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-45, -90, -35],
+			"translation": [-0.75, 1.75, -5.0],
+			"scale": [ 1.75, 1.75, 1.75 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, -90, 100],
+			"translation": [-0.5, 7.0, -2.0],
+			"scale": [ 1.25, 1.25, 1.25  ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, -90, 10],
+			"translation": [-0.5, 7.0, -2.0],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		}
+	},
+  "textures": {
+    "layer0": "item/custom/weaponsking"
+  }
+}

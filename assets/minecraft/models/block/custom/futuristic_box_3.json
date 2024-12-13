@@ -1,0 +1,20 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "side": "block/custom/futuristic_box_side_3",
+        "end": "block/custom/futuristic_box_top"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "texture": "#end", "cullface": "down" },
+                "up":    { "texture": "#end", "cullface": "up"   },
+                "north": { "texture": "#side", "cullface": "north" },
+                "south": { "texture": "#side", "cullface": "south" },
+                "west":  { "texture": "#side", "cullface": "west"  },
+                "east":  { "texture": "#side", "cullface": "east"  }
+            }
+        }
+    ]
+}

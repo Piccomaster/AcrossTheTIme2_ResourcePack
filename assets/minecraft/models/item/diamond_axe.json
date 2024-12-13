@@ -1,0 +1,17 @@
+{
+    "parent": "item/handheld",
+    "display": {
+		"ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 1, 0 ],
+        "scale": [ 0.75, 0.75, 0.75 ]
+		}
+	},
+    "textures": {
+        "layer0": "item/diamond_axe"
+    },
+	"overrides": [
+		{"predicate": {"custom_model_data": 1000000},"model": "item/custom/spectral_axe"},
+        {"predicate": {"custom_model_data": 10000001},"model": "item/custom/fire_soul"}
+    ]
+}

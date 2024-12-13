@@ -1,0 +1,8 @@
+{
+    "parent": "block/slab",
+    "textures": {
+        "bottom": "block/custom/futuristic_slab",
+        "top": "block/custom/futuristic_slab",
+        "side": "block/custom/futuristic_slab"
+    }
+}

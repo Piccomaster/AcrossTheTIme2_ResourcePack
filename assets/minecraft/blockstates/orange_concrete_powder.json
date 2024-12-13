@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/futuristic_box_1" },
+			{ "model": "block/custom/futuristic_box_2" },
+			{ "model": "block/custom/futuristic_box_3" },
+			{ "model": "block/custom/futuristic_box_4" }
+		]
+    }
+}

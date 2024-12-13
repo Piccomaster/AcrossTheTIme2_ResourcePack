@@ -1,0 +1,263 @@
+[C]§7=======================
+[C]§6⥪  ACROSS THE TIME 2 ⥬
+[C]§4Time for regrets
+[C]§7=======================
+
+§3Was introduced to you by Advenquest
+
+§7Build, and level design :
+§4			Thundesrtruck
+§4			Piccomaster
+
+§7Gameplay and textures :
+§4			Thundesrtruck
+§4			Piccomaster
+
+§7Scenario and lore :
+§4			Thundesrtruck
+
+§7Music Composition :
+§4			Piccomaster
+
+§7Special thanks to:
+§4			Athena Sigmund
+§4			Bonkoul
+§4			Grenier
+§4			Nico
+§4			PengoPlays
+§4			PumpKingFr
+§4			Orian34
+
+§7English Translation:
+§4			BrightBrain
+§4			DrSallan
+§4			Golden Max
+§4			Kyraito
+§4			Pig Ninja
+§4			Slapilou
+§4			Zercklay
+
+§7Chinese Translation:
+§4			Frank HD
+§4			LinLei_Baruch
+§4			Pixelman
+§4			Serenus
+§4			花歌
+
+§7ALPHA testers:
+§4			AlAmine05
+§4			BaJaEm
+§4			Conrad_le_renard
+§4			DemonicWolf_666
+§4			Devildog68
+§4			Dragbuster
+§4			DrSallan
+§4			Galante
+§4			Greenion_
+§4			Laraukin
+§4			LegoChickenGuy
+§4			Nouille2Nouille
+§4			PengoPlays
+§4			PhyllaLiya
+§4			Pig_Ninja
+§4			PumpKingFr
+§4			Sabercraft
+§4			SatysFaction
+§4			Slapilou
+§4			StarCraft59
+§4			Stenox
+
+§7BETA testers:
+§4			_JULOr2d2_
+§4			_Methuselah_
+§4			_Niyaa_
+§4			_RedCoal_
+§4			12gogo
+§4			723bon
+§4			Adurno
+§4			Ald3baran
+§4			Alukiel
+§4			Alwazl
+§4			Alxandraa
+§4			Aqualix
+§4			Awhikax
+§4			Azermadness_
+§4			BaJaEm
+§4			Bastienr17
+§4			benji49
+§4			BunBiird
+§4			cercus
+§4			Charlene1810
+§4			CottontailTeemo_
+§4			CRaZyRSakura
+§4			DARK_VALEN
+§4			dark2240
+§4			Demolaser
+§4			Devildog68
+§4			Doraj_TV
+§4			DoraMemo
+§4			Dr_BoBy_
+§4			Dr_Tissue
+§4			DRK
+§4			DungeonOrb
+§4			Eclipse2212
+§4			Enric_THD
+§4			Erisium_GUpot
+§4			Ethan_212
+§4			exebill
+§4			Foudre_Gaming
+§4			Freddy3103
+§4			Froozie
+§4			Fyroeo
+§4			Gliitchii
+§4			Grehen1er
+§4			grievous_lady
+§4			Grimmjoow
+§4			Guigui33121
+§4			Hardel
+§4			Hykai
+§4			ichratale
+§4			Keep_Froulard
+§4			Killerz
+§4			Kirhy
+§4			Kyscen_
+§4			Laraukin
+§4			LeGamerFouDuNet
+§4			LegendofRom
+§4			lolzgamer
+§4			Lord49
+§4			Manchot999
+§4			MbastStn
+§4			McSoupape
+§4			Mereci
+§4			Minospvp
+§4			Mister_Royal
+§4			MisterCraftProds
+§4			Mistmemo
+§4			Mr_Strumff
+§4			MrGrosSac
+§4			NarraMorez
+§4			Naviwest
+§4			Nouille2Nouille
+§4			OnlineMalfoy
+§4			OrcaQueen
+§4			Ozhael
+§4			PengoPlays
+§4			PhyllaLiya
+§4			Pimpry
+§4			PumpKingFr
+§4			PumpQueenFr
+§4			Quentinoe66
+§4			Rayvon_Tenshi
+§4			Renescence
+§4			RestlessReaper
+§4			Rox777
+§4			Sabercraft
+§4			saintsword001
+§4			SalleAMeches
+§4			Samrosco
+§4			Sentxki
+§4			Shasta59280
+§4			Sheenken
+§4			sk8r9er
+§4			Skywear
+§4			SkyWolf_07
+§4			Slapilou
+§4			SliimyPizza
+§4			smeetsh
+§4			soyomogi
+§4			Spikol
+§4			Stenoxx
+§4			Stoein
+§4			Stolphegel
+§4			SuperFatFat
+§4			Tetsuyaaaa
+§4			the_gameur_08
+§4			thebigboy78
+§4			TheMun
+§4			ticket02
+§4			Timslort
+§4			TiTi_63
+§4			Toyuke_Umikaze
+§4			Trestet
+§4			Ve_Ga
+§4			Vesking
+§4			Voltaz
+§4			VzFusIIon
+§4			watermelonistnt
+§4			WorstHunder
+§4			Youlo
+§4			Zcinez
+§4			Zeeclair
+
+§7Thanks for your support:
+§4			Akemi Madoka
+§4			Alexis Saint Pierre
+§4			Amine Lamnaouar
+§4			Antonin-116
+§4			applebearsnowman
+§4			Baker D'Arcy
+§4			Clément Yucel
+§4			Dartmael
+§4			Florian
+§4			Galaxitique
+§4			Jean-Charles Soulabail
+§4			Kévin Matthys
+§4			Laurent Doyen
+§4			Léo Dimajo
+§4			Ludovic Felder
+§4			Mickael Franki
+§4			Mr Ther
+§4			MrPhnix
+§4			NarraMorez
+§4			Naudet Adrien
+§4			Neith
+§4			Philip Tripol
+§4			poutcheik
+§4			PumpKingFr
+§4			Rémi Pélorjas
+§4			Sabercraft
+§4			Samuel Warner
+§4			Shadowstrike114
+§4			Starboom
+§4			Stéphane Hassdenteufel
+§4			Superblob
+§4			Sylvain Det
+§4			Thomas Bousseau
+§4			Tianqi Huang
+§4			Tiffanie Myers
+§4			Titouan Degieux
+§4			Tuttep Tanwattanakul
+§4			Vincent Colinart
+§4			Wenjia Dai
+§4			Xavier Vogel
+§4			yellowlemonman
+§4			Orian34
+
+French voices :
+§4			CraniumFull
+§4			eleaflora
+§4			emmy4034
+§4			eorex
+§4			evoli0914
+§4			fireblast59
+§4			hans_clp
+§4			Hayley
+§4			HB VF
+§4			kazuto6940
+§4			lavisdedany
+§4			leiveystva
+§4			lifeen13
+§4			Maifrox
+§4			maj_1560
+§4			Marin.
+§4			matthew-vanston
+§4			maxwell8
+§4			Mewna
+§4			modjo218
+§4			Piccomaster
+§4			Ravenika
+§4			shadowempty
+§4			sorren__
+§4			teamoniaque
+§4			Vénaïs

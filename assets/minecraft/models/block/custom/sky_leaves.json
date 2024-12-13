@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+		"particle": "block/custom/sky_leaves_side",
+        "down": "block/custom/sky_leaves_bottom",
+        "up": "block/custom/sky_leaves_top",
+        "north": "block/custom/sky_leaves_side",
+        "east": "block/custom/sky_leaves_side",
+        "south": "block/custom/sky_leaves_side",
+        "west": "block/custom/sky_leaves_side"
+    }
+}

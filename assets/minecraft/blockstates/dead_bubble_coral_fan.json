@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/emerald/emerald_1" },
+			{ "model": "block/custom/emerald/emerald_1", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_1", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_1", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_2" },
+			{ "model": "block/custom/emerald/emerald_2", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_2", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_2", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_3" },
+			{ "model": "block/custom/emerald/emerald_3", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_3", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_3", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_2" },
+			{ "model": "block/custom/emerald/emerald_2", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_2", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_2", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_3" },
+			{ "model": "block/custom/emerald/emerald_3", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_3", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_3", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_2" },
+			{ "model": "block/custom/emerald/emerald_2", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_2", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_2", "y": -90 },
+			{ "model": "block/custom/emerald/emerald_3" },
+			{ "model": "block/custom/emerald/emerald_3", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_3", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_3", "y": -90 }
+		]
+    }
+}

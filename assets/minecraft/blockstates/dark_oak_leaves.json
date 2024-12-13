@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/custom/nether_leaves" },
+            { "model": "block/custom/nether_leaves_mirrored" },
+            { "model": "block/custom/nether_leaves", "y": 180 },
+            { "model": "block/custom/nether_leaves_mirrored", "y": 180 }
+        ]
+    }
+}

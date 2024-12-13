@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [ 
+			{ "model": "block/custom/cracked_sky_brick_1" },
+			{ "model": "block/custom/cracked_sky_brick_2" }
+		]
+    }
+}

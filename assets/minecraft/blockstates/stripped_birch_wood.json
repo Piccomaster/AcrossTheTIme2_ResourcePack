@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "block/custom/light_on_nothing_2" },
+        "axis=z": { "model": "block/custom/light_on_nothing_2", "x": 90 },
+        "axis=x": { "model": "block/custom/light_on_nothing_2", "x": 90, "y": 90 }
+    }
+}

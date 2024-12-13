@@ -1,0 +1,32 @@
+{
+    "variants": {
+        "facing=east": [
+			{ "model": "block/custom/emerald/emerald_1_side", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 90 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 90 }
+		],
+        "facing=south": [
+			{ "model": "block/custom/emerald/emerald_1_side", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 180 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 180 }
+		],
+        "facing=west": [
+			{ "model": "block/custom/emerald/emerald_1_side", "y": 270 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 270 },
+			{ "model": "block/custom/emerald/emerald_2_side", "y": 270 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 270 },
+			{ "model": "block/custom/emerald/emerald_3_side", "y": 270 }
+		],
+        "facing=north": [
+			{ "model": "block/custom/emerald/emerald_1_side" },
+			{ "model": "block/custom/emerald/emerald_2_side" },
+			{ "model": "block/custom/emerald/emerald_2_side" },
+			{ "model": "block/custom/emerald/emerald_3_side" },
+			{ "model": "block/custom/emerald/emerald_3_side" }
+		]
+    }
+}

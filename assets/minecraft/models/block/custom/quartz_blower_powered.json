@@ -1,0 +1,6 @@
+{
+    "parent": "block/custom/quartz_blower",
+    "textures": {
+        "front": "block/custom/quartz_blower_front_lit"
+    }
+}

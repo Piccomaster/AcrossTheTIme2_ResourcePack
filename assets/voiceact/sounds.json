@@ -1,0 +1,4728 @@
+{
+    "ithil1": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil2": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil2", 
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil3": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil4": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil5": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil6": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ithil_dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/ithil/ithil.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gaya1": {
+        "sounds": [
+                {
+            "name": "voice/gaya/gaya1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gaya2": {
+        "sounds": [
+                {
+            "name": "voice/gaya/gaya2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gaya3": {
+        "sounds": [
+                {
+            "name": "voice/gaya/gaya3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gaya4": {
+        "sounds": [
+                {
+            "name": "voice/gaya/gaya4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gaya5": {
+        "sounds": [
+                {
+            "name": "voice/gaya/gaya5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj1": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj2": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj3": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj4": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj5": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "raj_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/raj/raj.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "estelle1": {
+        "sounds": [
+                {
+            "name": "voice/estelle/estelle1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "estelle_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/estelle/estelle.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran1": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran2": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran3": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran4": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran5": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran6": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran7": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran8": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran9": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran10": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran11": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran12": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran13": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran14": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran15": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran16": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran17": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran18": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran19": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran20": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran21": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran22": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran23": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran24": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran25": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran26": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran27": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran27",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran28": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran28",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran29": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran29",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran30": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran30",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran31": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran31",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran32": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran32",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran33": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran33",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran34": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran35": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran35",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran36": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran36",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran37": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran37",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran38": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran38",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran39": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran39",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aoran40": {
+        "sounds": [
+                {
+            "name": "voice/aoran/aoran40",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin1": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin2": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin3": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin4": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin5": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin6": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin7": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin8": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin9": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin10": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin11": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin12": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin13": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin14": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin15": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin16": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin17": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin18": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin19": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin20": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin21": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin22": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin23": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin24": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin25": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin26": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin27": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin27",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin28": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin28",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin29": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin29",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin30": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin30",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin31": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin31",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin32": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin32",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin33": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin33",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon1": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon2": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon3": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon4": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon5": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon6": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon7": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon8": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon9": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon10": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon11": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gonon.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/gonon/gonon.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas1": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas2": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas3": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas4": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas5": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas6": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas7": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas8": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "bob1": {
+        "sounds": [
+                {
+            "name": "voice/bob/bob1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "bob2": {
+        "sounds": [
+                {
+            "name": "voice/bob/bob2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "bob3": {
+        "sounds": [
+                {
+            "name": "voice/bob/bob3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "bob4": {
+        "sounds": [
+                {
+            "name": "voice/bob/bob4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "bob.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/bob/bob.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira1": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira2": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira3": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira4": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira5": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira6": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira7": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira8": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira9": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira10": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira11": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira12": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira13": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira14": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira15": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira16": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira17": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira18": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira19": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira20": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira21": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira22": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira23": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira24": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira25": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira26": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira27": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira27",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira28": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira28",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira29": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira29",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira30": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira30",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira31": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira31",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira32": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira32",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira33": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira33",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira34": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira35": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira35",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira36": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira36",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira37": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira37",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira38": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira38",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira39": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira39",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira40": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira40",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira41": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira41",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira42": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira42",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira43": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira43",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira44": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira44",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira45": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira45",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira46": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira46",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira47": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira47",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon1": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon2": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon3": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon4": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon5": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon6": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon7": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon8": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon9": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon10": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon11": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon12": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon13": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon14": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon15": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon16": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon17": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon18": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon19": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon20": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon21": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon22": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon23": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon24": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon25": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon26": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon27": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon27",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon28": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon28",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon29": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon29",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon30": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon30",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon31": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon31",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon32": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon32",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon33": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon33",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon34": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon35": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon35",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon36": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon36",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon37": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon37",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon38": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon38",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon39": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon39",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon40": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon40",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon41": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon41",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon42": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon42",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon43": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon43",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon44": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon44",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon45": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon45",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon46": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon46",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon47": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon47",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon48": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon48",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon49": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon49",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon50": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon50",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon51": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon51",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon52": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon52",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest1": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest2": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest3": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest4": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest5": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest6": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest7": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest8": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest9": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest10": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest11": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest12": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest13": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest14": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest15": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest16": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest17": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest18": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest19": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest20": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest21": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest22": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest23": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest24": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest25": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin.sidequest26": {
+        "sounds": [
+                {
+            "name": "voice/namrin/sidequest/namrin.sidequest26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean1": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean2": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean3": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean4": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean5": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean6": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean7": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean8": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean9": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean10": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "alrean.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/alrean/alrean.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile1": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile2": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile3": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile4": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile5": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile6": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile7": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile8": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile9": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile10": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile11": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile12": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    }
+    ,
+    "serile13": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile14": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile15": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile16": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile17": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile18": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile19": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile20": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile21": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile22": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile23": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile24": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile25": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile25",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile26": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile26",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile27": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile27",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile28": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile28",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile29": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile29",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile30": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile30",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile31": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile31",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile32": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile32",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile33": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile33",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile34": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile35": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile35",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile36": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile36",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile37": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile37",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile38": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile38",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile39": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile39",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile40": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile40",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile41": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile41",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile42": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile42",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile43": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile43",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile44": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile44",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile45": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile45",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile46": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile46",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile47": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile47",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile48": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile48",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile49": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile49",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile50": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile50",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile51": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile51",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile52": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile52",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile53": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile53",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile54": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile54",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile55": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile55",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile56": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile56",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile57": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile57",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile58": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile58",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile59": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile59",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile60": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile60",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile61": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile61",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile62": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile62",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile63": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile63",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile64": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile64",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile65": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile65",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "serile.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/serile/serile.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine1": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine2": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine3": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine4": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine5": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine6": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine7": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine8": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine9": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine10": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine.dialogue3": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine.dialogue3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine.dialogue4": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine.dialogue4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "capitaine.dialogue5": {
+        "sounds": [
+                {
+            "name": "voice/capitaine/capitaine.dialogue5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "iio1": {
+        "sounds": [
+                {
+            "name": "voice/iio/iio1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "iio2": {
+        "sounds": [
+                {
+            "name": "voice/iio/iio2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "iio3": {
+        "sounds": [
+                {
+            "name": "voice/iio/iio3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "iio4": {
+        "sounds": [
+                {
+            "name": "voice/iio/iio4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "iio5": {
+        "sounds": [
+                {
+            "name": "voice/iio/iio5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra1": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra2": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra3": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra4": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra5": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra6": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "indra.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/indra/indra.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri1": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri2": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri3": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri4": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri5": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri6": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri.dialogue3": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri.dialogue3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri.dialogue4": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri.dialogue4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "syri.dialogue5": {
+        "sounds": [
+                {
+            "name": "voice/syri/syri.dialogue5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon1": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon2": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon3": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon4": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon5": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon6": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon7": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon8": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon9": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon10": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon11": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon12": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon13": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "skaolon.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/skaolon/skaolon.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel1": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel2": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel3": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel4": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel5": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "azazel6": {
+        "sounds": [
+                {
+            "name": "voice/azazel/azazel6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias1": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias2": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias3": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias4": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias5": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias6": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias7": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "trias8": {
+        "sounds": [
+                {
+            "name": "voice/trias/trias8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius1": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius2": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius3": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius4": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius5": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius6": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius7": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius8": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius9": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius10": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius11": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius12": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius13": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius14": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius15": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "phoebius16": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "clement1": {
+        "sounds": [
+                {
+            "name": "voice/clement/clement1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "clement2": {
+        "sounds": [
+                {
+            "name": "voice/clement/clement2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "clement3": {
+        "sounds": [
+                {
+            "name": "voice/clement/clement3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "clement.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/clement/clement.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "clement.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/clement/clement.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian1": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian2": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian3": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian4": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian5": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre1": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre2": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre3": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre4": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre5": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre6": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre7": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre8": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre9": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre10": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre11": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre12": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre13": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre14": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre15": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre16": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre17": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre17",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre18": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre18",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre19": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre19",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre20": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre20",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre21": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre21",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre22": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre22",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre23": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre23",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "sylvandre24": {
+        "sounds": [
+                {
+            "name": "voice/sylvandre/sylvandre24",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "eldaris1": {
+        "sounds": [
+                {
+            "name": "voice/eldaris/eldaris1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "eldaris2": {
+        "sounds": [
+                {
+            "name": "voice/eldaris/eldaris2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "eldaris3": {
+        "sounds": [
+                {
+            "name": "voice/eldaris/eldaris3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "eldaris4": {
+        "sounds": [
+                {
+            "name": "voice/eldaris/eldaris4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov1": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov2": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov3": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov4": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov5": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov6": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov7": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth1": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth2": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth3": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth4": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth5": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "wirth6": {
+        "sounds": [
+                {
+            "name": "voice/wirth/wirth6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "truant1": {
+        "sounds": [
+                {
+            "name": "voice/truant/truant1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "police1": {
+        "sounds": [
+                {
+            "name": "voice/police/police1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "police2": {
+        "sounds": [
+                {
+            "name": "voice/police/police2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brutus1": {
+        "sounds": [
+                {
+            "name": "voice/brutus/brutus1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brutus2": {
+        "sounds": [
+                {
+            "name": "voice/brutus/brutus2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brutus3": {
+        "sounds": [
+                {
+            "name": "voice/brutus/brutus3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brutus4": {
+        "sounds": [
+                {
+            "name": "voice/brutus/brutus4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brutus5": {
+        "sounds": [
+                {
+            "name": "voice/brutus/brutus5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon.dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon.dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon.dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon.dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis1": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis2": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis3": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis4": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis5": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis6": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis7": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis8": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis9": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis10": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis11": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis12": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ricoru1": {
+        "sounds": [
+                {
+            "name": "voice/ricoru/ricoru1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem1": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem2": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem3": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem4": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem5": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem6": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem7": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "golem8": {
+        "sounds": [
+                {
+            "name": "voice/golem/golem8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yuni1": {
+        "sounds": [
+                {
+            "name": "voice/yuni/yuni1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard1": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard2": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard3": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard4": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard5": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard6": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard6",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard7": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard7",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard8": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard8",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard9": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard10": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard11": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard11",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard12": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard13": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard13",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard14": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard14",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "guard15": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard15",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "automate1": {
+        "sounds": [
+                {
+            "name": "voice/automate/automate1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "karon1": {
+        "sounds": [
+                {
+            "name": "voice/karon/karon1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "karon2": {
+        "sounds": [
+                {
+            "name": "voice/karon/karon2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "gerard1": {
+        "sounds": [
+                {
+            "name": "voice/gerard/gerard1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "mortal1": {
+        "sounds": [
+                {
+            "name": "voice/mortal/mortal1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "barbar1": {
+        "sounds": [
+                {
+            "name": "voice/barbar/barbar1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "barbar2": {
+        "sounds": [
+                {
+            "name": "voice/barbar/barbar2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ragnar1": {
+        "sounds": [
+                {
+            "name": "voice/ragnar/ragnar1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ragnar2": {
+        "sounds": [
+                {
+            "name": "voice/ragnar/ragnar2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ragnar3": {
+        "sounds": [
+                {
+            "name": "voice/ragnar/ragnar3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ragnar4": {
+        "sounds": [
+                {
+            "name": "voice/ragnar/ragnar4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "ragnar5": {
+        "sounds": [
+                {
+            "name": "voice/ragnar/ragnar5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin34": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas9": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas9",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "lucas10": {
+        "sounds": [
+                {
+            "name": "voice/lucas/lucas10",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brynhild1": {
+        "sounds": [
+                {
+            "name": "voice/brynhild/brynhild1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brynhild2": {
+        "sounds": [
+                {
+            "name": "voice/brynhild/brynhild2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brynhild3": {
+        "sounds": [
+                {
+            "name": "voice/brynhild/brynhild3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brynhild4": {
+        "sounds": [
+                {
+            "name": "voice/brynhild/brynhild4",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "brynhild5": {
+        "sounds": [
+                {
+            "name": "voice/brynhild/brynhild5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,51 @@
+{
+	"comment": "Made by adventquest",
+	"textures": {
+		"0": "item/custom/interfacer/barrel",
+		"particle": "item/custom/interfacer/barrel"
+	},
+	"elements": [
+		{
+			"name": "tail",
+			"from": [5.75, 7.75, 7.5],
+			"to": [11.75, 9.0, 9.5],
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 1, 0.5], "texture": "#missing"},
+				"south": {"uv": [7.5, 2, 12, 2.5], "texture": "#0"},
+				"west": {"uv": [13.25, 1.25, 14.25, 1.75], "texture": "#0"},
+				"up": {"uv": [6.5, 0, 11, 1], "texture": "#0"},
+				"down": {"uv": [6.5, 0, 11, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "head",
+			"from": [9.65, 7.7, 7.4],
+			"to": [11.85, 9.1, 9.6],
+			"faces": {
+				"north": {"uv": [5, 0.75, 6.2, 1.35], "texture": "#0"},
+				"east": {"uv": [3, 0.75, 4.2, 1.35], "texture": "#0"},
+				"south": {"uv": [12.75, 0.75, 13.95, 1.35], "texture": "#0"},
+				"west": {"uv": [0, 1.5, 1.2, 2.1], "texture": "#0"},
+				"up": {"uv": [0, 0, 1.2, 1.2], "texture": "#0"},
+				"down": {"uv": [0, 1.25, 1.2, 2.45], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 90]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -90]
+		},
+		"firstperson_righthand": {
+			"rotation": [-33, 0, 109],
+			"translation": [0, 1, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-29, 0, -81],
+			"translation": [0, 1, 0]
+		}
+	}
+}

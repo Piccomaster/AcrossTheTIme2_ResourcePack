@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/disordered_sheet" },
+            { "model": "block/custom/disordered_sheet", "y": 90 },
+            { "model": "block/custom/disordered_sheet", "y": -90 },
+            { "model": "block/custom/disordered_sheet", "y": 180 }
+		]
+    }
+}

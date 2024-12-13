@@ -1,0 +1,98 @@
+{
+    "parent": "block/block",
+    "ambientocclusion": false,
+    "textures": {
+        "particle": "#torch"
+    },
+    "elements": [
+        {   "__comment":"torch ",
+			"from": [ -1, 3.5, 7 ],
+            "to": [ 1, 12.5, 9 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "down": { "uv": [ 7, 13, 9, 15 ], "texture": "#end" },
+                "up":   { "uv": [ 7, 6, 9, 8 ], "texture": "#end" },
+				"north":{ "uv": [ 0, 7, 2, 16 ], "texture": "#torch" },
+                "south":{ "uv": [ 0, 7, 2, 16 ], "texture": "#torch" },
+				"west": { "uv": [ 0, 7, 2, 16 ], "texture": "#torch" },
+                "east": { "uv": [ 0, 7, 2, 16 ], "texture": "#torch" }
+            }
+        },
+		{   "__comment":"Pic",
+			"from": [ -0.5, 2, 7.5 ],
+            "to": [ 0.5, 3.5, 8.5 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "up": 	{ "uv": [ 7, 13, 9, 15 ], "texture": "#end" },
+				"north":{ "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+                "south":{ "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+				"west": { "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+                "east": { "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" }
+            }
+        },
+		{   "__comment":"Holder",
+			"from": [ -0.5, 11, 7.5 ],
+            "to": [ 3.5, 12, 8.5 ],
+            "shade": false,
+            "faces": {
+                "up": 	{ "uv": [ 7, 13, 11, 14 ], "texture": "#end" },
+                "down": { "uv": [ 7, 13, 11, 14 ], "texture": "#end" },
+				"north":{ "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+                "south":{ "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+				"west": { "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" },
+                "east": { "uv": [ 15, 14.5, 16, 16 ], "texture": "#end" }
+            }
+        },
+		{   "__comment":"Grid outside",
+			"from": [ -1.5, 12, 6.5 ],
+            "to": [ 1.5, 14.5, 9.5 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "up": 	{ "uv": [ 3.5, 0, 6.5, 3 ], "texture": "#torch" },
+                "down": { "uv": [ 7, 0, 10, 3 ], "texture": "#torch" },
+				"north":{ "uv": [ 0, 0, 3, 2.5 ], "texture": "#torch" },
+                "south":{ "uv": [ 0, 0, 3, 2.5 ], "texture": "#torch" },
+				"west": { "uv": [ 0, 0, 3, 2.5 ], "texture": "#torch" },
+                "east": { "uv": [ 0, 0, 3, 2.5 ], "texture": "#torch" }
+            }
+        },
+		{   "__comment":"Grid bottom",
+			"from": [ -1.5, 12, 6.5 ],
+            "to": [ 1.5, 12.5, 9.5 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "up": { "uv": [ 7, 0, 10, 3 ], "texture": "#torch" }
+            }
+        },
+		{   "__comment":"Flame",
+			"from": [ -1, 12.5, 7 ],
+            "to": [ 1, 14.5, 9 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "up": 	{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#flame" },
+				"north":{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#flame" },
+                "south":{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#flame" },
+				"west": { "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#flame" },
+                "east": { "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#flame" }
+            }
+        },
+		{   "__comment":"Flame inner",
+			"from": [ -0.9, 12.5, 7.1 ],
+            "to": [ 0.9, 14.4, 8.9 ],
+			"rotation": { "origin": [ 0, 3.5, 8 ], "axis": "z", "angle": -22.5 },
+            "shade": false,
+            "faces": {
+                "up": 	{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#inner" },
+				"north":{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#inner" },
+                "south":{ "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#inner" },
+				"west": { "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#inner" },
+                "east": { "uv": [ 4, 3.5, 5.5, 5 ], "texture": "#inner" }
+            }
+        }
+    ]
+}

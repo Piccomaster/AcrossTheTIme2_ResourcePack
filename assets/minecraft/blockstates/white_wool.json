@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/sheet_white" },
+			{ "model": "block/custom/sheet_white" },
+			{ "model": "block/custom/sheet_white" },
+			{ "model": "block/custom/sheet_white" },
+			{ "model": "block/custom/sheet_white" },
+			{ "model": "block/custom/sheet_white_fold" }
+		]
+    }
+}

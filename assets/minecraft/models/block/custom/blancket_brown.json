@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/custom/blancket_brown_top",
+        "down": "block/custom/blancket_brown_top",
+        "up": "block/custom/blancket_brown_top",
+        "north": "block/custom/blancket_brown_side1",
+        "south": "block/custom/blancket_brown_side2",
+        "east": "block/custom/blancket_brown_side2",
+        "west": "block/custom/blancket_brown_side1"
+    }
+}

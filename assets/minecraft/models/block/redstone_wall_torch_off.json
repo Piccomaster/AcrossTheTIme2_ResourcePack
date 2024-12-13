@@ -1,0 +1,10 @@
+{
+    "parent": "block/torch_wall",
+    "textures": {
+        "torch": "block/torch",
+        "handle": "block/torch",
+        "end": "block/iron_block",
+		"flame": "block/custom/void",
+		"inner": "block/coal_block"
+    }
+}

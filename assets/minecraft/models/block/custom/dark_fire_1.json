@@ -1,0 +1,8 @@
+{
+    "parent": "block/custom/fire_dark",
+    "textures": {
+        "particle": "block/custom/dark_fire",
+        "fire": "block/custom/dark_fire",
+		"fire2": "block/custom/dark_fire_2"
+    }
+}

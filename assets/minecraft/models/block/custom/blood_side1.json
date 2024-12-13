@@ -1,0 +1,6 @@
+{
+    "parent": "block/custom/blood_side",
+    "textures": {
+        "line": "block/custom/blood_line1"
+    }
+}

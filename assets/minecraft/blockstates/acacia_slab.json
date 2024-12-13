@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "type=bottom": { "model": "block/custom/futuristic_slab" },
+        "type=top": { "model": "block/custom/futuristic_slab_top" },
+        "type=double": { "model": "block/custom/futuristic_block" }
+    }
+}

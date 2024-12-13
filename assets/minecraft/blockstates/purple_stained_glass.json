@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            {"model": "block/custom/dark_fire_1"},
+			{"model": "block/custom/dark_fire_1", "y": 180},
+			{"model": "block/custom/dark_fire_2"},
+			{"model": "block/custom/dark_fire_2", "y": 180}
+        ]
+    }
+}

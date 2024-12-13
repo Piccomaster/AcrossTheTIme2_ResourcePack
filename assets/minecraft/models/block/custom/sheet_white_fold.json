@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/custom/sheet_top_fold",
+        "side": "block/custom/sheet_side"
+    }
+}

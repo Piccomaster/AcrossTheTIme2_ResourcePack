@@ -1,0 +1,20 @@
+{
+	"__comment":"Made by Adventquest. ",
+	"parent": "block/block",
+    "textures": {
+		"particle": "block/custom/grid",
+        "grid": "block/custom/grid"
+    },
+	"elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 0.5, 16 ],
+            "faces": {
+                "up":    { "uv": [ 0,  0, 16, 16 ], "texture": "#grid" },
+                "north": { "uv": [ 0, 0, 16, 1 ], "texture": "#grid", "cullface": "north", "tintindex":0 },
+                "south": { "uv": [ 0, 0, 16, 1 ], "texture": "#grid", "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 1 ], "texture": "#grid", "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 1 ], "texture": "#grid", "cullface": "east" }
+            }
+        }
+    ]
+}

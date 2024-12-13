@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/black_wool",
+        "down": "block/black_wool",
+        "up": "block/custom/gradient_vertical_2",
+        "north": "block/custom/gradient_diagonal_2",
+        "east": "block/black_wool",
+        "south": "block/custom/gradient_diagonal_0",
+        "west": "block/custom/gradient_vertical_1"
+    }
+}

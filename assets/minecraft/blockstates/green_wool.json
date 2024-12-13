@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/blancket_green" },
+			{ "model": "block/custom/blancket_green_fold" }
+		]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "parent": "item/bow",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ -85, 185, 0 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 1.4, 1.4, 1.4 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -85, 185, 0 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 1.4, 1.4, 1.4 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -55, 0, 10 ],
+            "translation": [ -4.13, 2.2, 2.0],
+            "scale": [ 1.0, 1.0, 1.0]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -55, 0, 10 ],
+            "translation": [ -4.13, 2.2, 2.0],
+            "scale": [ 1.0, 1.0, 1.0]
+        }
+    },
+    "textures": {
+        "layer0": "item/custom/warbow_pulling_2"
+    }
+}

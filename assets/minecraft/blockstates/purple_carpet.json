@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/spikes_out1" },
+			{ "model": "block/custom/spikes_out2" },
+			{ "model": "block/custom/spikes_out3" },
+			{ "model": "block/custom/spikes_out4" }
+		]
+    }
+}

@@ -1,0 +1,74 @@
+{
+	"multipart": [
+		{
+			"apply":[
+			{"model": "block/custom/vitrail_commun_post" },
+			{"model": "block/custom/vitrail_rare_post" }
+			]
+		},
+		{
+			"when":
+			{"north": true },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_side" },
+			{"model": "block/custom/vitrail_rare_side" }
+			]
+		},
+		{
+			"when":
+			{"east": true },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_side", "y": 90 },
+			{"model": "block/custom/vitrail_rare_side", "y": 90 }
+			]
+		},
+		{
+			"when":
+			{"south": true },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_side_alt" },
+			{"model": "block/custom/vitrail_rare_side_alt" }
+			]
+		},
+		{
+			"when":
+			{"west": true },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_side_alt", "y": 90 },
+			{"model": "block/custom/vitrail_rare_side_alt", "y": 90 }
+			]
+		},
+		{
+			"when":
+			{"north": false },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_noside"},
+			{"model": "block/custom/vitrail_rare_noside"}
+			]
+		},
+		{
+			"when":
+			{"east": false },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_noside_alt" },
+			{"model": "block/custom/vitrail_rare_noside_alt" }
+			]
+		},
+		{
+			"when":
+			{"south": false },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_noside_alt", "y": 90 },
+			{"model": "block/custom/vitrail_rare_noside_alt", "y": 90 }
+			]
+		},
+		{
+			"when":
+			{"west": false },
+			"apply":[
+			{"model": "block/custom/vitrail_commun_noside", "y": 270	},
+			{"model": "block/custom/vitrail_rare_noside", "y": 270	}
+			]
+		}
+	]
+}

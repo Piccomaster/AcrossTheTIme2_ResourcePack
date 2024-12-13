@@ -1,0 +1,28 @@
+{
+	"parent" : "item/bow",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ -125, 260, -40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -125, -280, 40 ],
+            "translation": [ -1, -2, 2.5 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ -60, -90, 15 ],
+            "translation": [ 1.13, 5.2, 3.0],
+            "scale": [ 1.1, 1.1, 1.1]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ -60, -90, 15 ],
+            "translation": [ 1.13, 5.2, 3.0],
+            "scale": [ 1.1, 1.1, 1.1]
+        }
+    },
+    "textures": {
+        "layer0": "item/custom/immortalbow_standby"
+    }
+}

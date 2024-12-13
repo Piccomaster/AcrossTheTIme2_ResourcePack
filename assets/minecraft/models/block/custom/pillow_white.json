@@ -1,0 +1,8 @@
+{
+    "parent": "block/custom/pillow",
+    "textures": {
+        "particle": "block/custom/pillow_white",
+        "side": "block/custom/pillow_white",
+		"top": "block/custom/pillow_white"
+    }
+}

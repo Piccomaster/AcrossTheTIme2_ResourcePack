@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/sky_stone" },
+			{ "model": "block/custom/sky_stone" },
+			{ "model": "block/custom/sky_stone" },
+			{ "model": "block/custom/sky_stone_2" }
+		]
+    }
+}

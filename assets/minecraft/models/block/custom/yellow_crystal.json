@@ -1,0 +1,12 @@
+{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "block/custom/yellow_crystal_side",
+        "down": "block/custom/yellow_crystal_top",
+        "up": "block/custom/yellow_crystal_top",
+        "north": "block/custom/yellow_crystal_side_mirrored",
+        "east": "block/custom/yellow_crystal_side",
+        "south": "block/custom/yellow_crystal_side_mirrored",
+        "west": "block/custom/yellow_crystal_side"
+    }
+}

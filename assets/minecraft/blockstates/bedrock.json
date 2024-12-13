@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/custom/marble" },
+            { "model": "block/custom/marble_mirrored" },
+            { "model": "block/custom/marble", "y": 180 },
+            { "model": "block/custom/marble_mirrored", "y": 180 }
+        ]
+    }
+}

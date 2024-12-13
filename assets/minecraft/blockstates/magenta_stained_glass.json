@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/custom/cloud1" },
+            { "model": "block/custom/cloud1_mirrored" },
+			{ "model": "block/custom/cloud2" },
+            { "model": "block/custom/cloud2_mirrored" },
+			{ "model": "block/custom/cloud3" },
+            { "model": "block/custom/cloud3_mirrored" }
+		]
+    }
+}

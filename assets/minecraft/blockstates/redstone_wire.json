@@ -1,0 +1,76 @@
+{
+    "multipart": [
+        {   "when": { "OR": [
+                {"north": "none", "east": "none", "south": "none", "west": "none"},
+                {"north": "side|up", "east": "side|up" },
+                {"east": "side|up", "south": "side|up" },
+                {"south": "side|up", "west": "side|up"},
+                {"west": "side|up", "north": "side|up"}
+            ]},
+            "apply": [
+				{ "model": "block/custom/blood_dot0" },
+				{ "model": "block/custom/blood_dot1" }
+			]
+        },
+        {   "when": { "OR": [
+                { "north": "side|up" },
+                { "north": "none", "east": "none", "south": "side|up", "west": "none" }
+            ]},
+            "apply": [
+				{ "model": "block/custom/blood_side0" },
+				{ "model": "block/custom/blood_side2" }
+			]
+        },
+        {   "when": { "OR": [
+                { "south": "side|up" },
+                { "north": "side|up", "east": "none", "south": "none", "west": "none" }
+            ]},
+            "apply": [
+				{ "model": "block/custom/blood_side_alt0" },
+				{ "model": "block/custom/blood_side_alt2" }
+			]
+        },
+        {   "when": { "OR": [
+                { "east": "side|up" },
+                { "north": "none", "east": "none", "south": "none", "west": "side|up" }
+            ]},
+            "apply": [
+				{ "model": "block/custom/blood_side_alt1", "y": 270 },
+				{ "model": "block/custom/blood_side_alt3", "y": 270 }
+			]
+        },
+        {   "when": { "OR": [
+                { "west": "side|up" },
+                { "north": "none", "east": "side|up", "south": "none", "west": "none" }
+            ]},
+            "apply": [
+				{ "model": "block/custom/blood_side1", "y": 270 },
+				{ "model": "block/custom/blood_side3", "y": 270 }
+			]
+        },
+        {   "when": { "north": "up" },
+            "apply": [
+				{ "model": "block/custom/blood_up0" },
+				{ "model": "block/custom/blood_up1" }
+			]
+        },
+        {   "when": { "east": "up" },
+            "apply": [
+				{ "model": "block/custom/blood_up0", "y": 90 },
+				{ "model": "block/custom/blood_up1", "y": 90 }
+			]
+        },
+        {   "when": { "south": "up" },
+            "apply": [
+				{ "model": "block/custom/blood_up0", "y": 180 },
+				{ "model": "block/custom/blood_up1", "y": 180 }
+			]
+        },
+        {   "when": { "west": "up" },
+            "apply": [
+				{ "model": "block/custom/blood_up0", "y": 270 },
+				{ "model": "block/custom/blood_up1", "y": 270 }
+			]
+        }
+    ]
+}

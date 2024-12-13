@@ -1,0 +1,7 @@
+{
+    "parent": "block/custom/sheet_white",
+    "textures": {
+        "end": "block/custom/blancket_green_top",
+        "side": "block/custom/blancket_green_side"
+    }
+}

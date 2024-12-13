@@ -1,0 +1,22 @@
+{
+"textures": {
+    "particle": "gui/advancements/tutorial/consciousness_eng",
+    "texture": "gui/advancements/tutorial/consciousness_eng"
+    },
+    "elements": [
+    {
+        "from": [ -16, -16, 4 ],
+        "to": [ 32, 32, 4.0625 ],
+        "faces": {
+            "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+        }
+    }
+    ],
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 48, -81, 0 ],
+            "scale": [ 4, 4, 4 ]
+        }
+    }
+}

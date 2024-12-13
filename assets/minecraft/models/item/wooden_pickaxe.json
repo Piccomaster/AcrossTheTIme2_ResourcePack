@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+	"display": {
+		"ground": {
+        "rotation": [ 0, 0, 0 ],
+        "translation": [ 0, 1, 0 ],
+        "scale": [ 0.75, 0.75, 0.75 ]
+		}
+	},
+    "textures": {
+        "layer0": "item/wooden_pickaxe"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld",
+	"display": {
+        "thirdperson_righthand": {
+            "rotation": [ -90, 265, -80 ],
+            "translation": [ -1, 7, 0.5 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ -90, -280, 80 ],
+            "translation": [ -1, 7, 0.5 ],
+            "scale": [ 1.7, 1.7, 1.7 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 45, -90, 25 ],
+            "translation": [ -0.13, 4.2, 1.0],
+            "scale": [ 1.2, 1.2, 1.2]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 45, -90, 25 ],
+            "translation": [-0.13, 4.2, 1.0],
+            "scale": [ 1.2, 1.2, 1.2]
+        },
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 1.4, 1.4, 1.4 ]
+		}
+    },
+    "textures": {
+        "layer0": "item/custom/blood_eater"
+    }
+}

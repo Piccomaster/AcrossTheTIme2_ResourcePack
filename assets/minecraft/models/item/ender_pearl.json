@@ -1,0 +1,17 @@
+{
+    "__comment": "Designed by Adventquest",
+    "textures": {
+        "particle": "item/custom/black_hole",
+        "texture": "item/custom/black_hole"
+    },
+    "elements": [ 
+    {
+        "from": [ -16, -16, 8 ],
+        "to": [ 32, 32, 8 ],
+        "faces": {
+            "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" },
+            "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+        }
+    }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/custom/bookshelf_bottom",
+        "side": "block/custom/bookshelf2"
+    }
+
+}

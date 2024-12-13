@@ -1,0 +1,25 @@
+{
+    "parent": "block/block",
+    "textures": {
+		"front": "block/custom/quartz_blower_front",
+        "back": "block/custom/quartz_blower_back",
+        "side": "block/custom/quartz_blower_side",
+        "sidem": "block/custom/quartz_blower_side_mirrored",
+        "sider": "block/custom/quartz_blower_side_rotated",
+        "siderm": "block/custom/quartz_blower_side_rotated_mirrored",
+        "particle": "block/custom/quartz_blower_back"
+    },
+    "elements": [
+        {   "from": [ 0, 0, 0 ],
+            "to": [ 16, 16, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#siderm", "cullface": "down" },
+                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#sider", "cullface": "up" },
+                "north": { "uv": [ 0, 0, 16, 16 ], "texture": "#back", "cullface": "north" },
+                "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#front", "cullface": "south" },
+                "west":  { "uv": [ 0, 0, 16, 16 ], "texture": "#side", "cullface": "west" },
+                "east":  { "uv": [ 0, 0, 16, 16 ], "texture": "#sidem", "cullface": "east" }
+            }
+        }
+    ]
+}
