@@ -11,7 +11,7 @@
     "ithil2": {
         "sounds": [
                 {
-            "name": "voice/ithil/ithil2", 
+            "name": "voice/ithil/ithil2",
             "stream": true,
             "preload": true
             }
@@ -56,7 +56,7 @@
     "ithil_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/ithil/ithil.dialogue1",
+            "name": "voice/ithil/ithil_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -65,7 +65,7 @@
     "ithil_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/ithil/ithil.dialogue2",
+            "name": "voice/ithil/ithil_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -164,7 +164,7 @@
     "raj_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/raj/raj.dialogue1",
+            "name": "voice/raj/raj_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -182,7 +182,7 @@
     "estelle_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/estelle/estelle.dialogue1",
+            "name": "voice/estelle/estelle_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -845,6 +845,42 @@
             }
         ]
     },
+    "namrin34": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin34",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin_dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin_dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin_dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "namrin_dialogue3": {
+        "sounds": [
+                {
+            "name": "voice/namrin/namrin_dialogue3",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
     "gonon1": {
         "sounds": [
                 {
@@ -944,19 +980,19 @@
             }
         ]
     },
-    "gonon.dialogue1": {
+    "gonon_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/gonon/gonon.dialogue1",
+            "name": "voice/gonon/gonon_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "gonon.dialogue2": {
+    "gonon_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/gonon/gonon.dialogue2",
+            "name": "voice/gonon/gonon_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -1034,10 +1070,10 @@
             }
         ]
     },
-    "lucas.dialogue1": {
+    "lucas_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/lucas/lucas.dialogue1",
+            "name": "voice/lucas/lucas_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -1079,10 +1115,10 @@
             }
         ]
     },
-    "bob.dialogue1": {
+    "bob_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/bob/bob.dialogue1",
+            "name": "voice/bob/bob_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -1506,6 +1542,123 @@
         "sounds": [
                 {
             "name": "voice/etotsira/etotsira47",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira48": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira48",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira49": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira49",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira50": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira50",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira51": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira51",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira52": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira52",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira53": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira53",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira54": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira54",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira55": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira55",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira56": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira56",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira57": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira57",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira58": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira58",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira59": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira59",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "etotsira60": {
+        "sounds": [
+                {
+            "name": "voice/etotsira/etotsira60",
             "stream": true,
             "preload": true
             }
@@ -1979,235 +2132,226 @@
             }
         ]
     },
-    "namrin.sidequest1": {
+    "namrin_sidequest1": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest1",
+            "name": "voice/namrin/sidequest/namrin_sidequest1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest2": {
+    "namrin_sidequest2": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest2",
+            "name": "voice/namrin/sidequest/namrin_sidequest2",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest3": {
+    "namrin_sidequest3": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest3",
+            "name": "voice/namrin/sidequest/namrin_sidequest3",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest4": {
+    "namrin_sidequest4": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest4",
+            "name": "voice/namrin/sidequest/namrin_sidequest4",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest5": {
+    "namrin_sidequest6": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest5",
+            "name": "voice/namrin/sidequest/namrin_sidequest6",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest6": {
+    "namrin_sidequest7": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest6",
+            "name": "voice/namrin/sidequest/namrin_sidequest7",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest7": {
+    "namrin_sidequest8": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest7",
+            "name": "voice/namrin/sidequest/namrin_sidequest8",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest8": {
+    "namrin_sidequest9": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest8",
+            "name": "voice/namrin/sidequest/namrin_sidequest9",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest9": {
+    "namrin_sidequest10": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest9",
+            "name": "voice/namrin/sidequest/namrin_sidequest10",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest10": {
+    "namrin_sidequest11": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest10",
+            "name": "voice/namrin/sidequest/namrin_sidequest11",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest11": {
+    "namrin_sidequest12": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest11",
+            "name": "voice/namrin/sidequest/namrin_sidequest12",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest12": {
+    "namrin_sidequest13": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest12",
+            "name": "voice/namrin/sidequest/namrin_sidequest13",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest13": {
+    "namrin_sidequest14": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest13",
+            "name": "voice/namrin/sidequest/namrin_sidequest14",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest14": {
+    "namrin_sidequest15": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest14",
+            "name": "voice/namrin/sidequest/namrin_sidequest15",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest15": {
+    "namrin_sidequest16": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest15",
+            "name": "voice/namrin/sidequest/namrin_sidequest16",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest16": {
+    "namrin_sidequest17": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest16",
+            "name": "voice/namrin/sidequest/namrin_sidequest17",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest17": {
+    "namrin_sidequest18": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest17",
+            "name": "voice/namrin/sidequest/namrin_sidequest18",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest18": {
+    "namrin_sidequest19": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest18",
+            "name": "voice/namrin/sidequest/namrin_sidequest19",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest19": {
+    "namrin_sidequest20": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest19",
+            "name": "voice/namrin/sidequest/namrin_sidequest20",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest20": {
+    "namrin_sidequest21": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest20",
+            "name": "voice/namrin/sidequest/namrin_sidequest21",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest21": {
+    "namrin_sidequest22": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest21",
+            "name": "voice/namrin/sidequest/namrin_sidequest22",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest22": {
+    "namrin_sidequest23": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest22",
+            "name": "voice/namrin/sidequest/namrin_sidequest23",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest23": {
+    "namrin_sidequest24": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest23",
+            "name": "voice/namrin/sidequest/namrin_sidequest24",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest24": {
+    "namrin_sidequest25": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest24",
+            "name": "voice/namrin/sidequest/namrin_sidequest25",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "namrin.sidequest25": {
+    "namrin_sidequest26": {
         "sounds": [
                 {
-            "name": "voice/namrin/sidequest/namrin.sidequest25",
-            "stream": true,
-            "preload": true
-            }
-        ]
-    },
-    "namrin.sidequest26": {
-        "sounds": [
-                {
-            "name": "voice/namrin/sidequest/namrin.sidequest26",
+            "name": "voice/namrin/sidequest/namrin_sidequest26",
             "stream": true,
             "preload": true
             }
@@ -2303,10 +2447,10 @@
             }
         ]
     },
-    "alrean.dialogue1": {
+    "alrean_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/alrean/alrean.dialogue1",
+            "name": "voice/alrean/alrean_dialogue1",
             "stream": true,
             "preload": true
             }
@@ -2898,15 +3042,6 @@
             }
         ]
     },
-    "serile.dialogue1": {
-        "sounds": [
-                {
-            "name": "voice/serile/serile.dialogue1",
-            "stream": true,
-            "preload": true
-            }
-        ]
-    },
     "capitaine1": {
         "sounds": [
                 {
@@ -2997,46 +3132,37 @@
             }
         ]
     },
-    "capitaine.dialogue1": {
+    "capitaine_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/capitaine/capitaine.dialogue1",
+            "name": "voice/capitaine/capitaine_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "capitaine.dialogue2": {
+    "capitaine_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/capitaine/capitaine.dialogue2",
+            "name": "voice/capitaine/capitaine_dialogue2",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "capitaine.dialogue3": {
+    "capitaine_dialogue3": {
         "sounds": [
                 {
-            "name": "voice/capitaine/capitaine.dialogue3",
+            "name": "voice/capitaine/capitaine_dialogue3",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "capitaine.dialogue4": {
+    "capitaine_dialogue5": {
         "sounds": [
                 {
-            "name": "voice/capitaine/capitaine.dialogue4",
-            "stream": true,
-            "preload": true
-            }
-        ]
-    },
-    "capitaine.dialogue5": {
-        "sounds": [
-                {
-            "name": "voice/capitaine/capitaine.dialogue5",
+            "name": "voice/capitaine/capitaine_dialogue5",
             "stream": true,
             "preload": true
             }
@@ -3141,19 +3267,19 @@
             }
         ]
     },
-    "indra.dialogue1": {
+    "indra_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/indra/indra.dialogue1",
+            "name": "voice/indra/indra_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "indra.dialogue2": {
+    "indra_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/indra/indra.dialogue2",
+            "name": "voice/indra/indra_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -3213,46 +3339,46 @@
             }
         ]
     },
-    "syri.dialogue1": {
+    "syri_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/syri/syri.dialogue1",
+            "name": "voice/syri/syri_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "syri.dialogue2": {
+    "syri_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/syri/syri.dialogue2",
+            "name": "voice/syri/syri_dialogue2",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "syri.dialogue3": {
+    "syri_dialogue3": {
         "sounds": [
                 {
-            "name": "voice/syri/syri.dialogue3",
+            "name": "voice/syri/syri_dialogue3",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "syri.dialogue4": {
+    "syri_dialogue4": {
         "sounds": [
                 {
-            "name": "voice/syri/syri.dialogue4",
+            "name": "voice/syri/syri_dialogue4",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "syri.dialogue5": {
+    "syri_dialogue5": {
         "sounds": [
                 {
-            "name": "voice/syri/syri.dialogue5",
+            "name": "voice/syri/syri_dialogue5",
             "stream": true,
             "preload": true
             }
@@ -3375,19 +3501,19 @@
             }
         ]
     },
-    "skaolon.dialogue1": {
+    "skaolon_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/skaolon/skaolon.dialogue1",
+            "name": "voice/skaolon/skaolon_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "skaolon.dialogue2": {
+    "skaolon_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/skaolon/skaolon.dialogue2",
+            "name": "voice/skaolon/skaolon_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -3663,6 +3789,15 @@
             }
         ]
     },
+    "phoebius_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/phoebius/phoebius_dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
     "clement1": {
         "sounds": [
                 {
@@ -3690,19 +3825,19 @@
             }
         ]
     },
-    "clement.dialogue1": {
+    "clement_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/clement/clement.dialogue1",
+            "name": "voice/clement/clement_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "clement.dialogue2": {
+    "clement_dialogue2": {
         "sounds": [
                 {
-            "name": "voice/clement/clement.dialogue2",
+            "name": "voice/clement/clement_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -3748,6 +3883,15 @@
         "sounds": [
                 {
             "name": "voice/adrian/adrian5",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "adrian6": {
+        "sounds": [
+                {
+            "name": "voice/adrian/adrian6",
             "stream": true,
             "preload": true
             }
@@ -4068,6 +4212,24 @@
             }
         ]
     },
+    "yaakov_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov_dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "yaakov_dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/yaakov/yaakov_dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
     "wirth1": {
         "sounds": [
                 {
@@ -4194,19 +4356,28 @@
             }
         ]
     },
-    "relgon.dialogue1": {
+    "brutus_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/relgon/relgon.dialogue1",
+            "name": "voice/brutus/brutus_dialogue1",
             "stream": true,
             "preload": true
             }
         ]
     },
-    "relgon.dialogue2": {
+    "relgon_dialogue1": {
         "sounds": [
                 {
-            "name": "voice/relgon/relgon.dialogue2",
+            "name": "voice/relgon/relgon_dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "relgon_dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/relgon/relgon_dialogue2",
             "stream": true,
             "preload": true
             }
@@ -4315,6 +4486,33 @@
         "sounds": [
                 {
             "name": "voice/aramis/aramis12",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis_dialogue1": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis_dialogue1",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis_dialogue2": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis_dialogue2",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
+    "aramis_dialogue3": {
+        "sounds": [
+                {
+            "name": "voice/aramis/aramis_dialogue3",
             "stream": true,
             "preload": true
             }
@@ -4545,6 +4743,15 @@
             }
         ]
     },
+    "guard16": {
+        "sounds": [
+                {
+            "name": "voice/guard/guard16",
+            "stream": true,
+            "preload": true
+            }
+        ]
+    },
     "automate1": {
         "sounds": [
                 {
@@ -4648,15 +4855,6 @@
         "sounds": [
                 {
             "name": "voice/ragnar/ragnar5",
-            "stream": true,
-            "preload": true
-            }
-        ]
-    },
-    "namrin34": {
-        "sounds": [
-                {
-            "name": "voice/namrin/namrin34",
             "stream": true,
             "preload": true
             }
