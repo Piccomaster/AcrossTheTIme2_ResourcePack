@@ -3,7 +3,7 @@
 [C]§4Time for regrets
 [C]§7=======================
 
-§3Was introduced to you by Advenquest
+§3Was introduced to you by Adventquest
 
 §7Build, and level design :
 §4			Thundesrtruck
@@ -26,7 +26,7 @@
 §4			Nico
 §4			PengoPlays
 §4			PumpKingFr
-§4			Orian34
+§4			orian34
 
 §7English Translation:
 §4			BrightBrain
@@ -232,7 +232,7 @@
 §4			Wenjia Dai
 §4			Xavier Vogel
 §4			yellowlemonman
-§4			Orian34
+§4			orian34
 
 French voices :
 §4			CraniumFull

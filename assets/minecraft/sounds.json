@@ -775,14 +775,6 @@
             }
         ]
     },
-    "scaryambiance": {
-        "sounds": [
-                {
-            "name": "custom/ambient/scaryambiance",
-            "stream": true
-            }
-        ]
-    },
     "scary1": {
         "sounds": [
                 {
