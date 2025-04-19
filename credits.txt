@@ -1,5 +1,44 @@
 ADVENTQUEST
 https://www.adventquest.com/
 
-Resource Pack v4.5.0 made by Team Adventquest : "Piccomaster" & "Thundesrtruck"
-------------------------------------------------------------------------------------------
+Resource Pack v5.0.0 made by Team Adventquest : "Piccomaster" & "Thundesrtruck"
+---------------------------------------------------------------------------------
+
+Additionnal textures :
+- PumpKingFr
+- Zhubi
+
+Voice mod director:
+- Grenier
+
+Voice mod mix & mastering:
+- Grenier
+- Orian34
+
+French voices actors:
+- CraniumFull
+- eleaflora
+- emmy4034
+- eorex
+- evoli0914
+- fireblast59
+- hans_clp
+- Hayley
+- HB VF
+- kazuto6940
+- lavisdedany
+- leiveystva
+- lifeen13
+- Maifrox
+- maj_1560
+- Marin.
+- matthew-vanston
+- maxwell8
+- Mewna
+- modjo218
+- Piccomaster
+- Ravenika
+- shadowempty
+- sorren__
+- teamoniaque
+- Vénaïs
