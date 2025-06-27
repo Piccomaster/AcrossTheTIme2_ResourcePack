@@ -2,5 +2,11 @@
     "parent": "item/bow",
     "textures": {
         "layer0": "item/custom/spectral_bow_standby"
-    }
+    },
+    	"display": {
+		"ground": {
+			"translation": [0, 0, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
 }

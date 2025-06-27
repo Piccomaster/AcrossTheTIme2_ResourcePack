@@ -1,0 +1,13 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/shulker_shell"
+    },
+    "entries": [
+      {"threshold": 10000000,"model": {"type": "model","model": "item/custom/page_pr"}},{"threshold": 10000001,"model": {"type": "model","model": "item/custom/page_drop"}},{"threshold": 10000002,"model": {"type": "model","model": "item/custom/page_ne"}}
+    ]
+  }
+}

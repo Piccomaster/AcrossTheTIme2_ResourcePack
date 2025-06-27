@@ -9,10 +9,5 @@
 	},
     "textures": {
         "layer0": "item/diamond_sword"
-    },
-    "overrides": [
-		{"predicate": {"custom_model_data": 10000002},"model": "item/custom/fenrir"},
-		{"predicate": {"custom_model_data": 10000003},"model": "item/custom/rukyrion"},
-        {"predicate": {"custom_model_data": 10000004},"model": "item/custom/ultima"}
-    ]
+    }
 }

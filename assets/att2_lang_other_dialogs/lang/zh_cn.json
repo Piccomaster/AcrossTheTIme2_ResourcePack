@@ -1,0 +1,48 @@
+{
+  "杂项收录":"主要为不在dialogs文件中的内容",
+
+  
+  "att2.newplayer.translate.tip":"游戏内非对话文本内容可以正常翻译(本条信息可以忽略)",
+  "att2.newplayer.translate.error":"§c§l如果你能看到这段红色字体，可以证明你当前的Minecraft菜单中的语言选项无法与游戏内的翻译键进行匹配，系统会自动翻译为[英文]，这将会导致装备成就等内容无法翻译为你当前的语言(解决方法:寻求国内的翻译组进行该地图的翻译或自行提取资源包中的语言文件进行翻译)",
+  "att2.newplayer.language.tip":"新加入的玩家的地图文本语言设置默认为英文，请在《醒神之书》中选择地图文本的语言设置",
+
+  "att2.newplayer.language.error":"§",
+
+  "translate":"XXX",
+  "att2.runes.recipe.lock":"§c§l获得该符文材料或其上下阶材料后解锁",
+  "att2.runes.recipe.runepowder":"§e§l符文粉末",
+  "att2.runes.recipe.esc":"§d§l混沌鳞片",
+  "att2.runes.recipe.craft":"§e§l点击此处进行合成",
+  "att2.runes.recipe.runes_low":"§8§l低级符文材料合成",
+  "att2.runes.recipe.runes_mid":"§9§l中级符文合成",
+  "att2.runes.recipe.runes_hig":"§1§l高级符文合成",
+  "att2.runes.recipe.runewords":"§2§l铭文合成配方",
+  "att2.runes.recipe.other":"§c§l其他合成配方",
+  "att2.runes.runepowder.count":"§e§l当前符文粉末数量",
+
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX",
+  "att2.misc.XXXX":"XXXX"
+
+}

@@ -20,7 +20,11 @@
             "rotation": [ -75, 0, 0 ],
             "translation": [-6.13, 2.2, 2.0],
             "scale": [ 1.0, 1.0, 1.0]
-        }
+        },
+        "ground": {
+			"translation": [0, 0, 0],
+			"scale": [1, 1, 1]
+		}
     },
     "textures": {
         "layer0": "item/custom/warbow_standby"

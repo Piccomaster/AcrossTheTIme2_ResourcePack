@@ -1,0 +1,14 @@
+{
+        "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/diamond_axe"
+        },
+        "entries": [
+            {"threshold":1000000,"model":{"type":"model","model":"item/custom/spectral_axe"}},
+            {"threshold":10000001,"model":{"type":"model","model":"item/custom/fire_soul"}}
+        ]
+    }
+}

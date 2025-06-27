@@ -1,2193 +1,2217 @@
 {
+    "empty": {
+        "sounds": [
+            {
+                "name": "empty",
+                "stream": true
+            }
+        ]
+    },
+    "test1": {
+        "sounds": [
+            {
+                "name": "att2sounds/test1",
+                "stream": true
+            }
+        ]
+    },
+    "test2": {
+        "sounds": [
+            {
+                "name": "att2sounds/test2",
+                "stream": true
+            }
+        ]
+    },
     "sncf": {
         "sounds": [
-                {
-            "name": "custom/sncf",
-            "stream": true
+            {
+                "name": "custom/sncf",
+                "stream": true
             }
         ]
     },
     "airlock": {
         "sounds": [
-                {
-            "name": "custom/airlock",
-            "stream": true
+            {
+                "name": "custom/airlock",
+                "stream": true
             }
         ]
     },
     "airleacking": {
         "sounds": [
-                {
-            "name": "custom/airleacking",
-            "stream": true
+            {
+                "name": "custom/airleacking",
+                "stream": true
             }
         ]
     },
     "alarm3": {
         "sounds": [
-                {
-            "name": "custom/alarm3",
-            "stream": true
+            {
+                "name": "custom/alarm3",
+                "stream": true
             }
         ]
     },
     "arrowimpact": {
         "sounds": [
-                {
-            "name": "custom/arrowimpact",
-            "stream": true
+            {
+                "name": "custom/arrowimpact",
+                "stream": true
             }
         ]
     },
     "airblast": {
         "sounds": [
-                {
-            "name": "custom/airblast",
-            "stream": true
+            {
+                "name": "custom/airblast",
+                "stream": true
             }
         ]
     },
     "bell1": {
         "sounds": [
-                {
-            "name": "custom/bell1",
-            "stream": true
+            {
+                "name": "custom/bell1",
+                "stream": true
             }
         ]
     },
     "bell2": {
         "sounds": [
-                {
-            "name": "custom/bell2",
-            "stream": true
+            {
+                "name": "custom/bell2",
+                "stream": true
             }
         ]
     },
     "bell3": {
         "sounds": [
-                {
-            "name": "custom/bell3",
-            "stream": true
+            {
+                "name": "custom/bell3",
+                "stream": true
             }
         ]
     },
     "bell4": {
         "sounds": [
-                {
-            "name": "custom/bell4",
-            "stream": true
+            {
+                "name": "custom/bell4",
+                "stream": true
             }
         ]
     },
     "bell5": {
         "sounds": [
-                {
-            "name": "custom/bell5",
-            "stream": true
+            {
+                "name": "custom/bell5",
+                "stream": true
             }
         ]
     },
     "blast1": {
         "sounds": [
-                {
-            "name": "custom/blast1",
-            "stream": true
+            {
+                "name": "custom/blast1",
+                "stream": true
             }
         ]
     },
     "crashglass": {
         "sounds": [
-                {
-            "name": "custom/crashglass",
-            "stream": true
+            {
+                "name": "custom/crashglass",
+                "stream": true
             }
         ]
     },
     "crashmetal1": {
         "sounds": [
-                {
-            "name": "custom/crashmetal1",
-            "stream": true
+            {
+                "name": "custom/crashmetal1",
+                "stream": true
             }
         ]
     },
     "crashrock": {
         "sounds": [
-                {
-            "name": "custom/crashrock",
-            "stream": true
+            {
+                "name": "custom/crashrock",
+                "stream": true
             }
         ]
     },
     "crystal1": {
         "sounds": [
-                {
-            "name": "custom/crystal1",
-            "stream": true
+            {
+                "name": "custom/crystal1",
+                "stream": true
             }
         ]
     },
     "crystal2": {
         "sounds": [
-                {
-            "name": "custom/crystal2",
-            "stream": true
+            {
+                "name": "custom/crystal2",
+                "stream": true
             }
         ]
     },
     "digital": {
         "sounds": [
-                {
-            "name": "custom/digital",
-            "stream": true
+            {
+                "name": "custom/digital",
+                "stream": true
             }
         ]
     },
     "door1": {
         "sounds": [
-                {
-            "name": "custom/door1",
-            "stream": true
+            {
+                "name": "custom/door1",
+                "stream": true
             }
         ]
     },
     "door2": {
         "sounds": [
-                {
-            "name": "custom/door2",
-            "stream": true
+            {
+                "name": "custom/door2",
+                "stream": true
             }
         ]
     },
     "drone1": {
         "sounds": [
-                {
-            "name": "custom/drone1",
-            "stream": true
+            {
+                "name": "custom/drone1",
+                "stream": true
             }
         ]
     },
     "drone2": {
         "sounds": [
-                {
-            "name": "custom/drone2",
-            "stream": true
+            {
+                "name": "custom/drone2",
+                "stream": true
             }
         ]
     },
     "elevator": {
         "sounds": [
-                {
-            "name": "custom/elevator",
-            "stream": true
+            {
+                "name": "custom/elevator",
+                "stream": true
             }
         ]
     },
     "explosion1": {
         "sounds": [
-                {
-            "name": "custom/explosion1",
-            "stream": true
+            {
+                "name": "custom/explosion1",
+                "stream": true
             }
         ]
     },
     "explosion2": {
         "sounds": [
-                {
-            "name": "custom/explosion2",
-            "stream": true
+            {
+                "name": "custom/explosion2",
+                "stream": true
             }
         ]
     },
     "heartbeat": {
         "sounds": [
-                {
-            "name": "custom/heartbeat",
-            "stream": true
+            {
+                "name": "custom/heartbeat",
+                "stream": true
             }
         ]
     },
     "hit1": {
         "sounds": [
-                {
-            "name": "custom/hit1",
-            "stream": true
+            {
+                "name": "custom/hit1",
+                "stream": true
             }
         ]
     },
     "hit2": {
         "sounds": [
-                {
-            "name": "custom/hit2",
-            "stream": true
+            {
+                "name": "custom/hit2",
+                "stream": true
             }
         ]
     },
     "hit3": {
         "sounds": [
-                {
-            "name": "custom/hit3",
-            "stream": true
+            {
+                "name": "custom/hit3",
+                "stream": true
             }
         ]
     },
     "hit4": {
         "sounds": [
-                {
-            "name": "custom/hit4",
-            "stream": true
+            {
+                "name": "custom/hit4",
+                "stream": true
             }
         ]
     },
     "hit7": {
         "sounds": [
-                {
-            "name": "custom/hit7",
-            "stream": true
+            {
+                "name": "custom/hit7",
+                "stream": true
             }
         ]
     },
     "magicrevealed": {
         "sounds": [
-                {
-            "name": "custom/magicrevealed",
-            "stream": true
+            {
+                "name": "custom/magicrevealed",
+                "stream": true
             }
         ]
     },
     "magicrevealed2": {
         "sounds": [
-                {
-            "name": "custom/magicrevealed2",
-            "stream": true
+            {
+                "name": "custom/magicrevealed2",
+                "stream": true
             }
         ]
     },
     "noise1": {
         "sounds": [
-                {
-            "name": "custom/noise1",
-            "stream": true
+            {
+                "name": "custom/noise1",
+                "stream": true
             }
         ]
     },
     "noise2": {
         "sounds": [
-                {
-            "name": "custom/noise2",
-            "stream": true
+            {
+                "name": "custom/noise2",
+                "stream": true
             }
         ]
     },
     "noise3": {
         "sounds": [
-                {
-            "name": "custom/noise3",
-            "stream": true
+            {
+                "name": "custom/noise3",
+                "stream": true
             }
         ]
     },
     "noise4": {
         "sounds": [
-                {
-            "name": "custom/noise4",
-            "stream": true
+            {
+                "name": "custom/noise4",
+                "stream": true
             }
         ]
     },
     "noise5": {
         "sounds": [
-                {
-            "name": "custom/noise5",
-            "stream": true
+            {
+                "name": "custom/noise5",
+                "stream": true
             }
         ]
     },
     "noise6": {
         "sounds": [
-                {
-            "name": "custom/noise6",
-            "stream": true
+            {
+                "name": "custom/noise6",
+                "stream": true
             }
         ]
     },
     "noise7": {
         "sounds": [
-                {
-            "name": "custom/noise7",
-            "stream": true
+            {
+                "name": "custom/noise7",
+                "stream": true
             }
         ]
     },
     "scream1": {
         "sounds": [
-                {
-            "name": "custom/scream1",
-            "stream": true
+            {
+                "name": "custom/scream1",
+                "stream": true
             }
         ]
     },
     "scream2": {
         "sounds": [
-                {
-            "name": "custom/scream2",
-            "stream": true
+            {
+                "name": "custom/scream2",
+                "stream": true
             }
         ]
     },
     "servo": {
         "sounds": [
-                {
-            "name": "custom/servo",
-            "stream": true
+            {
+                "name": "custom/servo",
+                "stream": true
             }
         ]
     },
     "siren1": {
         "sounds": [
-                {
-            "name": "custom/siren1",
-            "stream": true
+            {
+                "name": "custom/siren1",
+                "stream": true
             }
         ]
     },
     "siren2": {
         "sounds": [
-                {
-            "name": "custom/siren2",
-            "stream": true
+            {
+                "name": "custom/siren2",
+                "stream": true
             }
         ]
     },
     "siren3": {
         "sounds": [
-                {
-            "name": "custom/siren3",
-            "stream": true
+            {
+                "name": "custom/siren3",
+                "stream": true
             }
         ]
     },
     "thunder1": {
         "sounds": [
-                {
-            "name": "custom/thunder1",
-            "stream": true
+            {
+                "name": "custom/thunder1",
+                "stream": true
             }
         ]
     },
     "crystal3": {
         "sounds": [
-                {
-            "name": "custom/crystal3",
-            "stream": true
+            {
+                "name": "custom/crystal3",
+                "stream": true
             }
         ]
     },
     "teleportation": {
         "sounds": [
-                {
-            "name": "custom/teleportation",
-            "stream": true
+            {
+                "name": "custom/teleportation",
+                "stream": true
             }
         ]
     },
     "teleportation1": {
         "sounds": [
-                {
-            "name": "custom/teleportation1",
-            "stream": true
+            {
+                "name": "custom/teleportation1",
+                "stream": true
             }
         ]
     },
     "teleportation2": {
         "sounds": [
-                {
-            "name": "custom/teleportation2",
-            "stream": true
+            {
+                "name": "custom/teleportation2",
+                "stream": true
             }
         ]
     },
     "teleportation3": {
         "sounds": [
-                {
-            "name": "custom/teleportation3",
-            "stream": true
+            {
+                "name": "custom/teleportation3",
+                "stream": true
             }
         ]
     },
     "runwood": {
         "sounds": [
-                {
-            "name": "custom/runwood",
-            "stream": true
+            {
+                "name": "custom/runwood",
+                "stream": true
             }
         ]
     },
     "walkwood": {
         "sounds": [
-                {
-            "name": "custom/walkwood",
-            "stream": true
+            {
+                "name": "custom/walkwood",
+                "stream": true
             }
         ]
     },
     "bird1": {
         "sounds": [
-                {
-            "name": "custom/bird1",
-            "stream": true
+            {
+                "name": "custom/bird1",
+                "stream": true
             }
         ]
     },
     "eboulement": {
         "sounds": [
-                {
-            "name": "custom/eboulement",
-            "stream": true
+            {
+                "name": "custom/eboulement",
+                "stream": true
             }
         ]
     },
     "eboulement2": {
         "sounds": [
-                {
-            "name": "custom/eboulement2",
-            "stream": true
+            {
+                "name": "custom/eboulement2",
+                "stream": true
             }
         ]
     },
     "eboulement3": {
         "sounds": [
-                {
-            "name": "custom/eboulement3",
-            "stream": true
+            {
+                "name": "custom/eboulement3",
+                "stream": true
             }
         ]
     },
     "checkpoint": {
         "sounds": [
-                {
-            "name": "custom/checkpoint",
-            "stream": true
+            {
+                "name": "custom/checkpoint",
+                "stream": true
             }
         ]
     },
     "stonedoor1": {
         "sounds": [
-                {
-            "name": "custom/stonedoor1",
-            "stream": true
+            {
+                "name": "custom/stonedoor1",
+                "stream": true
             }
         ]
     },
     "stonedoor2": {
         "sounds": [
-                {
-            "name": "custom/stonedoor2",
-            "stream": true
+            {
+                "name": "custom/stonedoor2",
+                "stream": true
             }
         ]
     },
     "stonedoor3": {
         "sounds": [
-                {
-            "name": "custom/stonedoor3",
-            "stream": true
+            {
+                "name": "custom/stonedoor3",
+                "stream": true
             }
         ]
     },
     "doorlatchopen": {
         "sounds": [
-                {
-            "name": "custom/doorlatchopen",
-            "stream": true
+            {
+                "name": "custom/doorlatchopen",
+                "stream": true
             }
         ]
     },
     "doorslam": {
         "sounds": [
-                {
-            "name": "custom/doorslam",
-            "stream": true
+            {
+                "name": "custom/doorslam",
+                "stream": true
             }
         ]
     },
     "glassmiror": {
         "sounds": [
-                {
-            "name": "custom/glassmiror",
-            "stream": true
+            {
+                "name": "custom/glassmiror",
+                "stream": true
             }
         ]
     },
     "bonecrushed": {
         "sounds": [
-                {
-            "name": "custom/bonecrushed",
-            "stream": true
+            {
+                "name": "custom/bonecrushed",
+                "stream": true
             }
         ]
     },
     "horrorflesh": {
         "sounds": [
-                {
-            "name": "custom/horrorflesh",
-            "stream": true
+            {
+                "name": "custom/horrorflesh",
+                "stream": true
             }
         ]
     },
     "forcefield": {
         "sounds": [
-                {
-            "name": "custom/forcefield",
-            "stream": true
+            {
+                "name": "custom/forcefield",
+                "stream": true
             }
         ]
     },
     "forcefield2": {
         "sounds": [
-                {
-            "name": "custom/forcefield2",
-            "stream": true
+            {
+                "name": "custom/forcefield2",
+                "stream": true
             }
         ]
     },
     "magicspell": {
         "sounds": [
-                {
-            "name": "custom/magicspell",
-            "stream": true
+            {
+                "name": "custom/magicspell",
+                "stream": true
             }
         ]
     },
     "secret": {
         "sounds": [
-                {
-            "name": "custom/secret",
-            "stream": true
+            {
+                "name": "custom/secret",
+                "stream": true
             }
         ]
     },
     "grondement": {
         "sounds": [
-                {
-            "name": "custom/ambient/grondement",
-            "stream": true
+            {
+                "name": "custom/ambient/grondement",
+                "stream": true
             }
         ]
     },
     "failure": {
         "sounds": [
-                {
-            "name": "custom/failure",
-            "stream": true
+            {
+                "name": "custom/failure",
+                "stream": true
             }
         ]
     },
     "indice": {
         "sounds": [
-                {
-            "name": "custom/indice",
-            "stream": true
+            {
+                "name": "custom/indice",
+                "stream": true
             }
         ]
     },
     "piece1": {
         "sounds": [
-                {
-            "name": "custom/piece1",
-            "stream": true
+            {
+                "name": "custom/piece1",
+                "stream": true
             }
         ]
     },
     "piece2": {
         "sounds": [
-                {
-            "name": "custom/piece2",
-            "stream": true
+            {
+                "name": "custom/piece2",
+                "stream": true
             }
         ]
     },
     "chaine": {
         "sounds": [
-                {
-            "name": "custom/chaine",
-            "stream": true
+            {
+                "name": "custom/chaine",
+                "stream": true
             }
         ]
     },
     "exploit": {
         "sounds": [
-                {
-            "name": "custom/exploit",
-            "stream": true
+            {
+                "name": "custom/exploit",
+                "stream": true
             }
         ]
     },
     "mort": {
         "sounds": [
-                {
-            "name": "custom/mort",
-            "stream": true
+            {
+                "name": "custom/mort",
+                "stream": true
             }
         ]
     },
     "desintegration": {
         "sounds": [
-                {
-            "name": "custom/desintegration",
-            "stream": true
+            {
+                "name": "custom/desintegration",
+                "stream": true
             }
         ]
     },
     "chargement": {
         "sounds": [
-                {
-            "name": "custom/chargement",
-            "stream": true
+            {
+                "name": "custom/chargement",
+                "stream": true
             }
         ]
     },
     "laser1": {
         "sounds": [
-                {
-            "name": "custom/laser1",
-            "stream": true
+            {
+                "name": "custom/laser1",
+                "stream": true
             }
         ]
     },
     "laser2": {
         "sounds": [
-                {
-            "name": "custom/laser2",
-            "stream": true
+            {
+                "name": "custom/laser2",
+                "stream": true
             }
         ]
     },
     "laser3": {
         "sounds": [
-                {
-            "name": "custom/laser3",
-            "stream": true
+            {
+                "name": "custom/laser3",
+                "stream": true
             }
         ]
     },
     "laser4": {
         "sounds": [
-                {
-            "name": "custom/laser4",
-            "stream": true
+            {
+                "name": "custom/laser4",
+                "stream": true
             }
         ]
     },
     "validation1": {
         "sounds": [
-                {
-            "name": "custom/validation1",
-            "stream": true
+            {
+                "name": "custom/validation1",
+                "stream": true
             }
         ]
     },
     "validation2": {
         "sounds": [
-                {
-            "name": "custom/validation2",
-            "stream": true
+            {
+                "name": "custom/validation2",
+                "stream": true
             }
         ]
     },
     "robotbip": {
         "sounds": [
-                {
-            "name": "custom/robotbip",
-            "stream": true
+            {
+                "name": "custom/robotbip",
+                "stream": true
             }
         ]
     },
     "robot": {
         "sounds": [
-                {
-            "name": "custom/robot",
-            "stream": true
+            {
+                "name": "custom/robot",
+                "stream": true
             }
         ]
     },
     "demon1": {
         "sounds": [
-                {
-            "name": "custom/demon1",
-            "stream": true
+            {
+                "name": "custom/demon1",
+                "stream": true
             }
         ]
     },
     "demon2": {
         "sounds": [
-                {
-            "name": "custom/demon2",
-            "stream": true
+            {
+                "name": "custom/demon2",
+                "stream": true
             }
         ]
     },
     "demonlaugh2": {
         "sounds": [
-                {
-            "name": "custom/demonlaugh2",
-            "stream": true
+            {
+                "name": "custom/demonlaugh2",
+                "stream": true
             }
         ]
     },
     "nightcrickets": {
         "sounds": [
-                {
-            "name": "custom/ambient/nightcrickets",
-            "stream": true
+            {
+                "name": "custom/ambient/nightcrickets",
+                "stream": true
             }
         ]
     },
     "incoming": {
         "sounds": [
-                {
-            "name": "custom/incoming",
-            "stream": true
+            {
+                "name": "custom/incoming",
+                "stream": true
             }
         ]
     },
     "wind": {
         "sounds": [
-                {
-            "name": "custom/ambient/wind",
-            "stream": true
+            {
+                "name": "custom/ambient/wind",
+                "stream": true
             }
         ]
     },
     "wind1": {
         "sounds": [
-                {
-            "name": "custom/wind1",
-            "stream": true
+            {
+                "name": "custom/wind1",
+                "stream": true
             }
         ]
     },
     "flyby": {
         "sounds": [
-                {
-            "name": "custom/flyby",
-            "stream": true
+            {
+                "name": "custom/flyby",
+                "stream": true
             }
         ]
     },
     "scary1": {
         "sounds": [
-                {
-            "name": "custom/scary1",
-            "stream": true
+            {
+                "name": "custom/scary1",
+                "stream": true
             }
         ]
     },
     "scary2": {
         "sounds": [
-                {
-            "name": "custom/scary2",
-            "stream": true
+            {
+                "name": "custom/scary2",
+                "stream": true
             }
         ]
     },
     "scary3": {
         "sounds": [
-                {
-            "name": "custom/scary3",
-            "stream": true
+            {
+                "name": "custom/scary3",
+                "stream": true
             }
         ]
     },
     "scary4": {
         "sounds": [
-                {
-            "name": "custom/scary4",
-            "stream": true
+            {
+                "name": "custom/scary4",
+                "stream": true
             }
         ]
     },
     "breath1": {
         "sounds": [
-                {
-            "name": "custom/breath1",
-            "stream": true
+            {
+                "name": "custom/breath1",
+                "stream": true
             }
         ]
     },
     "powerdown": {
         "sounds": [
-                {
-            "name": "custom/powerdown",
-            "stream": true
+            {
+                "name": "custom/powerdown",
+                "stream": true
             }
         ]
     },
     "powerup": {
         "sounds": [
-                {
-            "name": "custom/powerup",
-            "stream": true
+            {
+                "name": "custom/powerup",
+                "stream": true
             }
         ]
     },
     "powerfailure": {
         "sounds": [
-                {
-            "name": "custom/powerfailure",
-            "stream": true
+            {
+                "name": "custom/powerfailure",
+                "stream": true
             }
         ]
     },
     "metalcreaking": {
         "sounds": [
-                {
-            "name": "custom/metalcreaking",
-            "stream": true
+            {
+                "name": "custom/metalcreaking",
+                "stream": true
             }
         ]
     },
     "metalcreaking1": {
         "sounds": [
-                {
-            "name": "custom/metalcreaking1",
-            "stream": true
+            {
+                "name": "custom/metalcreaking1",
+                "stream": true
             }
         ]
     },
     "metalcreaking2": {
         "sounds": [
-                {
-            "name": "custom/metalcreaking2",
-            "stream": true
+            {
+                "name": "custom/metalcreaking2",
+                "stream": true
             }
         ]
     },
     "metalcreaking3": {
         "sounds": [
-                {
-            "name": "custom/metalcreaking3",
-            "stream": true
+            {
+                "name": "custom/metalcreaking3",
+                "stream": true
             }
         ]
     },
     "fizzle1": {
         "sounds": [
-                {
-            "name": "custom/fizzle1",
-            "stream": true
+            {
+                "name": "custom/fizzle1",
+                "stream": true
             }
         ]
     },
     "fizzle2": {
         "sounds": [
-                {
-            "name": "custom/fizzle2",
-            "stream": true
+            {
+                "name": "custom/fizzle2",
+                "stream": true
             }
         ]
     },
     "timewarp1": {
         "sounds": [
-                {
-            "name": "custom/timewarp1",
-            "stream": true
+            {
+                "name": "custom/timewarp1",
+                "stream": true
             }
         ]
     },
     "timewarp2": {
         "sounds": [
-                {
-            "name": "custom/timewarp2",
-            "stream": true
+            {
+                "name": "custom/timewarp2",
+                "stream": true
             }
         ]
     },
     "sliding": {
         "sounds": [
-                {
-            "name": "custom/sliding",
-            "stream": true
+            {
+                "name": "custom/sliding",
+                "stream": true
             }
         ]
     },
     "swooshing": {
         "sounds": [
-                {
-            "name": "custom/swooshing",
-            "stream": true
+            {
+                "name": "custom/swooshing",
+                "stream": true
             }
         ]
     },
     "engrenage1": {
         "sounds": [
-                {
-            "name": "custom/engrenage1",
-            "stream": true
+            {
+                "name": "custom/engrenage1",
+                "stream": true
             }
         ]
     },
     "engrenage2": {
         "sounds": [
-                {
-            "name": "custom/engrenage2",
-            "stream": true
+            {
+                "name": "custom/engrenage2",
+                "stream": true
             }
         ]
     },
     "boom1": {
         "sounds": [
-                {
-            "name": "custom/boom1",
-            "stream": true
+            {
+                "name": "custom/boom1",
+                "stream": true
             }
         ]
     },
     "boom3": {
         "sounds": [
-                {
-            "name": "custom/boom3",
-            "stream": true
+            {
+                "name": "custom/boom3",
+                "stream": true
             }
         ]
     },
     "boom4": {
         "sounds": [
-                {
-            "name": "custom/boom4",
-            "stream": true
+            {
+                "name": "custom/boom4",
+                "stream": true
             }
         ]
     },
     "unload1": {
         "sounds": [
-                {
-            "name": "custom/unload1",
-            "stream": true
+            {
+                "name": "custom/unload1",
+                "stream": true
             }
         ]
     },
     "unload2": {
         "sounds": [
-                {
-            "name": "custom/unload2",
-            "stream": true
+            {
+                "name": "custom/unload2",
+                "stream": true
             }
         ]
     },
     "strange1": {
         "sounds": [
-                {
-            "name": "custom/strange1",
-            "stream": true
+            {
+                "name": "custom/strange1",
+                "stream": true
             }
         ]
     },
     "strange2": {
         "sounds": [
-                {
-            "name": "custom/strange2",
-            "stream": true
+            {
+                "name": "custom/strange2",
+                "stream": true
             }
         ]
     },
     "strange3": {
         "sounds": [
-                {
-            "name": "custom/strange3",
-            "stream": true
+            {
+                "name": "custom/strange3",
+                "stream": true
             }
         ]
     },
     "strange4": {
         "sounds": [
-                {
-            "name": "custom/strange4",
-            "stream": true
+            {
+                "name": "custom/strange4",
+                "stream": true
             }
         ]
     },
     "strange5": {
         "sounds": [
-                {
-            "name": "custom/strange5",
-            "stream": true
+            {
+                "name": "custom/strange5",
+                "stream": true
             }
         ]
     },
     "strange6": {
         "sounds": [
-                {
-            "name": "custom/strange6",
-            "stream": true
+            {
+                "name": "custom/strange6",
+                "stream": true
             }
         ]
     },
     "strange7": {
         "sounds": [
-                {
-            "name": "custom/strange7",
-            "stream": true
+            {
+                "name": "custom/strange7",
+                "stream": true
             }
         ]
     },
     "strange8": {
         "sounds": [
-                {
-            "name": "custom/strange8",
-            "stream": true
+            {
+                "name": "custom/strange8",
+                "stream": true
             }
         ]
     },
     "strange9": {
         "sounds": [
-                {
-            "name": "custom/strange9",
-            "stream": true
+            {
+                "name": "custom/strange9",
+                "stream": true
             }
         ]
     },
     "impact1": {
         "sounds": [
-                {
-            "name": "custom/impact1",
-            "stream": true
+            {
+                "name": "custom/impact1",
+                "stream": true
             }
         ]
     },
     "impact2": {
         "sounds": [
-                {
-            "name": "custom/impact2",
-            "stream": true
+            {
+                "name": "custom/impact2",
+                "stream": true
             }
         ]
     },
     "impact3": {
         "sounds": [
-                {
-            "name": "custom/impact3",
-            "stream": true
+            {
+                "name": "custom/impact3",
+                "stream": true
             }
         ]
     },
     "impact4": {
         "sounds": [
-                {
-            "name": "custom/impact4",
-            "stream": true
+            {
+                "name": "custom/impact4",
+                "stream": true
             }
         ]
     },
     "impact5": {
         "sounds": [
-                {
-            "name": "custom/impact5",
-            "stream": true
+            {
+                "name": "custom/impact5",
+                "stream": true
             }
         ]
     },
     "impact6": {
         "sounds": [
-                {
-            "name": "custom/impact6",
-            "stream": true
+            {
+                "name": "custom/impact6",
+                "stream": true
             }
         ]
     },
     "impact7": {
         "sounds": [
-                {
-            "name": "custom/impact7",
-            "stream": true
+            {
+                "name": "custom/impact7",
+                "stream": true
             }
         ]
     },
     "move1": {
         "sounds": [
-                {
-            "name": "custom/move1",
-            "stream": true
+            {
+                "name": "custom/move1",
+                "stream": true
             }
         ]
     },
     "ladderdrop1": {
         "sounds": [
-                {
-            "name": "custom/ladderdrop1",
-            "stream": true
+            {
+                "name": "custom/ladderdrop1",
+                "stream": true
             }
         ]
     },
     "ladderdrop2": {
         "sounds": [
-                {
-            "name": "custom/ladderdrop2",
-            "stream": true
+            {
+                "name": "custom/ladderdrop2",
+                "stream": true
             }
         ]
     },
     "ladderdrop3": {
         "sounds": [
-                {
-            "name": "custom/ladderdrop3",
-            "stream": true
+            {
+                "name": "custom/ladderdrop3",
+                "stream": true
             }
         ]
     },
     "woodenrub1": {
         "sounds": [
-                {
-            "name": "custom/woodenrub1",
-            "stream": true
+            {
+                "name": "custom/woodenrub1",
+                "stream": true
             }
         ]
     },
     "levelup": {
         "sounds": [
-                {
-            "name": "custom/levelup",
-            "stream": true
+            {
+                "name": "custom/levelup",
+                "stream": true
             }
         ]
     },
     "fire": {
         "sounds": [
-                {
-            "name": "custom/ambient/fire",
-            "stream": true
+            {
+                "name": "custom/ambient/fire",
+                "stream": true
             }
         ]
     },
     "fire1": {
         "sounds": [
-                {
-            "name": "custom/fire1",
-            "stream": true
+            {
+                "name": "custom/fire1",
+                "stream": true
             }
         ]
     },
     "fire2": {
         "sounds": [
-                {
-            "name": "custom/fire2",
-            "stream": true
+            {
+                "name": "custom/fire2",
+                "stream": true
             }
         ]
     },
     "fire3": {
         "sounds": [
-                {
-            "name": "custom/fire3",
-            "stream": true
+            {
+                "name": "custom/fire3",
+                "stream": true
             }
         ]
     },
     "fire4": {
         "sounds": [
-                {
-            "name": "custom/fire4",
-            "stream": true
+            {
+                "name": "custom/fire4",
+                "stream": true
             }
         ]
     },
     "ice1": {
         "sounds": [
-                {
-            "name": "custom/ice1",
-            "stream": true
+            {
+                "name": "custom/ice1",
+                "stream": true
             }
         ]
     },
     "ice2": {
         "sounds": [
-                {
-            "name": "custom/ice2",
-            "stream": true
+            {
+                "name": "custom/ice2",
+                "stream": true
             }
         ]
     },
     "ice3": {
         "sounds": [
-                {
-            "name": "custom/ice3",
-            "stream": true
+            {
+                "name": "custom/ice3",
+                "stream": true
             }
         ]
     },
     "ice4": {
         "sounds": [
-                {
-            "name": "custom/ice4",
-            "stream": true
+            {
+                "name": "custom/ice4",
+                "stream": true
             }
         ]
     },
     "ice5": {
         "sounds": [
-                {
-            "name": "custom/ice5",
-            "stream": true
+            {
+                "name": "custom/ice5",
+                "stream": true
             }
         ]
     },
     "ice6": {
         "sounds": [
-                {
-            "name": "custom/ice6",
-            "stream": true
+            {
+                "name": "custom/ice6",
+                "stream": true
             }
         ]
     },
     "ice7": {
         "sounds": [
-                {
-            "name": "custom/ice7",
-            "stream": true
+            {
+                "name": "custom/ice7",
+                "stream": true
             }
         ]
     },
     "unsheathe1": {
         "sounds": [
-                {
-            "name": "custom/unsheathe1",
-            "stream": true
+            {
+                "name": "custom/unsheathe1",
+                "stream": true
             }
         ]
     },
     "unsheathe2": {
         "sounds": [
-                {
-            "name": "custom/unsheathe2",
-            "stream": true
+            {
+                "name": "custom/unsheathe2",
+                "stream": true
             }
         ]
     },
     "army1": {
         "sounds": [
-                {
-            "name": "custom/army1",
-            "stream": true
+            {
+                "name": "custom/army1",
+                "stream": true
             }
         ]
     },
     "man_surprised1": {
         "sounds": [
-                {
-            "name": "custom/man_surprised1",
-            "stream": true
+            {
+                "name": "custom/man_surprised1",
+                "stream": true
             }
         ]
     },
     "man_surprised2": {
         "sounds": [
-                {
-            "name": "custom/man_surprised2",
-            "stream": true
+            {
+                "name": "custom/man_surprised2",
+                "stream": true
             }
         ]
     },
     "shield1": {
         "sounds": [
-                {
-            "name": "custom/shield1",
-            "stream": true
+            {
+                "name": "custom/shield1",
+                "stream": true
             }
         ]
     },
     "army_march1": {
         "sounds": [
-                {
-            "name": "custom/army_march1",
-            "stream": true
+            {
+                "name": "custom/army_march1",
+                "stream": true
             }
         ]
     },
     "aliencreepy1": {
         "sounds": [
-                {
-            "name": "custom/aliencreepy1",
-            "stream": true
+            {
+                "name": "custom/aliencreepy1",
+                "stream": true
             }
         ]
     },
     "aliencreepy2": {
         "sounds": [
-                {
-            "name": "custom/aliencreepy2",
-            "stream": true
+            {
+                "name": "custom/aliencreepy2",
+                "stream": true
             }
         ]
     },
     "aliencreepy4": {
         "sounds": [
-                {
-            "name": "custom/aliencreepy4",
-            "stream": true
+            {
+                "name": "custom/aliencreepy4",
+                "stream": true
             }
         ]
     },
     "aliencreepy5": {
         "sounds": [
-                {
-            "name": "custom/aliencreepy5",
-            "stream": true
+            {
+                "name": "custom/aliencreepy5",
+                "stream": true
             }
         ]
     },
     "aliencreepy6": {
         "sounds": [
-                {
-            "name": "custom/aliencreepy6",
-            "stream": true
+            {
+                "name": "custom/aliencreepy6",
+                "stream": true
             }
         ]
     },
     "alienscream1": {
         "sounds": [
-                {
-            "name": "custom/alienscream1",
-            "stream": true
+            {
+                "name": "custom/alienscream1",
+                "stream": true
             }
         ]
     },
     "conduit1": {
         "sounds": [
-                {
-            "name": "custom/conduit1",
-            "stream": true
+            {
+                "name": "custom/conduit1",
+                "stream": true
             }
         ]
     },
     "conduit2": {
         "sounds": [
-                {
-            "name": "custom/conduit2",
-            "stream": true
+            {
+                "name": "custom/conduit2",
+                "stream": true
             }
         ]
     },
     "conduit3": {
         "sounds": [
-                {
-            "name": "custom/conduit3",
-            "stream": true
+            {
+                "name": "custom/conduit3",
+                "stream": true
             }
         ]
     },
     "creepy_ambience1": {
         "sounds": [
-                {
-            "name": "custom/ambient/creepy_ambience1",
-            "stream": true
+            {
+                "name": "custom/ambient/creepy_ambience1",
+                "stream": true
             }
         ]
     },
     "creepy_ambience2": {
         "sounds": [
-                {
-            "name": "custom/ambient/creepy_ambience2",
-            "stream": true
+            {
+                "name": "custom/ambient/creepy_ambience2",
+                "stream": true
             }
         ]
     },
     "creepy_ambience3": {
         "sounds": [
-                {
-            "name": "custom/ambient/creepy_ambience3",
-            "stream": true
+            {
+                "name": "custom/ambient/creepy_ambience3",
+                "stream": true
             }
         ]
     },
     "creepy_ambience4": {
         "sounds": [
-                {
-            "name": "custom/ambient/creepy_ambience4",
-            "stream": true
+            {
+                "name": "custom/ambient/creepy_ambience4",
+                "stream": true
             }
         ]
     },
     "metalfalling1": {
         "sounds": [
-                {
-            "name": "custom/metalfalling1",
-            "stream": true
+            {
+                "name": "custom/metalfalling1",
+                "stream": true
             }
         ]
     },
     "metalfalling2": {
         "sounds": [
-                {
-            "name": "custom/metalfalling2",
-            "stream": true
+            {
+                "name": "custom/metalfalling2",
+                "stream": true
             }
         ]
     },
     "metalfalling3": {
         "sounds": [
-                {
-            "name": "custom/metalfalling3",
-            "stream": true
+            {
+                "name": "custom/metalfalling3",
+                "stream": true
             }
         ]
     },
     "metalfalling4": {
         "sounds": [
-                {
-            "name": "custom/metalfalling4",
-            "stream": true
+            {
+                "name": "custom/metalfalling4",
+                "stream": true
             }
         ]
     },
     "metalfalling5": {
         "sounds": [
-                {
-            "name": "custom/metalfalling5",
-            "stream": true
+            {
+                "name": "custom/metalfalling5",
+                "stream": true
             }
         ]
     },
     "metalfalling6": {
         "sounds": [
-                {
-            "name": "custom/metalfalling6",
-            "stream": true
+            {
+                "name": "custom/metalfalling6",
+                "stream": true
             }
         ]
     },
     "metalfalling7": {
         "sounds": [
-                {
-            "name": "custom/metalfalling7",
-            "stream": true
+            {
+                "name": "custom/metalfalling7",
+                "stream": true
             }
         ]
     },
     "metalfalling8": {
         "sounds": [
-                {
-            "name": "custom/metalfalling8",
-            "stream": true
+            {
+                "name": "custom/metalfalling8",
+                "stream": true
             }
         ]
     },
     "metalfalling9": {
         "sounds": [
-                {
-            "name": "custom/metalfalling9",
-            "stream": true
+            {
+                "name": "custom/metalfalling9",
+                "stream": true
             }
         ]
     },
     "metalfalling10": {
         "sounds": [
-                {
-            "name": "custom/metalfalling10",
-            "stream": true
+            {
+                "name": "custom/metalfalling10",
+                "stream": true
             }
         ]
     },
     "metalfalling11": {
         "sounds": [
-                {
-            "name": "custom/metalfalling11",
-            "stream": true
+            {
+                "name": "custom/metalfalling11",
+                "stream": true
             }
         ]
     },
     "metalhit1": {
         "sounds": [
-                {
-            "name": "custom/metalhit1",
-            "stream": true
+            {
+                "name": "custom/metalhit1",
+                "stream": true
             }
         ]
     },
     "metalhit2": {
         "sounds": [
-                {
-            "name": "custom/metalhit2",
-            "stream": true
+            {
+                "name": "custom/metalhit2",
+                "stream": true
             }
         ]
     },
     "metalhit3": {
         "sounds": [
-                {
-            "name": "custom/metalhit3",
-            "stream": true
+            {
+                "name": "custom/metalhit3",
+                "stream": true
             }
         ]
     },
     "metalhit4": {
         "sounds": [
-                {
-            "name": "custom/metalhit4",
-            "stream": true
+            {
+                "name": "custom/metalhit4",
+                "stream": true
             }
         ]
     },
     "metalnoise1": {
         "sounds": [
-                {
-            "name": "custom/metalnoise1",
-            "stream": true
+            {
+                "name": "custom/metalnoise1",
+                "stream": true
             }
         ]
     },
     "metalnoise2": {
         "sounds": [
-                {
-            "name": "custom/metalnoise2",
-            "stream": true
+            {
+                "name": "custom/metalnoise2",
+                "stream": true
             }
         ]
     },
     "metalnoise3": {
         "sounds": [
-                {
-            "name": "custom/metalnoise3",
-            "stream": true
+            {
+                "name": "custom/metalnoise3",
+                "stream": true
             }
         ]
     },
     "metalnoise4": {
         "sounds": [
-                {
-            "name": "custom/metalnoise4",
-            "stream": true
+            {
+                "name": "custom/metalnoise4",
+                "stream": true
             }
         ]
     },
     "metalstep1": {
         "sounds": [
-                {
-            "name": "custom/metalstep1",
-            "stream": true
+            {
+                "name": "custom/metalstep1",
+                "stream": true
             }
         ]
     },
     "metalstep2": {
         "sounds": [
-                {
-            "name": "custom/metalstep2",
-            "stream": true
+            {
+                "name": "custom/metalstep2",
+                "stream": true
             }
         ]
     },
     "space1": {
         "sounds": [
-                {
-            "name": "custom/space1",
-            "stream": true
+            {
+                "name": "custom/space1",
+                "stream": true
             }
         ]
     },
     "space2": {
         "sounds": [
-                {
-            "name": "custom/space2",
-            "stream": true
+            {
+                "name": "custom/space2",
+                "stream": true
             }
         ]
     },
     "space3": {
         "sounds": [
-                {
-            "name": "custom/space3",
-            "stream": true
+            {
+                "name": "custom/space3",
+                "stream": true
             }
         ]
     },
     "space4": {
         "sounds": [
-                {
-            "name": "custom/space4",
-            "stream": true
+            {
+                "name": "custom/space4",
+                "stream": true
             }
         ]
     },
     "space5": {
         "sounds": [
-                {
-            "name": "custom/space5",
-            "stream": true
+            {
+                "name": "custom/space5",
+                "stream": true
             }
         ]
     },
     "space6": {
         "sounds": [
-                {
-            "name": "custom/space6",
-            "stream": true
+            {
+                "name": "custom/space6",
+                "stream": true
             }
         ]
     },
     "space7": {
         "sounds": [
-                {
-            "name": "custom/space7",
-            "stream": true
+            {
+                "name": "custom/space7",
+                "stream": true
             }
         ]
     },
     "space8": {
         "sounds": [
-                {
-            "name": "custom/space8",
-            "stream": true
+            {
+                "name": "custom/space8",
+                "stream": true
             }
         ]
     },
     "space9": {
         "sounds": [
-                {
-            "name": "custom/space9",
-            "stream": true
+            {
+                "name": "custom/space9",
+                "stream": true
             }
         ]
     },
     "space10": {
         "sounds": [
-                {
-            "name": "custom/space10",
-            "stream": true
+            {
+                "name": "custom/space10",
+                "stream": true
             }
         ]
     },
     "quest": {
         "sounds": [
-                {
-            "name": "custom/quest",
-            "stream": true
+            {
+                "name": "custom/quest",
+                "stream": true
             }
         ]
     },
     "fn_screaming1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_screaming1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_screaming1",
+                "stream": true
             }
         ]
     },
     "fn_blowing1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_blowing1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_blowing1",
+                "stream": true
             }
         ]
     },
     "fn_growling1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_growling1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_growling1",
+                "stream": true
             }
         ]
     },
     "fn_growling2": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_growling2",
-            "stream": true
+            {
+                "name": "custom/fn/fn_growling2",
+                "stream": true
             }
         ]
     },
     "fn_annoying1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_annoying1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_annoying1",
+                "stream": true
             }
         ]
     },
     "fn_annoying2": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_annoying2",
-            "stream": true
+            {
+                "name": "custom/fn/fn_annoying2",
+                "stream": true
             }
         ]
     },
     "fn_snoring1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_snoring1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_snoring1",
+                "stream": true
             }
         ]
     },
     "fn_yawning1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_yawning1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_yawning1",
+                "stream": true
             }
         ]
     },
     "fn_interested1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_interested1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_interested1",
+                "stream": true
             }
         ]
     },
     "fn_interested2": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_interested2",
-            "stream": true
+            {
+                "name": "custom/fn/fn_interested2",
+                "stream": true
             }
         ]
     },
     "fn_interested3": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_interested3",
-            "stream": true
+            {
+                "name": "custom/fn/fn_interested3",
+                "stream": true
             }
         ]
     },
     "fn_breathing1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_breathing1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_breathing1",
+                "stream": true
             }
         ]
     },
     "fn_breathing2": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_breathing2",
-            "stream": true
+            {
+                "name": "custom/fn/fn_breathing2",
+                "stream": true
             }
         ]
     },
     "fn_breathing3": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_breathing3",
-            "stream": true
+            {
+                "name": "custom/fn/fn_breathing3",
+                "stream": true
             }
         ]
     },
     "fn_breathing4": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_breathing4",
-            "stream": true
+            {
+                "name": "custom/fn/fn_breathing4",
+                "stream": true
             }
         ]
     },
     "fn_steps": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_steps",
-            "stream": true
+            {
+                "name": "custom/fn/fn_steps",
+                "stream": true
             }
         ]
     },
     "fn_step1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_step1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_step1",
+                "stream": true
             }
         ]
     },
     "fn_step2": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_step2",
-            "stream": true
+            {
+                "name": "custom/fn/fn_step2",
+                "stream": true
             }
         ]
     },
     "fn_attack1": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_attack1",
-            "stream": true
+            {
+                "name": "custom/fn/fn_attack1",
+                "stream": true
             }
         ]
     },
     "fn_deflagration": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_deflagration",
-            "stream": true
+            {
+                "name": "custom/fn/fn_deflagration",
+                "stream": true
             }
         ]
     },
     "fn_fire": {
         "sounds": [
-                {
-            "name": "custom/fn/fn_fire",
-            "stream": true
+            {
+                "name": "custom/fn/fn_fire",
+                "stream": true
             }
         ]
     },
     "fn_intro": {
         "sounds": [
-                {
-            "name": "custom/music/fn_intro",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/fn_intro",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "fn_boss": {
         "sounds": [
-                {
-            "name": "custom/music/fn_boss",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/fn_boss",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "boss_battle": {
         "sounds": [
-                {
-            "name": "custom/music/boss_battle",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/boss_battle",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "bossdemi_battle": {
         "sounds": [
-                {
-            "name": "custom/music/bossdemi_battle",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/bossdemi_battle",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "boss_secret": {
         "sounds": [
-                {
-            "name": "custom/music/boss_secret",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/boss_secret",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "boss_sidequest": {
         "sounds": [
-                {
-            "name": "custom/music/boss_sidequest",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/boss_sidequest",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "boss_arena": {
         "sounds": [
-                {
-            "name": "custom/music/boss_arena",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/boss_arena",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "bossend_arena": {
         "sounds": [
-                {
-            "name": "custom/music/bossend_arena",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/bossend_arena",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "boss_ouran": {
         "sounds": [
-                {
-            "name": "custom/music/boss_ouran",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/boss_ouran",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "etotsira_boss": {
         "sounds": [
-                {
-            "name": "custom/music/etotsira_boss",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/etotsira_boss",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "serile_intro": {
         "sounds": [
-                {
-            "name": "custom/music/serile_intro",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/serile_intro",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "serile_boss": {
         "sounds": [
-                {
-            "name": "custom/music/serile_boss",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/serile_boss",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "ryliath": {
         "sounds": [
-                {
-            "name": "custom/music/ryliath",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/ryliath",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "asunark": {
         "sounds": [
-                {
-            "name": "custom/music/asunark",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/asunark",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "worlest": {
         "sounds": [
-                {
-            "name": "custom/music/worlest",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/worlest",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "meleim": {
         "sounds": [
-                {
-            "name": "custom/music/meleim",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/meleim",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "eolorion": {
         "sounds": [
-                {
-            "name": "custom/music/eolorion",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/eolorion",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "corruption": {
         "sounds": [
-                {
-            "name": "custom/music/corruption",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/corruption",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "earndhel": {
         "sounds": [
-                {
-            "name": "custom/music/earndhel",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/earndhel",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "ithax": {
         "sounds": [
-                {
-            "name": "custom/music/ithax",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/ithax",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "silberland": {
         "sounds": [
-                {
-            "name": "custom/music/silberland",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/silberland",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "owsastr": {
         "sounds": [
-                {
-            "name": "custom/music/owsastr",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/owsastr",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "nojelanth": {
         "sounds": [
-                {
-            "name": "custom/music/nojelanth",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/nojelanth",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "hill_valley": {
         "sounds": [
-                {
-            "name": "custom/music/hill_valley",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/hill_valley",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "black_box": {
         "sounds": [
-                {
-            "name": "custom/music/black_box",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/black_box",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "billgart": {
         "sounds": [
-                {
-            "name": "custom/music/billgart",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/billgart",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "aoranos": {
         "sounds": [
-                {
-            "name": "custom/music/aoranos",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/aoranos",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "angband": {
         "sounds": [
-                {
-            "name": "custom/music/angband",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/angband",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "time_for_regrets": {
         "sounds": [
-                {
-            "name": "custom/music/time_for_regrets",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/time_for_regrets",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "desert": {
         "sounds": [
-                {
-            "name": "custom/music/desert",
-            "stream": false,
-            "preload": true
+            {
+                "name": "custom/music/desert",
+                "stream": false,
+                "preload": true
             }
         ]
     },
     "muixen": {
         "sounds": [
-                {
-            "name": "custom/music/muixen",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/muixen",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "time_of_end": {
         "sounds": [
-                {
-            "name": "custom/music/time_of_end",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/time_of_end",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "relgon_cinematic": {
         "sounds": [
-                {
-            "name": "custom/music/relgon_cinematic",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/relgon_cinematic",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "battle_sample": {
         "sounds": [
-                {
-            "name": "custom/music/battle_sample",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/battle_sample",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "battlesample_start": {
         "sounds": [
-                {
-            "name": "custom/music/battlesample_start",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/battlesample_start",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "battlesample_stop": {
         "sounds": [
-                {
-            "name": "custom/music/battlesample_stop",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/battlesample_stop",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "corruption_sample": {
         "sounds": [
-                {
-            "name": "custom/music/corruption_sample",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/corruption_sample",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "corruption_up": {
         "sounds": [
-                {
-            "name": "custom/corruption_up",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/corruption_up",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "space_gem": {
         "sounds": [
-                {
-            "name": "custom/music/space_gem",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/space_gem",
+                "stream": false,
+                "preload": false
             }
         ]
     },
     "time_gem": {
         "sounds": [
-                {
-            "name": "custom/music/time_gem",
-            "stream": false,
-            "preload": false
+            {
+                "name": "custom/music/time_gem",
+                "stream": false,
+                "preload": false
             }
         ]
     }

@@ -29,8 +29,5 @@
 	},
     "textures": {
         "layer0": "item/diamond_pickaxe"
-    },
-	"overrides": [
-        {"predicate": {"custom_model_data": 10000005},"model": "item/custom/sastr"}
-    ]
+    }
 }
