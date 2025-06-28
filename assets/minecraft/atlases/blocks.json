@@ -3,7 +3,10 @@
         {
             "type": "directory",
             "source": "gui/advancements/tutorial",
-            "prefix": "gui/advancements/tutorial/",
+            "prefix": "gui/advancements/tutorial/"
+        },
+        {
+            "type": "single",
             "resource": "entity/chest/normal"
         },
         {

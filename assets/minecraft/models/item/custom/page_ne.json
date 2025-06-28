@@ -1,0 +1,6 @@
+{
+    "parent": "item/nothing",
+    "textures": {
+        "layer0": "item/custom/page_ne"
+    }
+}
