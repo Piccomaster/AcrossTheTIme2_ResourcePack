@@ -4629,51 +4629,5 @@
 
   "enchantment.att2.cooldownrush": "§2§l急速冷却",
   "enchantment.att2.cooldownrush.show_text": "§6【点击此处进行附魔并查看详细介绍】\n§2人们都说急躁会减寿，事实也是如此",
-  "enchantment.att2.cooldownrush.explain": "每秒消耗(1*附魔等级)的生命值，额外提供(10*附魔等级)的法术冷却急速",
-
-
-
-
-
-
-
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX",
-  "enchantment.att2.XXX": "§aXXX"
-
+  "enchantment.att2.cooldownrush.explain": "每秒消耗(1*附魔等级)的生命值，额外提供(10*附魔等级)的法术冷却急速"
 }

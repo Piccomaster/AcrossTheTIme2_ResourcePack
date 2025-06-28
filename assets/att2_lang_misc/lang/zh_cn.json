@@ -116,28 +116,14 @@
   "att2.spell45.name":"§2§l狂战士",
   "att2.spell45.data":"§e§l【§6§l法术等级§8:%s§e|§6§l冷却§8:%s§6§l秒§e|§6§l范围§8:%s§6§l格§e§l】\n§e§l【§6§l属性§8:§7力量%s §7生命恢复%s §e|§6§l持续时间§8:%s§6§l秒§e§l】",
 
-
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX",
-  "att2.misc.XXXX":"XXXX"
-
+  "att2.runes.recipe.lock":"§c§l获得该符文材料或其上下阶材料后解锁",
+  "att2.runes.recipe.runepowder":"§e§l符文粉末",
+  "att2.runes.recipe.esc":"§d§l混沌鳞片",
+  "att2.runes.recipe.craft":"§e§l点击此处进行合成",
+  "att2.runes.recipe.runes_low":"§8§l低级符文材料合成",
+  "att2.runes.recipe.runes_mid":"§9§l中级符文合成",
+  "att2.runes.recipe.runes_hig":"§1§l高级符文合成",
+  "att2.runes.recipe.runewords":"§2§l铭文合成配方",
+  "att2.runes.recipe.other":"§c§l其他合成配方",
+  "att2.runes.runepowder.count":"§e§l当前符文粉末数量"
 }
