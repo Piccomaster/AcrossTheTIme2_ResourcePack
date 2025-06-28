@@ -20,7 +20,11 @@
             "rotation": [ -60, -90, 15 ],
             "translation": [ 1.13, 5.2, 3.0],
             "scale": [ 1.1, 1.1, 1.1]
-        }
+        },
+        "ground": {
+			"translation": [0, 0, 0],
+			"scale": [1, 1, 1]
+		}
     },
     "textures": {
         "layer0": "item/custom/immortalbow_standby"

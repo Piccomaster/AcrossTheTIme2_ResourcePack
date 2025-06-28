@@ -1,0 +1,41 @@
+{
+        "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/glowstone_dust"
+        },
+        "entries": [
+            {"threshold":10000000,"model":{"type":"model","model":"item/custom/runes/empty"}},
+            {"threshold":10000001,"model":{"type":"model","model":"item/custom/runes/gal"}},
+            {"threshold":10000002,"model":{"type":"model","model":"item/custom/runes/tha"}},
+            {"threshold":10000003,"model":{"type":"model","model":"item/custom/runes/fus"}},
+            {"threshold":10000004,"model":{"type":"model","model":"item/custom/runes/org"}},
+            {"threshold":10000005,"model":{"type":"model","model":"item/custom/runes/jo"}},
+            {"threshold":10000006,"model":{"type":"model","model":"item/custom/runes/ra"}},
+            {"threshold":10000007,"model":{"type":"model","model":"item/custom/runes/nym"}},
+            {"threshold":10000008,"model":{"type":"model","model":"item/custom/runes/inu"}},
+            {"threshold":10000009,"model":{"type":"model","model":"item/custom/runes/hal"}},
+            {"threshold":10000010,"model":{"type":"model","model":"item/custom/runes/von"}},
+            {"threshold":10000011,"model":{"type":"model","model":"item/custom/runes/ehl"}},
+            {"threshold":10000012,"model":{"type":"model","model":"item/custom/runes/ave"}},
+            {"threshold":10000013,"model":{"type":"model","model":"item/custom/runes/chu"}},
+            {"threshold":10000014,"model":{"type":"model","model":"item/custom/runes/for"}},
+            {"threshold":10000015,"model":{"type":"model","model":"item/custom/runes/da"}},
+            {"threshold":10000016,"model":{"type":"model","model":"item/custom/runes/wej"}},
+            {"threshold":10000017,"model":{"type":"model","model":"item/custom/runes/ust"}},
+            {"threshold":10000018,"model":{"type":"model","model":"item/custom/runes/lya"}},
+            {"threshold":10000019,"model":{"type":"model","model":"item/custom/runes/qi"}},
+            {"threshold":10000020,"model":{"type":"model","model":"item/custom/runes/bex"}},
+            {"threshold":10000021,"model":{"type":"model","model":"item/custom/runes/puh"}},
+            {"threshold":10000022,"model":{"type":"model","model":"item/custom/runes/syl"}},
+            {"threshold":10000023,"model":{"type":"model","model":"item/custom/runes/yog"}},
+            {"threshold":10000024,"model":{"type":"model","model":"item/custom/runes/kan"}},
+            {"threshold":10000025,"model":{"type":"model","model":"item/custom/runes/xul"}},
+            {"threshold":10000026,"model":{"type":"model","model":"item/custom/runes/zen"}},
+            {"threshold":10000027,"model":{"type":"model","model":"item/custom/runes/mot"}}
+        ]
+    }
+}
+
