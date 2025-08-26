@@ -1638,8 +1638,8 @@
 
   "enchantment.att2.hpmax_ex_dahalmax": "§2§lMana Drain",
   "enchantment.att2.hpmax_ex_dahalmax.data.show.show_text": "§6§lClick here to view detailed information on [Mana Drain] enchantment",
-  "enchantment.att2.hpmax_ex_dahalmax.show_text": "§6[Click here to enchant and view detailed information]\n§2Dedicate your life to Dahal",
-  "enchantment.att2.hpmax_ex_dahalmax.explain": "§e§lDahal Cap§7:§a+10x§a§lEnchantment Level\n§e§lHealth Cap§7:§c-10x§c§lEnchantment Level",
+  "enchantment.att2.hpmax_ex_dahalmax.show_text": "§6[Click here to enchant and view detailed information]\n§2Dedicate your life to Dahäl",
+  "enchantment.att2.hpmax_ex_dahalmax.explain": "§e§lDahäl Cap§7:§a+10x§a§lEnchantment Level\n§e§lHealth Cap§7:§c-10x§c§lEnchantment Level",
 
   "enchantment.att2.potionmaster": "§2§lPotion Master",
   "enchantment.att2.potionmaster.data.show.show_text": "§6§lClick here to view detailed information on [Potion Master] enchantment",
@@ -1660,8 +1660,8 @@
 
   "enchantment.att2.dahalburst": "§2§lMana Burst",
   "enchantment.att2.dahalburst.data.show.show_text": "§6§lClick here to view detailed information on [Mana Burst] enchantment",
-  "enchantment.att2.dahalburst.show_text": "§6[Click here to enchant and view detailed information]\n§2Only a Dahal master can comprehend this secret art",
-  "enchantment.att2.dahalburst.explain": "§7§lTrigger: Hold Dahal Caster and press §e§lShift\nConsumes §e[§e10*§e§lEnchantment Level%§e] Dahal, increasing next damaging spell's damage by §e[§e10*§e§lEnchantment Level%§e]",
+  "enchantment.att2.dahalburst.show_text": "§6[Click here to enchant and view detailed information]\n§2Only a Dahäl master can comprehend this secret art",
+  "enchantment.att2.dahalburst.explain": "§7§lTrigger: Hold Dahäl Caster and press §e§lShift\nConsumes §e[§e10*§e§lEnchantment Level%§e] Dahäl, increasing next damaging spell's damage by §e[§e10*§e§lEnchantment Level%§e]",
 
   "enchantment.att2.selflessaid": "§2§lSelfless Aid",
   "enchantment.att2.selflessaid.data.show.show_text": "§6§lClick here to view detailed information on [Selfless Aid] enchantment",
@@ -1678,7 +1678,7 @@
   "enchantment.att2.arcanedrive": "§2§lArcane Overload",
   "enchantment.att2.arcanedrive.data.show.show_text": "§6§lClick here to view detailed information on [Arcane Overload] enchantment",
   "enchantment.att2.arcanedrive.show_text": "§6[Click here to enchant and view detailed information]\n§2When your hands abandon fists, you can grasp its mystery",
-  "enchantment.att2.arcanedrive.explain": "§7§lWhen holding Dahal Caster in main or off-hand\n§e§lDAR Attribute§7:§a1+§a§lEnchantment Level",
+  "enchantment.att2.arcanedrive.explain": "§7§lWhen holding Dahäl Caster in main or off-hand\n§e§lDAR Attribute§7:§a1+§a§lEnchantment Level",
 
   "enchantment.att2.treasurehunter": "§2§lTreasure Hunter",
   "enchantment.att2.treasurehunter.data.show.show_text": "§6§lClick here to view detailed information on [Treasure Hunter] enchantment",
@@ -1695,7 +1695,7 @@
 
   "enchantment.att2.speedburn": "§2§lBlazing Speed",
   "enchantment.att2.speedburn.data.show.show_text": "§6§lClick here to view detailed information on [Blazing Speed] enchantment",
-  "enchantment.att2.speedburn.show_text": "§6[Click here to enchant and view detailed information]\n§2Run fast when you run fast",
+  "enchantment.att2.speedburn.show_text": "§6[Click here to enchant and view detailed information]\n§2Run faster",
   "enchantment.att2.speedburn.explain": "§7§lDuring sprinting\n§e§lSPD Attribute§7:§a1+§a§lEnchantment Level\n§7§lAlso §c§lconsumes saturation§7§l, greatly increasing SPD",
 
   "enchantment.att2.speedsave": "§2§lThousand-Mile Stride",
