@@ -1,7 +1,8 @@
 {
 	"__comment": "Made by adventquest",
 	"textures": {
-		"fleche_2": "item/custom/fleche_2"
+		"fleche_2": "item/custom/fleche_2",
+		"particle": "item/custom/fleche_2"
 	},
 	"elements": [ 
 	{

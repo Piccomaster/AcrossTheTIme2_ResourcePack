@@ -1,7 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "invminecarts:entity/minecart"
+		"0": "invminecarts:entity/minecart",
+		"particle": "invminecarts:entity/minecart"
 	},
 	"elements": [
 		{

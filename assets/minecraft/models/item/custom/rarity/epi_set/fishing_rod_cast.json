@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod_cast",
+    "textures": {
+        "layer1": "item/custom/rarity/epi_set"
+    }
+}

@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "invminecarts:entity/minecart",
 		"3": "entity/chest/normal",
-		"particle": "entity/chest/normal"
+		"particle": "invminecarts:entity/minecart"
 	},
 	"elements": [
 		{
