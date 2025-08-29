@@ -9,7 +9,8 @@
     "relgon_right": "item/custom/head/relgon_right",
     "relgon_hair_back": "item/custom/head/relgon_hair_back",
     "relgon_hair_left": "item/custom/head/relgon_hair_left",
-    "relgon_hair_right": "item/custom/head/relgon_hair_right"
+    "relgon_hair_right": "item/custom/head/relgon_hair_right",
+	"particle": "item/custom/head/relgon_front"
 },
 "elements": [ 
 {

@@ -1,3 +1,6 @@
 {
-  "parent": "item/custom/magasin"
+  "parent": "item/custom/magasin",
+  "textures": {
+      "particle": "item/custom/magasin"
+  }
 }

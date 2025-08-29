@@ -6,7 +6,8 @@
     "etotsira_y_bottom": "item/custom/head/etotsira_y_bottom",
     "etotsira_y_top": "item/custom/head/etotsira_y_top",
     "etotsira_y_left": "item/custom/head/etotsira_y_left",
-    "etotsira_y_right": "item/custom/head/etotsira_y_right"
+    "etotsira_y_right": "item/custom/head/etotsira_y_right",
+	"particle": "item/custom/head/etotsira_y_front"
 },
 "elements": [ 
 {

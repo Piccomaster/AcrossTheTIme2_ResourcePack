@@ -9,7 +9,8 @@
     "serile_right": "item/custom/head/serile_right",
     "serile_hair_back": "item/custom/head/serile_hair_back",
     "serile_hair_left": "item/custom/head/serile_hair_left",
-    "serile_hair_right": "item/custom/head/serile_hair_right"
+    "serile_hair_right": "item/custom/head/serile_hair_right",
+	"particle": "item/custom/head/serile_front"
 },
 "elements": [ 
 {

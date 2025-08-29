@@ -15,7 +15,8 @@
     "ue_crown_bottom": "item/custom/head/ue_crown_bottom",
     "ue_crown_top": "item/custom/head/ue_crown_top",
     "ue_crown_left": "item/custom/head/ue_crown_left",
-    "ue_crown_right": "item/custom/head/ue_crown_right"
+    "ue_crown_right": "item/custom/head/ue_crown_right",
+	"particle": "item/custom/head/korlaph_front"
 },
 "elements": [ 
 {

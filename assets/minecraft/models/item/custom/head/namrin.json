@@ -6,7 +6,8 @@
     "namrin_bottom": "item/custom/head/namrin_bottom",
     "namrin_top": "item/custom/head/namrin_top",
     "namrin_left": "item/custom/head/namrin_left",
-    "namrin_right": "item/custom/head/namrin_right"
+    "namrin_right": "item/custom/head/namrin_right",
+	"particle": "item/custom/head/namrin_front"
 },
 "elements": [ 
 {

@@ -4,6 +4,7 @@
         "layer1": "item/custom/rarity/myt",
         "layer2": "item/custom/rarity/myt",
         "layer3": "item/custom/rarity/myt",
-        "layer4": "item/custom/rarity/myt"
+        "layer4": "item/custom/rarity/myt",
+        "particle": "item/custom/magasin"
     }
 }

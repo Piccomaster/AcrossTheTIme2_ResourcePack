@@ -23,6 +23,7 @@
         }
 	},
     "textures": {
-        "layer0": "item/custom/magic_sphere_cast"
+        "layer0": "item/custom/magic_sphere_cast",
+        "particle": "item/custom/magic_sphere_cast"
     }
 }

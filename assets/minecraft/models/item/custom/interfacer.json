@@ -7,8 +7,7 @@
 		"3": "item/custom/interfacer/main_3",
 		"4": "item/custom/interfacer/side",
 		"5": "item/custom/interfacer/grip",
-		"6": "item/custom/interfacer/grip_2",
-		"particle": "item/custom/interfacer/barrel"
+		"6": "item/custom/interfacer/grip_2"
 	},
 	"elements": [
 		{

@@ -18,7 +18,8 @@
 		"serile_hood_bottom_back": "item/custom/head/serile_hood_bottom_back",
 		"serile_hood_bottom_left": "item/custom/head/serile_hood_bottom_left",
 		"serile_hood_bottom_right": "item/custom/head/serile_hood_bottom_right",
-		"serile_scarf": "item/custom/head/serile_scarf"
+		"serile_scarf": "item/custom/head/serile_scarf",
+		"particle": "item/custom/head/serile_front_old_shadow"
 	},
 	"elements": [
 		{

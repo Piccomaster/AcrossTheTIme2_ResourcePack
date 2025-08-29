@@ -7,7 +7,8 @@
     "golem_top": "item/custom/head/golem_top",
     "golem_left": "item/custom/head/golem_left",
     "golem_right": "item/custom/head/golem_right",
-	"golem_eyebrow": "item/custom/head/golem_eyebrow"
+	"golem_eyebrow": "item/custom/head/golem_eyebrow",
+	"particle": "item/custom/head/golem_front"
 },
 "elements": [ 
 {
