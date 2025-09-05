@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/custom/magic_sphere_uncast/gui/spell34/spell34"
+    }
+}
