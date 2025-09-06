@@ -1,222 +1,444 @@
 {
   "model": {
-    "type": "minecraft:condition",
-    "property": "minecraft:using_item",
-    "on_true": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/custom/magic_sphere_cast"
-    },
-    "on_false": {
-      "type": "minecraft:range_dispatch",
-      "property": "minecraft:custom_model_data",
-      "entries": [
-        {
-          "threshold": 1,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell1"
-          }
-        },
-        {
-          "threshold": 2,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell2"
-          }
-        },
-        {
-          "threshold": 3,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell3"
-          }
-        },
-        {
-          "threshold": 4,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell4"
-          }
-        },
-        {
-          "threshold": 5,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell5"
-          }
-        },
-        {
-          "threshold": 6,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell6"
-          }
-        },
-        {
-          "threshold": 7,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell7"
-          }
-        },
-        {
-          "threshold": 8,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell8"
-          }
-        },
-        {
-          "threshold": 9,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell9"
-          }
-        },
-        {
-          "threshold": 10,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell10"
-          }
-        },
-        {
-          "threshold": 11,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell11"
-          }
-        },
-        {
-          "threshold": 21,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell21"
-          }
-        },
-        {
-          "threshold": 22,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell22"
-          }
-        },
-        {
-          "threshold": 23,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell23"
-          }
-        },
-        {
-          "threshold": 24,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell24"
-          }
-        },
-        {
-          "threshold": 25,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell25"
-          }
-        },
-        {
-          "threshold": 26,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell26"
-          }
-        },
-        {
-          "threshold": 27,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell27"
-          }
-        },
-        {
-          "threshold": 28,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell28"
-          }
-        },
-        {
-          "threshold": 30,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell30"
-          }
-        },
-        {
-          "threshold": 31,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell31"
-          }
-        },
-        {
-          "threshold": 32,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell32"
-          }
-        },
-        {
-          "threshold": 34,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell34"
-          }
-        },
-        {
-          "threshold": 40,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell40"
-          }
-        },
-        {
-          "threshold": 41,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell41"
-          }
-        },
-        {
-          "threshold": 42,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell42"
-          }
-        },
-        {
-          "threshold": 43,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell43"
-          }
-        },
-        {
-          "threshold": 44,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell44"
-          }
-        },
-        {
-          "threshold": 45,
-          "model": {
-            "type": "model",
-            "model": "item/custom/magic_sphere_uncast/spell45"
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases" : [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:custom_model_data",
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell1"
+              }
+            },
+            {
+              "threshold": 2,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell2"
+              }
+            },
+            {
+              "threshold": 3,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell3"
+              }
+            },
+            {
+              "threshold": 4,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell4"
+              }
+            },
+            {
+              "threshold": 5,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell5"
+              }
+            },
+            {
+              "threshold": 6,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell6"
+              }
+            },
+            {
+              "threshold": 7,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell7"
+              }
+            },
+            {
+              "threshold": 8,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell8"
+              }
+            },
+            {
+              "threshold": 9,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell9"
+              }
+            },
+            {
+              "threshold": 10,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell10"
+              }
+            },
+            {
+              "threshold": 11,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell11"
+              }
+            },
+            {
+              "threshold": 21,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell21"
+              }
+            },
+            {
+              "threshold": 22,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell22"
+              }
+            },
+            {
+              "threshold": 23,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell23"
+              }
+            },
+            {
+              "threshold": 24,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell24"
+              }
+            },
+            {
+              "threshold": 25,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell25"
+              }
+            },
+            {
+              "threshold": 26,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell26"
+              }
+            },
+            {
+              "threshold": 27,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell27"
+              }
+            },
+            {
+              "threshold": 28,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell28"
+              }
+            },
+            {
+              "threshold": 30,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell30"
+              }
+            },
+            {
+              "threshold": 31,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell31"
+              }
+            },
+            {
+              "threshold": 32,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell32"
+              }
+            },
+            {
+              "threshold": 34,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell34"
+              }
+            },
+            {
+              "threshold": 40,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell40"
+              }
+            },
+            {
+              "threshold": 41,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell41"
+              }
+            },
+            {
+              "threshold": 42,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell42"
+              }
+            },
+            {
+              "threshold": 43,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell43"
+              }
+            },
+            {
+              "threshold": 44,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell44"
+              }
+            },
+            {
+              "threshold": 45,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell45"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/enchanted_book"
           }
         }
-      ],
-      "fallback": {
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
         "type": "minecraft:model",
-        "model": "minecraft:item/enchanted_book"
+        "model": "minecraft:item/custom/magic_sphere_cast"
+      },
+      "on_false": {
+        "type": "minecraft:range_dispatch",
+        "property": "minecraft:custom_model_data",
+        "entries": [
+          {
+            "threshold": 1,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell1"
+            }
+          },
+          {
+            "threshold": 2,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell2"
+            }
+          },
+          {
+            "threshold": 3,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell3"
+            }
+          },
+          {
+            "threshold": 4,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell4"
+            }
+          },
+          {
+            "threshold": 5,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell5"
+            }
+          },
+          {
+            "threshold": 6,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell6"
+            }
+          },
+          {
+            "threshold": 7,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell7"
+            }
+          },
+          {
+            "threshold": 8,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell8"
+            }
+          },
+          {
+            "threshold": 9,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell9"
+            }
+          },
+          {
+            "threshold": 10,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell10"
+            }
+          },
+          {
+            "threshold": 11,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell11"
+            }
+          },
+          {
+            "threshold": 21,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell21"
+            }
+          },
+          {
+            "threshold": 22,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell22"
+            }
+          },
+          {
+            "threshold": 23,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell23"
+            }
+          },
+          {
+            "threshold": 24,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell24"
+            }
+          },
+          {
+            "threshold": 25,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell25"
+            }
+          },
+          {
+            "threshold": 26,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell26"
+            }
+          },
+          {
+            "threshold": 27,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell27"
+            }
+          },
+          {
+            "threshold": 28,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell28"
+            }
+          },
+          {
+            "threshold": 30,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell30"
+            }
+          },
+          {
+            "threshold": 31,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell31"
+            }
+          },
+          {
+            "threshold": 32,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell32"
+            }
+          },
+          {
+            "threshold": 34,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell34"
+            }
+          },
+          {
+            "threshold": 40,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell40"
+            }
+          },
+          {
+            "threshold": 41,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell41"
+            }
+          },
+          {
+            "threshold": 42,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell42"
+            }
+          },
+          {
+            "threshold": 43,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell43"
+            }
+          },
+          {
+            "threshold": 44,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell44"
+            }
+          },
+          {
+            "threshold": 45,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell45"
+            }
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/enchanted_book"
+        }
       }
     }
   }
