@@ -1,6 +1,7 @@
 {
-    "parent": "item/custom/map/sylberland_51",
+    "parent": "item/custom/map_display",
     "textures": {
+        "layer0": "item/custom/map/gui/sylberland_51",
         "layer1": "item/custom/rarity/misc"
     }
 }
