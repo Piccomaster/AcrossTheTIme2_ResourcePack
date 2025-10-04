@@ -1,20 +1,172 @@
 {
     "model": {
-        "type": "range_dispatch",
-        "property": "custom_model_data",
-        "index": 0,
-        "entries": [
-            {
-            "threshold": 26209,
-            "model": {
+        "fallback": {
+            "type": "select",
+            "property": "display_context",
+            "cases": [
+                {
+                    "when": "gui",
+                    "model": {
+                        "type": "select",
+                        "property": "component",
+                        "component": "tooltip_style",
+                        "cases": [
+                            {
+                                "when": "minecraft:rarity/com/com",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/com/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/unc/unc",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/unc/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/rar/rar",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/rar/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/epi/epi",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/epi/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/epi_esc/epi_esc",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/epi_esc/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/leg/leg",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/leg/stick"
+                                }
+                            },
+                            {
+                                "when": "minecraft:rarity/ult/ult",
+                                "model": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/rarity/ult/stick"
+                                }
+                            }
+                        ],
+                        "fallback": {
+                            "type": "model",
+                            "model": "minecraft:item/stick"
+                        }
+                    }
+                }
+            ],
+            "fallback": {
                 "type": "model",
-                "model": "invminecarts:minecart/normal"
+                "model": "minecraft:item/stick"
+            }
+        },
+        "type": "select",
+        "property": "component",
+        "component": "minecraft:custom_data",
+        "cases": [
+            {
+                "when": {
+                    "damage_percent": 10
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/10"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 9
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/9"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 8
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/8"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 7
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/7"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 6
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/6"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 5
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/5"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 4
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/4"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 3
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/3"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 2
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/2"
+                }
+            },
+            {
+                "when": {
+                    "damage_percent": 1
+                },
+                "model": {
+                    "type": "model",
+                    "model": "minecraft:item/custom/items/durability/1"
                 }
             }
-        ],
-        "fallback": {
-            "type": "model",
-            "model": "minecraft:item/stick"
-        }
+        ]
     }
 }

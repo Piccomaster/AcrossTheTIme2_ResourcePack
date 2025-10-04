@@ -1,0 +1,44 @@
+{
+  "oversized_in_gui":true,
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "entries": [
+      {
+        "threshold": 0,
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/runicwords/0"
+        }
+      },
+      {
+        "threshold": 1,
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/runicwords/1"
+        }
+      },
+      {
+        "threshold": 2,
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/runicwords/2"
+        }
+      },
+      {
+        "threshold": 11,
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/runicwords/11"
+        }
+      },
+      {
+        "threshold": 777,
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/runicwords/1"
+        }
+      }
+    ]
+  }
+}

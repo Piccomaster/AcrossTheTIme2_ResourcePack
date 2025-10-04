@@ -1,0 +1,7 @@
+{
+    "parent": "item/custom/tutorial/background",
+    "textures": {
+        "particle": "gui/advancements/tutorial/chronotons/2",
+        "texture": "gui/advancements/tutorial/chronotons/2"
+    }
+}
