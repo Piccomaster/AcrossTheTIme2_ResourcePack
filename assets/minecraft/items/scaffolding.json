@@ -14,7 +14,7 @@
               "when": "minecraft:rarity/misc/misc",
               "model": {
                 "type": "model",
-                "model": "minecraft:item/custom/rarity/misc/scaffolding"
+                "model": "minecraft:item/custom/rarity/misc/scaffolding_stable"
               }
             }
           ],

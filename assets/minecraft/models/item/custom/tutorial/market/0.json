@@ -1,0 +1,7 @@
+{
+    "parent": "item/custom/tutorial/background",
+    "textures": {
+        "particle": "gui/advancements/tutorial/market/0",
+        "texture": "gui/advancements/tutorial/market/0"
+    }
+}

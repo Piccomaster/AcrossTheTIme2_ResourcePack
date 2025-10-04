@@ -1,0 +1,7 @@
+{
+    "parent": "item/custom/tutorial/background",
+    "textures": {
+        "particle": "gui/advancements/tutorial/runicwords/11",
+        "texture": "gui/advancements/tutorial/runicwords/11"
+    }
+}
