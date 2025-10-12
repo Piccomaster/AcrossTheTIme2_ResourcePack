@@ -2,8 +2,8 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/meleeweapon.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/meleeweapon.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "a"
@@ -11,8 +11,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/rangeweapon.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/rangeweapon.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "b"
@@ -20,8 +20,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/armor.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/armor.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "c"
@@ -29,8 +29,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/spell.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/spell.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "d"
@@ -38,8 +38,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/currency.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/currency.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "e"
@@ -47,8 +47,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/food.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/food.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "f"
@@ -56,8 +56,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/potion.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/potion.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "g"
@@ -65,8 +65,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/rune.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/rune.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "h"
@@ -74,8 +74,8 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/matching_game/lock.png",
-      "ascent": 13,
+      "file": "minecraft:item/custom/matching_game/lock.png",
+      "ascent": 18,
       "height": 18,
       "chars": [
         "l"

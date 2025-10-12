@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/str.png",
+      "file": "att2_font:consciousness/str.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -11,7 +11,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/res.png",
+      "file": "att2_font:consciousness/res.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -20,7 +20,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/has.png",
+      "file": "att2_font:consciousness/has.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -29,7 +29,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/spd.png",
+      "file": "att2_font:consciousness/spd.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -38,7 +38,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/her.png",
+      "file": "att2_font:consciousness/her.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -47,7 +47,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/dar.png",
+      "file": "att2_font:consciousness/dar.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -56,7 +56,7 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/luc.png",
+      "file": "att2_font:consciousness/luc.png",
       "ascent": 13,
       "height": 18,
       "chars": [
@@ -65,11 +65,20 @@
     },
     {
       "type": "bitmap",
-      "file": "att2_font:font/consciousness/hun.png",
+      "file": "att2_font:consciousness/hun.png",
       "ascent": 13,
       "height": 18,
       "chars": [
         "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/bookui.png",
+      "ascent": 25,
+      "height": 56,
+      "chars": [
+        "l"
       ]
     }
   ]
