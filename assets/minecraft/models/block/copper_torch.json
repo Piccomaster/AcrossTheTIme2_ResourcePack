@@ -4,7 +4,7 @@
         "torch": "block/torch",
         "handle": "block/torch",
         "end": "block/iron_block",
-		"flame": "block/soul_campfire_fire",
-		"inner": "block/soul_lantern"
+        "flame": "block/weathered_copper_lantern",
+        "inner": "block/copper_lantern"
     }
 }
