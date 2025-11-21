@@ -2157,6 +2157,15 @@
             }
         ]
     },
+    "horse_racing": {
+        "sounds": [
+            {
+                "name": "custom/music/horse_racing",
+                "stream": false,
+                "preload": false
+            }
+        ]
+    },
     "battle_sample": {
         "sounds": [
             {
