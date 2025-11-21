@@ -1,6 +1,7 @@
 {
   "pack": {
-    "pack_format": 55,
-    "description": "§7A Ressource pack 1.21.5 made by §6Team Adventquest §4v6.0.0"
+    "min_format": [69, 0],
+    "max_format": [69, 0],
+    "description": "§4v6.0.0 §6by Team Adventquest §f- §7For Minecraft 1.21.10"
   }
 }
