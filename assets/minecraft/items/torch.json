@@ -23,6 +23,25 @@
             "model": "minecraft:item/torch"
           }
         }
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/torch"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/custom/nothing"
+          },
+          "property": "component",
+          "predicate": "minecraft:custom_data",
+          "value": {
+            "QuickSlotTemp": true
+          }
+        },
+        "when": "ground"
       }
     ],
     "fallback": {

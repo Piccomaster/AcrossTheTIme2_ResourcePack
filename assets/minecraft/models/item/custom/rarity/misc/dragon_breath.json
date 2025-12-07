@@ -1,0 +1,6 @@
+{
+    "parent": "item/dragon_breath",
+    "textures": {
+        "layer1": "item/custom/rarity/misc"
+    }
+}

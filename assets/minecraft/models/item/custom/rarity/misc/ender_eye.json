@@ -1,0 +1,6 @@
+{
+    "parent": "item/black_bundle",
+    "textures": {
+        "layer1": "item/custom/rarity/misc"
+    }
+}

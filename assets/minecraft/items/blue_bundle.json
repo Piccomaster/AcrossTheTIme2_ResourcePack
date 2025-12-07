@@ -28,6 +28,25 @@
           "property": "minecraft:bundle/has_selected_item"
         },
         "when": "gui"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/blue_bundle"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/custom/nothing"
+          },
+          "property": "component",
+          "predicate": "minecraft:custom_data",
+          "value": {
+            "QuickSlotTemp": true
+          }
+        },
+        "when": "ground"
       }
     ],
     "fallback": {

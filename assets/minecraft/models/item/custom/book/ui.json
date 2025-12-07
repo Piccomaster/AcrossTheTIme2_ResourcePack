@@ -1,0 +1,22 @@
+{
+
+    "elements": [
+        {
+        "from": [ -16, -16, 4 ],
+        "to": [ 32, 32, 4.0625 ],
+        "faces": {
+            "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+            }
+        }
+    ],
+    "display": {
+        "gui": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 80, -80, 0 ],
+            "scale": [ 4, 4, 4 ]
+        }
+    },
+    "textures": {
+        "texture": "item/custom/book/ui"
+    }
+}

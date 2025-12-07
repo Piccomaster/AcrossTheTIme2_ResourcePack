@@ -5,10 +5,10 @@
 		"9": "item/custom/fenrir_pack/fenrir_blade_4",
 		"blade_1": "item/custom/fenrir_pack/fenrir_blade_1",
 		"blade_2": "item/custom/fenrir_pack/fenrir_blade_2",
-		"garde": "block/snow",
-		"fusee": "block/obsidian",
-		"light_blue": "block/packed_ice",
-		"particle": "block/packed_ice"
+		"garde": "item/custom/fenrir_pack/snow",
+		"fusee": "item/custom/fenrir_pack/obsidian",
+		"light_blue": "item/custom/fenrir_pack/packed_ice",
+		"particle": "item/custom/fenrir_pack/packed_ice"
 	},
 	"elements": [
 		{
@@ -413,12 +413,12 @@
 			"from": [8, 17.8, 7],
 			"to": [8, 20, 9],
 			"faces": {
-				"north": {"uv": [0, 0, 0, 2.2], "texture": "#missing"},
+				"north": {"uv": [0, 0, 0, 2.2], "texture": "#blade_1"},
 				"east": {"uv": [0, 4, 1.5, 6.2], "texture": "#blade_1"},
-				"south": {"uv": [0, 0, 0, 2.2], "texture": "#missing"},
+				"south": {"uv": [0, 0, 0, 2.2], "texture": "#blade_1"},
 				"west": {"uv": [14.5, 4, 16, 6.2], "texture": "#blade_2"},
-				"up": {"uv": [0, 0, 0, 2], "texture": "#missing"},
-				"down": {"uv": [0, 0, 0, 2], "texture": "#missing"}
+				"up": {"uv": [0, 0, 0, 2], "texture": "#blade_1"},
+				"down": {"uv": [0, 0, 0, 2], "texture": "#blade_1"}
 			}
 		}
 	],

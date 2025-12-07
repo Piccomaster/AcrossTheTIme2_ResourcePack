@@ -1,0 +1,113 @@
+{
+  "hand_animation_on_swap": false,
+  "swap_animation_scale": 777,
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:custom_model_data",
+          "entries": [
+            {
+              "threshold": 0,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown0"
+              }
+            },
+            {
+              "threshold": 1,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown1"
+              }
+            },
+            {
+              "threshold": 2,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown2"
+              }
+            },
+            {
+              "threshold": 3,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown3"
+              }
+            },
+            {
+              "threshold": 4,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown4"
+              }
+            },
+            {
+              "threshold": 5,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown5"
+              }
+            },
+            {
+              "threshold": 6,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown6"
+              }
+            },
+            {
+              "threshold": 7,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown7"
+              }
+            },
+            {
+              "threshold": 8,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown8"
+              }
+            },
+            {
+              "threshold": 9,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown9"
+              }
+            },
+            {
+              "threshold": 10,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/spell4/cooldown10"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/enchanted_book"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "property": "minecraft:using_item",
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/custom/magic_sphere_cast"
+      },
+      "on_false": {
+        "type": "model",
+        "model": "item/custom/magic_sphere_uncast/spell4"
+      }
+    }
+  }
+}
