@@ -1,6 +1,65 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/ender_eye"
+    "type": "select",
+    "property": "display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "select",
+          "property": "component",
+          "component": "tooltip_style",
+          "cases": [
+            {
+              "when": "minecraft:rarity/misc/misc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/misc/ender_eye"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "minecraft:item/ender_eye"
+          }
+        }
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/custom/rune_bundle"
+          },
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/custom/nothing"
+          },
+          "property": "component",
+          "predicate": "minecraft:custom_data",
+          "value": {
+            "QuickSlotTemp": true
+          }
+        },
+        "when": "ground"
+      }
+    ],
+    "fallback": {
+      "type": "range_dispatch",
+      "property": "custom_model_data",
+      "entries": [
+        {
+          "threshold": 1,
+          "model": {
+            "type": "model",
+            "model": "minecraft:item/custom/rune_bundle"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "model",
+        "model": "minecraft:item/ender_eye"
+      }
+    }
   }
 }

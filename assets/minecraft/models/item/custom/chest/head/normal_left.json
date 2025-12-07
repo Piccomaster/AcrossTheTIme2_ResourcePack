@@ -1,0 +1,36 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Designed by Adventquest",
+	"textures": {
+		"particle": "item/custom/chest/normal_big",
+		"chest": "item/custom/chest/normal_big"
+	},
+	"elements": [
+		{
+			"from": [1, 10, 1],
+			"to": [16, 14, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 10, 0]},
+			"faces": {
+				"north": {"uv": [3.625, 3.5, 5.5, 4.625], "texture": "#chest", "cullface": "north"},
+				"east": {"uv": [10.6875, 6.4375, 12.1875, 7.375], "texture": "#chest", "cullface": "east"},
+				"south": {"uv": [7.25, 3.5, 9.125, 4.625], "texture": "#chest", "cullface": "east"},
+				"west": {"uv": [5.5, 3.5, 7.25, 4.625], "texture": "#chest", "cullface": "east"},
+				"up": {"uv": [3.625, 0, 5.5, 3.5], "rotation": 180, "texture": "#chest"},
+				"down": {"uv": [5.5, 0, 7.375, 3.5], "texture": "#chest"}
+			}
+		},
+		{
+			"from": [15, 8, 0],
+			"to": [16, 12, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 8, 0]},
+			"faces": {
+				"north": {"uv": [0.25, 0.25, 0.125, 1.25], "texture": "#chest"},
+				"east": {"uv": [0.6875, 0, 0.9442, 1.1667], "texture": "#chest"},
+				"south": {"uv": [0.725, 0.08, 0.26667, 1.24667], "texture": "#chest"},
+				"west": {"uv": [0.3125, 0.0833, 0.4442, 1.25], "texture": "#chest"},
+				"up": {"uv": [0.125, 0, 0.25, 0.25], "texture": "#chest"},
+				"down": {"uv": [0.6875, 0, 1.14583, 0.20833], "rotation": 90, "texture": "#chest"}
+			}
+		}
+	]
+}

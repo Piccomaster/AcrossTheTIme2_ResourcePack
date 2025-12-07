@@ -13,6 +13,16 @@
             "type": "directory",
             "source": "entity",
             "prefix": "entity/"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "item/",
+            "source": "item"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "skin/",
+            "source": "skin"
         }
     ]
 }

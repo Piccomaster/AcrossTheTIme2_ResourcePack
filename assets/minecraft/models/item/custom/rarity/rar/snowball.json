@@ -1,5 +1,5 @@
 {
-    "parent": "item/snowball",
+    "parent": "item/custom/bait/rar",
     "textures": {
         "layer1": "item/custom/rarity/rar"
     }

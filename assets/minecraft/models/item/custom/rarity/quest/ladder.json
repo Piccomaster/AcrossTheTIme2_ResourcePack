@@ -1,6 +1,7 @@
 {
-    "parent": "item/ladder",
+    "parent": "item/generated",
     "textures": {
+        "layer0": "item/ladder",
         "layer1": "item/custom/rarity/quest"
     }
 }

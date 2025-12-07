@@ -1,6 +1,6 @@
 {
     "parent": "item/tipped_arrow",
     "textures": {
-        "layer1": "item/custom/rarity/misc"
+        "layer2": "item/custom/rarity/misc"
     }
 }

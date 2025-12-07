@@ -1,6 +1,7 @@
 {
     "parent": "item/rail",
     "textures": {
+        "layer0": "item/rail",
         "layer1": "item/custom/rarity/quest"
     }
 }
