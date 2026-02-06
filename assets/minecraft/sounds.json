@@ -2582,15 +2582,5 @@
             }
         ],
         "subtitle": "subtitles.block.copper_chest.open"
-    },
-    "eolorion_battle": {
-        "sounds": [
-            {
-                "name": "custom/music/eolorion_battle",
-                "stream": false,
-                "preload": true
-            }
-        ]
     }
-
 }
