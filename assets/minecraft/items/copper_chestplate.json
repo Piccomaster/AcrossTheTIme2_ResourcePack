@@ -12,9 +12,9 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_chestplate_iron_trim"
+          "model": "minecraft:item/copper_chestplate_copper_trim"
         },
-        "when": "minecraft:iron"
+        "when": "minecraft:copper"
       },
       {
         "model": {
@@ -81,8 +81,91 @@
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/copper_chestplate"
+      "type": "select",
+      "property": "display_context",
+      "cases": [
+        {
+          "when": "gui",
+          "model": {
+            "type": "select",
+            "property": "component",
+            "component": "tooltip_style",
+            "cases": [
+              {
+                "when": "minecraft:rarity/com/com",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/com/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/unc/unc",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/unc/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/rar/rar",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/rar/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/epi/epi",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/epi/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/epi_esc/epi_esc",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/epi_esc/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/epi_set/epi_set",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/epi_set/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/leg/leg",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/leg/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/leg_armset/leg_armset",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/leg_armset/copper_chestplate"
+                }
+              },
+              {
+                "when": "minecraft:rarity/ult/ult",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/ult/copper_chestplate"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "minecraft:item/copper_chestplate"
+            }
+          }
+        }
+      ],
+      "fallback": {
+        "type": "model",
+        "model": "minecraft:item/copper_chestplate"
+      }
     },
     "property": "minecraft:trim_material"
   }

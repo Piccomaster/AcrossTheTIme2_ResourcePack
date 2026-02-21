@@ -4,8 +4,64 @@
     "cases": [
       {
         "model": {
-          "type": "minecraft:model",
-          "model": "minecraft:item/copper_spear"
+          "type": "select",
+          "property": "component",
+          "component": "tooltip_style",
+          "cases": [
+            {
+              "when": "minecraft:rarity/com/com",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/com/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/unc/unc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/unc/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/rar/rar",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/rar/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/epi/epi",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/epi/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/epi_esc/epi_esc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/epi_esc/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/leg/leg",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/leg/copper_spear"
+              }
+            },
+            {
+              "when": "minecraft:rarity/ult/ult",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/ult/copper_spear"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "minecraft:item/copper_spear"
+          }
         },
         "when": [
           "gui",
