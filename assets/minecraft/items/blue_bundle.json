@@ -10,33 +10,6 @@
             "model": "minecraft:item/blue_bundle"
           },
           "on_true": {
-            "type": "minecraft:composite",
-            "models": [
-              {
-                "type": "minecraft:model",
-                "model": "minecraft:item/blue_bundle_open_back"
-              },
-              {
-                "type": "minecraft:bundle/selected_item"
-              },
-              {
-                "type": "minecraft:model",
-                "model": "minecraft:item/blue_bundle_open_front"
-              }
-            ]
-          },
-          "property": "minecraft:bundle/has_selected_item"
-        },
-        "when": "gui"
-      },
-      {
-        "model": {
-          "type": "minecraft:condition",
-          "on_false": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/blue_bundle"
-          },
-          "on_true": {
             "type": "minecraft:model",
             "model": "minecraft:item/custom/nothing"
           },
@@ -47,11 +20,66 @@
           }
         },
         "when": "ground"
+      },
+      {
+        "model": {
+          "type": "minecraft:condition",
+          "on_false": {
+            "type": "select",
+            "property": "component",
+            "component": "tooltip_style",
+            "cases": [
+              {
+                "when": "minecraft:rarity/unc/unc",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/unc/blue_bundle"
+                }
+              },
+              {
+                "when": "minecraft:rarity/rar/rar",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/rar/blue_bundle"
+                }
+              },
+              {
+                "when": "minecraft:rarity/epi/epi",
+                "model": {
+                  "type": "model",
+                  "model": "minecraft:item/custom/rarity/epi/blue_bundle"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "model",
+              "model": "minecraft:item/bundle"
+            }
+          },
+          "on_true": {
+            "type": "minecraft:composite",
+            "models": [
+              {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bundle_open_back"
+              },
+              {
+                "type": "minecraft:bundle/selected_item"
+              },
+              {
+                "type": "minecraft:model",
+                "model": "minecraft:item/bundle_open_front"
+              }
+            ]
+          },
+          "property": "minecraft:bundle/has_selected_item"
+        },
+        "when": "gui"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/blue_bundle"
+      "model": "minecraft:item/bundle"
     },
     "property": "minecraft:display_context"
   }

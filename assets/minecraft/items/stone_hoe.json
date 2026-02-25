@@ -1,6 +1,82 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "minecraft:item/stone_hoe"
+    "type": "select",
+    "property": "display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "select",
+          "property": "component",
+          "component": "tooltip_style",
+          "cases": [
+            {
+              "when": "minecraft:rarity/com/com",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/com/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/unc/unc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/unc/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/rar/rar",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/rar/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/epi/epi",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/epi/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/epi_esc/epi_esc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/epi_esc/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/leg/leg",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/leg/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/ult/ult",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/ult/stone_hoe"
+              }
+            },
+            {
+              "when": "minecraft:rarity/quest/quest",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/quest/stone_hoe"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "minecraft:item/stone_hoe"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/stone_hoe"
+    }
   }
 }
