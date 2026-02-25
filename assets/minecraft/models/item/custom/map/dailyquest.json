@@ -1,0 +1,6 @@
+{
+    "parent": "item/custom/map/sign",
+    "textures": {
+        "layer0": "item/custom/map/dailyquest"
+    }
+}

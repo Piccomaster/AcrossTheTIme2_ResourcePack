@@ -1,0 +1,6 @@
+{
+    "parent": "item/custom/magic_sphere_uncast",
+    "textures": {
+        "layer0": "item/custom/magic_sphere_uncast/spell33/spell33"
+    }
+}
