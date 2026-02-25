@@ -1,0 +1,6 @@
+{
+    "parent": "item/blue_bundle",
+    "textures": {
+        "layer1": "item/custom/rarity/unc"
+    }
+}
