@@ -12,13 +12,6 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/copper_helmet_copper_trim"
-        },
-        "when": "minecraft:copper"
-      },
-      {
-        "model": {
-          "type": "minecraft:model",
           "model": "minecraft:item/copper_helmet_netherite_trim"
         },
         "when": "minecraft:netherite"
