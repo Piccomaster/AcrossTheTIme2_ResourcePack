@@ -1,0 +1,6 @@
+{
+    "parent": "item/copper_chestplate",
+    "textures": {
+        "layer1": "item/custom/rarity/epi_set"
+    }
+}

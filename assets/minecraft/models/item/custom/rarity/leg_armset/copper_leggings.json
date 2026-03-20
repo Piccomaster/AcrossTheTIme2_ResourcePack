@@ -1,0 +1,6 @@
+{
+    "parent": "item/copper_leggings",
+    "textures": {
+        "layer1": "item/custom/rarity/leg_armset"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "item/copper_sword",
+    "textures": {
+        "layer1": "item/custom/rarity/leg"
+    }
+}

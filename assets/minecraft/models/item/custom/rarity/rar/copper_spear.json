@@ -1,0 +1,6 @@
+{
+    "parent": "item/copper_spear",
+    "textures": {
+        "layer1": "item/custom/rarity/rar"
+    }
+}
