@@ -1,0 +1,7 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/custom/pickable_item/chronoton",
+		"layer1": "item/custom/pickable_item/overlay/dirt/1"
+	}
+}

@@ -1,0 +1,47 @@
+{
+  "model": {
+    "type": "select",
+    "property": "display_context",
+    "cases": [
+      {
+        "when": "gui",
+        "model": {
+          "type": "select",
+          "property": "component",
+          "component": "tooltip_style",
+          "cases": [
+            {
+              "when": "minecraft:rarity/unc/unc",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/unc/explosive_arrow"
+              }
+            },
+            {
+              "when": "minecraft:rarity/rar/rar",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/rar/explosive_arrow"
+              }
+            },
+            {
+              "when": "minecraft:rarity/epi/epi",
+              "model": {
+                "type": "model",
+                "model": "minecraft:item/custom/rarity/epi/explosive_arrow"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "minecraft:item/custom/arrows/explosive_arrow"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "model",
+      "model": "minecraft:item/custom/arrows/explosive_arrow"
+    }
+  }
+}

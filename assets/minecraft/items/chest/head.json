@@ -53,105 +53,105 @@
         }
       },
       {
-        "when": "normal_single_littlekey",
+        "when": "normal_single_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_littlekey",
+        "when": "normal_left_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_littlekey",
+        "when": "normal_right_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_bigkey",
+        "when": "normal_single_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_bigkey",
+        "when": "normal_left_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_bigkey",
+        "when": "normal_right_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_emeraldkey",
+        "when": "normal_single_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_emeraldkey",
+        "when": "normal_left_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_emeraldkey",
+        "when": "normal_right_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_asunarkstone",
+        "when": "normal_single_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_asunarkstone",
+        "when": "normal_left_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_asunarkstone",
+        "when": "normal_right_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_ladderpart",
+        "when": "normal_single_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_ladderpart",
+        "when": "normal_left_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_ladderpart",
+        "when": "normal_right_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -200,21 +200,21 @@
         }
       },
       {
-        "when": "normal_single_cereals",
+        "when": "normal_single_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_cereals",
+        "when": "normal_left_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_cereals",
+        "when": "normal_right_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -368,21 +368,21 @@
         }
       },
       {
-        "when": "normal_single_hurrielkey",
+        "when": "normal_single_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_hurrielkey",
+        "when": "normal_left_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_hurrielkey",
+        "when": "normal_right_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -410,21 +410,21 @@
         }
       },
       {
-        "when": "normal_single_piratekey",
+        "when": "normal_single_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_piratekey",
+        "when": "normal_left_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_piratekey",
+        "when": "normal_right_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -452,42 +452,42 @@
         }
       },
       {
-        "when": "normal_single_labkey",
+        "when": "normal_single_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_labkey",
+        "when": "normal_left_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_labkey",
+        "when": "normal_right_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_lavaseal",
+        "when": "normal_single_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_lavaseal",
+        "when": "normal_left_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_lavaseal",
+        "when": "normal_right_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -515,21 +515,21 @@
         }
       },
       {
-        "when": "normal_single_arrowseternan",
+        "when": "normal_single_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_arrowseternan",
+        "when": "normal_left_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_arrowseternan",
+        "when": "normal_right_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -557,21 +557,21 @@
         }
       },
       {
-        "when": "normal_single_mechparts",
+        "when": "normal_single_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_mechparts",
+        "when": "normal_left_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_mechparts",
+        "when": "normal_right_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -599,42 +599,42 @@
         }
       },
       {
-        "when": "normal_single_puregold",
+        "when": "normal_single_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_puregold",
+        "when": "normal_left_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_puregold",
+        "when": "normal_right_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
         }
       },
       {
-        "when": "normal_single_fireseal",
+        "when": "normal_single_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_single"
         }
       },
       {
-        "when": "normal_left_fireseal",
+        "when": "normal_left_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_left"
         }
       },
       {
-        "when": "normal_right_fireseal",
+        "when": "normal_right_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/normal_right"
@@ -724,7 +724,7 @@
           "model": "item/custom/chest/head/treasure_right"
         }
       },
-            {
+      {
         "when": "treasure_single_rawmeat",
         "model": {
           "type": "model",
@@ -746,105 +746,105 @@
         }
       },
       {
-        "when": "treasure_single_littlekey",
+        "when": "treasure_single_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_littlekey",
+        "when": "treasure_left_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_littlekey",
+        "when": "treasure_right_little_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_bigkey",
+        "when": "treasure_single_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_bigkey",
+        "when": "treasure_left_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_bigkey",
+        "when": "treasure_right_big_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_emeraldkey",
+        "when": "treasure_single_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_emeraldkey",
+        "when": "treasure_left_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_emeraldkey",
+        "when": "treasure_right_emerald_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_asunarkstone",
+        "when": "treasure_single_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_asunarkstone",
+        "when": "treasure_left_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_asunarkstone",
+        "when": "treasure_right_turquoise_gemstone",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_ladderpart",
+        "when": "treasure_single_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_ladderpart",
+        "when": "treasure_left_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_ladderpart",
+        "when": "treasure_right_ladder_part",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -893,21 +893,21 @@
         }
       },
       {
-        "when": "treasure_single_cereals",
+        "when": "treasure_single_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_cereals",
+        "when": "treasure_left_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_cereals",
+        "when": "treasure_right_stolen_cereal",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1061,21 +1061,21 @@
         }
       },
       {
-        "when": "treasure_single_hurrielkey",
+        "when": "treasure_single_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_hurrielkey",
+        "when": "treasure_left_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_hurrielkey",
+        "when": "treasure_right_hurriel_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1103,21 +1103,21 @@
         }
       },
       {
-        "when": "treasure_single_piratekey",
+        "when": "treasure_single_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_piratekey",
+        "when": "treasure_left_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_piratekey",
+        "when": "treasure_right_pirate_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1145,42 +1145,42 @@
         }
       },
       {
-        "when": "treasure_single_labkey",
+        "when": "treasure_single_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_labkey",
+        "when": "treasure_left_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_labkey",
+        "when": "treasure_right_lab_key",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_lavaseal",
+        "when": "treasure_single_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_lavaseal",
+        "when": "treasure_left_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_lavaseal",
+        "when": "treasure_right_seal_of_lava",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1208,21 +1208,21 @@
         }
       },
       {
-        "when": "treasure_single_arrowseternan",
+        "when": "treasure_single_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_arrowseternan",
+        "when": "treasure_left_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_arrowseternan",
+        "when": "treasure_right_eternan_arrows",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1250,21 +1250,21 @@
         }
       },
       {
-        "when": "treasure_single_mechparts",
+        "when": "treasure_single_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_mechparts",
+        "when": "treasure_left_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_mechparts",
+        "when": "treasure_right_mechanical_parts",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1292,42 +1292,42 @@
         }
       },
       {
-        "when": "treasure_single_puregold",
+        "when": "treasure_single_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_puregold",
+        "when": "treasure_left_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_puregold",
+        "when": "treasure_right_pure_gold",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
         }
       },
       {
-        "when": "treasure_single_fireseal",
+        "when": "treasure_single_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_single"
         }
       },
       {
-        "when": "treasure_left_fireseal",
+        "when": "treasure_left_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_left"
         }
       },
       {
-        "when": "treasure_right_fireseal",
+        "when": "treasure_right_seal_of_fire",
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
@@ -1394,6 +1394,27 @@
         "model": {
           "type": "model",
           "model": "item/custom/chest/head/treasure_right"
+        }
+      },
+      {
+        "when": "treasure_left_dyed",
+        "model": {
+          "type": "model",
+          "model": "item/custom/chest/head/treasure_left_dyed"
+        }
+      },
+      {
+        "when": "treasure_right_dyed",
+        "model": {
+          "type": "model",
+          "model": "item/custom/chest/head/treasure_right_dyed"
+        }
+      },
+      {
+        "when": "treasure_single_dyed",
+        "model": {
+          "type": "model",
+          "model": "item/custom/chest/head/treasure_single_dyed"
         }
       }
     ],
