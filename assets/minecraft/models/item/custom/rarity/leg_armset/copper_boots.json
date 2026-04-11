@@ -1,6 +1,6 @@
 {
     "parent": "item/copper_boots",
     "textures": {
-        "layer1": "item/custom/rarity/com"
+        "layer1": "item/custom/rarity/leg_armset"
     }
 }
