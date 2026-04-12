@@ -86,13 +86,13 @@
               "when": "gui",
               "model": {
                 "type": "model",
-                "model": "minecraft:item/custom/rarity/myt/weaponsking"
+                "model": "minecraft:item/custom/rarity/myt/kurhul_udkud"
               }
             }
           ],
           "fallback": {
             "type": "model",
-            "model": "minecraft:item/custom/weaponsking"
+            "model": "minecraft:item/custom/kurhul_udkud"
           }
         }
       }
