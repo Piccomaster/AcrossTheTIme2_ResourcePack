@@ -6,8 +6,22 @@
       {
         "when": "gui",
         "model": {
-          "type": "model",
+          "type": "select",
+          "property": "component",
+          "component": "tooltip_style",
+          "cases": [
+            {
+              "when": "minecraft:rarity/quest/quest",
+              "model": {
+                "type": "model",
           "model": "minecraft:item/custom/rarity/quest/chiseled_stone_bricks"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "model",
+            "model": "minecraft:block/chiseled_stone_bricks"
+          }
         }
       }
     ],

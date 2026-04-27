@@ -8,13 +8,6 @@
         },
         "entries": [
             {
-                "threshold": 10000000,
-                "model": {
-                    "type": "model",
-                    "model": "item/custom/magic_sphere_cast"
-                }
-            },
-            {
                 "threshold": 10000001,
                 "model": {
                     "type": "select",
@@ -23,8 +16,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/com/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/com/com",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/com/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/com"
+                                }
                             }
                         }
                     ],
@@ -43,8 +50,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/unc/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/unc/unc",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/unc/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/unc"
+                                }
                             }
                         }
                     ],
@@ -63,8 +84,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/rar/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/rar/rar",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/rar/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/rar"
+                                }
                             }
                         }
                     ],
@@ -83,8 +118,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/epi/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/epi/epi",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/epi/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/epi"
+                                }
                             }
                         }
                     ],
@@ -103,8 +152,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/leg/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/leg/leg",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/leg/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/leg"
+                                }
                             }
                         }
                     ],
@@ -123,8 +186,22 @@
                         {
                             "when": "gui",
                             "model": {
-                                "type": "model",
-                                "model": "minecraft:item/custom/rarity/ult/snowball"
+                                "type": "select",
+                                "property": "component",
+                                "component": "tooltip_style",
+                                "cases": [
+                                    {
+                                        "when": "minecraft:rarity/ult/ult",
+                                        "model": {
+                                            "type": "model",
+                                            "model": "minecraft:item/custom/rarity/ult/snowball"
+                                        }
+                                    }
+                                ],
+                                "fallback": {
+                                    "type": "model",
+                                    "model": "minecraft:item/custom/bait/ult"
+                                }
                             }
                         }
                     ],

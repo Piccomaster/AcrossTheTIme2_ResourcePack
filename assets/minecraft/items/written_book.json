@@ -143,6 +143,13 @@
               }
             },
             {
+              "threshold": 34029,
+              "model": {
+                "type": "model",
+                "model": "item/custom/spell_book/spell29"
+              }
+            },
+            {
               "threshold": 34030,
               "model": {
                 "type": "model",
@@ -164,10 +171,24 @@
               }
             },
             {
+              "threshold": 34033,
+              "model": {
+                "type": "model",
+                "model": "item/custom/spell_book/spell33"
+              }
+            },
+            {
               "threshold": 34034,
               "model": {
                 "type": "model",
                 "model": "item/custom/spell_book/spell34"
+              }
+            },
+            {
+              "threshold": 34035,
+              "model": {
+                "type": "model",
+                "model": "item/custom/spell_book/spell35"
               }
             },
             {
@@ -210,6 +231,13 @@
               "model": {
                 "type": "model",
                 "model": "item/custom/spell_book/spell45"
+              }
+            },
+            {
+              "threshold": 34046,
+              "model": {
+                "type": "model",
+                "model": "item/custom/spell_book/spell46"
               }
             }
           ],

@@ -80,6 +80,15 @@
       "chars": [
         "l"
       ]
+    },
+    {
+      "type": "bitmap",
+      "file": "att2_font:consciousness/crt.png",
+      "ascent": 13,
+      "height": 18,
+      "chars": [
+        "j"
+      ]
     }
   ]
 }
