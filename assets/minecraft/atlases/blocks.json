@@ -23,6 +23,11 @@
             "type": "minecraft:directory",
             "prefix": "skin/",
             "source": "skin"
+        },
+        {
+            "type": "minecraft:directory",
+            "prefix": "mob_effect/",
+            "source": "mob_effect"
         }
     ]
 }

@@ -2,7 +2,7 @@
   "model": {
     "type": "minecraft:select",
     "property": "minecraft:display_context",
-    "cases" : [
+    "cases": [
       {
         "when": "gui",
         "model": {
@@ -143,6 +143,13 @@
               }
             },
             {
+              "threshold": 29,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell29"
+              }
+            },
+            {
               "threshold": 30,
               "model": {
                 "type": "model",
@@ -164,10 +171,24 @@
               }
             },
             {
+              "threshold": 33,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell33"
+              }
+            },
+            {
               "threshold": 34,
               "model": {
                 "type": "model",
                 "model": "item/custom/magic_sphere_uncast/gui/spell34"
+              }
+            },
+            {
+              "threshold": 35,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell35"
               }
             },
             {
@@ -210,6 +231,13 @@
               "model": {
                 "type": "model",
                 "model": "item/custom/magic_sphere_uncast/gui/spell45"
+              }
+            },
+            {
+              "threshold": 46,
+              "model": {
+                "type": "model",
+                "model": "item/custom/magic_sphere_uncast/gui/spell46"
               }
             }
           ],
@@ -365,6 +393,13 @@
             }
           },
           {
+            "threshold": 29,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell29"
+            }
+          },
+          {
             "threshold": 30,
             "model": {
               "type": "model",
@@ -386,10 +421,24 @@
             }
           },
           {
+            "threshold": 33,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell33"
+            }
+          },
+          {
             "threshold": 34,
             "model": {
               "type": "model",
               "model": "item/custom/magic_sphere_uncast/spell34"
+            }
+          },
+          {
+            "threshold": 35,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell35"
             }
           },
           {
@@ -432,6 +481,13 @@
             "model": {
               "type": "model",
               "model": "item/custom/magic_sphere_uncast/spell45"
+            }
+          },
+          {
+            "threshold": 46,
+            "model": {
+              "type": "model",
+              "model": "item/custom/magic_sphere_uncast/spell46"
             }
           }
         ],

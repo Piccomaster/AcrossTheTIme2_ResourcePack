@@ -1,4 +1,9 @@
 {
+  "item.quest.dark_resin.name": "§cDark Resin",
+  "enchantment.att2.stand_breaking": "§2Break and Rise",
+  "enchantment.att2.stand_breaking.data.show.show_text": "§6Click here to view detailed introduction of [Break and Rise] enchantment",
+  "enchantment.att2.stand_breaking.show_text": "§6[Click here to enchant and view detailed introduction]\n§2Reborn",
+  "enchantment.att2.stand_breaking.explain": "§7When your shield enters cooldown, defense: (+1/+2/+3) for (5/10/15) seconds",
   "weapon1.name": "§7Hatchet",
   "weapon1.lore.1": "§fBarrely blunt.",
   "weapon1.lore.2": "",

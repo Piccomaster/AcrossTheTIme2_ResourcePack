@@ -803,6 +803,27 @@
           "type": "model",
           "model": "item/custom/map/empty"
         }
+      },
+      {
+        "threshold": 1004,
+        "model": {
+          "type": "model",
+          "model": "item/custom/map/mainquest"
+        }
+      },
+      {
+        "threshold": 1005,
+        "model": {
+          "type": "model",
+          "model": "item/custom/map/sidequest"
+        }
+      },
+      {
+        "threshold": 1006,
+        "model": {
+          "type": "model",
+          "model": "item/custom/map/dailyquest"
+        }
       }
     ]
   }

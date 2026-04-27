@@ -1,4 +1,9 @@
 {
+  "item.quest.dark_resin.name": "§cRésine Sombre",
+  "enchantment.att2.stand_breaking": "§2Rupture et Résurgence",
+  "enchantment.att2.stand_breaking.data.show.show_text": "§6Cliquez ici pour voir la description détaillée de l'enchantement [Rupture et Résurgence]",
+  "enchantment.att2.stand_breaking.show_text": "§6[Cliquez ici pour enchanter et voir la description détaillée]\n§2Renaissance",
+  "enchantment.att2.stand_breaking.explain": "§7Lorsque votre bouclier entre en récupération, défense : (+1/+2/+3) pendant (5/10/15) secondes",
   "weapon1.name": "§7Hachette",
   "weapon1.lore.1": "§fA peine contondante.",
   "weapon1.lore.2": "",

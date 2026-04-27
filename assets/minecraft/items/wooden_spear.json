@@ -1,8 +1,10 @@
 {
   "model": {
-    "type": "minecraft:select",
+    "type": "select",
+    "property": "display_context",
     "cases": [
       {
+        "when": "gui",
         "model": {
           "type": "select",
           "property": "component",
@@ -62,20 +64,12 @@
             "type": "model",
             "model": "minecraft:item/wooden_spear"
           }
-        },
-        "when": [
-          "gui",
-          "ground",
-          "fixed",
-          "on_shelf"
-        ]
+        }
       }
     ],
     "fallback": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/wooden_spear_in_hand"
-    },
-    "property": "minecraft:display_context"
-  },
-  "swap_animation_scale": 1.95
+      "type": "model",
+      "model": "minecraft:item/wooden_spear"
+    }
+  }
 }

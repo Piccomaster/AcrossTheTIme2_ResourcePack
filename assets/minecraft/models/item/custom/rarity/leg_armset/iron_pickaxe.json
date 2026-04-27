@@ -1,6 +1,0 @@
-{
-    "parent": "item/iron_pickaxe",
-    "textures": {
-        "layer1": "item/custom/rarity/leg_armset"
-    }
-}
