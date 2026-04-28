@@ -140,10 +140,7 @@
   "att2.npc.name.omeryn_white": "§4Omeryn White",
   "att2.npc.name.philipo_tisdal": "§4Philipo Tisdal",
   "att2.npc.name.lilith": "§4Lilith",
-  "att2.npc.name.gaelle_ryliath": "§4Gaelle",
-  "att2.npc.name.gaelle_meleim": "§4Gaelle",
-  "att2.npc.name.gaelle_eolorion": "§4Gaelle",
-  "att2.npc.name.gaelle_kortaek": "§4Gaelle",
+  "att2.npc.name.gaelle": "§4Gaelle",
   "att2.npc.name.carmine_mordan": "§4Carmine Mordan",
   "att2.npc.name.mark_aboth": "§4Mark Aboth",
   "att2.npc.name.jano_grant": "§4Jano Grant",
@@ -223,5 +220,6 @@
   "att2.npc.name.calypso": "§4Calypso",
   "att2.npc.name.basile_valentin": "§4Basile Valentin",
   "att2.npc.name.captain": "§4Captain",
-  "att2.npc.name.eldric": "§4Eldric"
+  "att2.npc.name.eldric": "§4Eldric",
+  "att2.npc.name.s": "S"
 }
