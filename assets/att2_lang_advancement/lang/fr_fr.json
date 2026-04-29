@@ -1,4 +1,13 @@
 {
+  "att2.advancement.collection.title.root": "Collection",
+  "att2.advancement.collection.description.root": "Tous les collectionner !",
+  "att2.advancement.collection_misc.fishing.title.root": "Matériel de pêche",
+  "att2.advancement.collection_misc.fishing.description.root": "Pêche",
+  "成就部分": "///",
+  "收集": "collection",
+  "全部收集": "///",
+  "att2.advancement.treasure.pickable_item.root.title": "Trésor enfoui",
+  "att2.advancement.treasure.pickable_item.root.description": "Trésor enfoui",
   "冒险": "Aventure",
   "书籍": "Livres",
   "游戏挑战": "Défi",
