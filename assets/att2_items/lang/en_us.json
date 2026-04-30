@@ -1,4 +1,6 @@
 {
+  "item.coin.runic_ore.name": "§eRunic Ore",
+  "item.coin.runic_ore.lore.1": "§6Contains mysterious power",
   "item.quest.dark_resin.name": "§cDark Resin",
   "enchantment.att2.stand_breaking": "§2Break and Rise",
   "enchantment.att2.stand_breaking.data.show.show_text": "§6Click here to view detailed introduction of [Break and Rise] enchantment",

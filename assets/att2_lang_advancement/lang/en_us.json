@@ -1,4 +1,13 @@
 {
+    "att2.advancement.collection.title.root": "Collectibles",
+    "att2.advancement.collection.description.root": "Collect them all!",
+    "att2.advancement.collection_misc.fishing.title.root": "Fishing Gear",
+    "att2.advancement.collection_misc.fishing.description.root": "Fishing",
+    "成就部分": "///",
+    "收集": "collection",
+    "全部收集": "///",
+    "att2.advancement.treasure.pickable_item.root.title": "Buried Treasure",
+    "att2.advancement.treasure.pickable_item.root.description": "Buried Treasure",
     "冒险": "Adventure",
     "书籍": "Books",
     "游戏挑战": "Challenge",

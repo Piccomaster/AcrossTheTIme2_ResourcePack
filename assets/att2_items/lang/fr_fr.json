@@ -1,4 +1,6 @@
 {
+  "item.coin.runic_ore.name": "§eMinerai runique",
+  "item.coin.runic_ore.lore.1": "§6Renferme une puissance mystérieuse",
   "item.quest.dark_resin.name": "§cRésine Sombre",
   "enchantment.att2.stand_breaking": "§2Rupture et Résurgence",
   "enchantment.att2.stand_breaking.data.show.show_text": "§6Cliquez ici pour voir la description détaillée de l'enchantement [Rupture et Résurgence]",
