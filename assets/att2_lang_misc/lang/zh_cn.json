@@ -786,8 +786,9 @@
   "consciousness.player_infor.levelmaster": "大师等级§7: %s ",
   "consciousness.player_infor.levelmaster.max": "§6大师等级已经达到上限",
   "consciousness.player_infor.leveleternan": "永生等级§7: %s ",
-  "consciousness.player_infor.temperature": "温度值§7: %s",
-  "consciousness.player_infor.temperature.tip": "白天、夜晚,装备的盔甲,都会影响当前的温度值,温度过高或过低时,都会有一定的负面影响",
+  "consciousness.player_infor.temperature": "当前体温§7: %s",
+  "consciousness.player_infor.temperature.tip": "白天、夜晚,装备的盔甲,都会影响当前的温度值\n温度值处于-100~100时，提供额外的属性收益\n温度值低于-400或高于400，触发受到寒冷/过热反应",
+  "consciousness.player_infor.temperature.show_value": "当前环境温度: %s \n当前装备提供温度: %s \n每秒温度值增加/减少: %s%s",
   "consciousness.currency.title": "货币信息",
   "consciousness.currency.chronotons": "§e携带的§eChronotons数量§7: %s",
   "consciousness.currency.bank": "§6银行中Chronotons数量§7: %s",
@@ -1274,7 +1275,7 @@
   "att2.rune.list": "符文材料交易",
   "att2.dark_resin.error": "我身上没有多余的暗影树脂",
   "att2.runic_ore.error": "我身上没有多余的符文矿石",
-  "att2.shop.hover_event.buy":"点击此处购买商品",
+  "att2.shop.hover_event.buy": "点击此处购买商品",
   "matching_game.select.hover_event": "点击此处获取新的宝藏网格",
   "matching_game.select.lock": "<???>",
   "matching_game.select.lock.hover_event": "完成上一宝藏网格即可解锁",
@@ -2565,17 +2566,13 @@
   "att2.elytra_racing.edit_route.book.prepend_pos": "§a在前方追加一个检查点",
   "att2.elytra_racing.edit_route.resummon_pos": "§a正在生成检查点...",
   "att2.elytra_racing.edit_route.book.name.input": "§a输入该赛道的名称(支持任意字符)",
-
-  "att2.throw_axe.take_limit":"§c你不能拾起别人的武器！",
-
-  "enchantment.att2.quick_attack":"§2连续刺击",
-  "enchantment.att2.spear":"§2长矛",
-  "enchantment.att2.eternan":"§6永恒",
+  "att2.throw_axe.take_limit": "§c你不能拾起别人的武器！",
+  "enchantment.att2.quick_attack": "§2连续刺击",
+  "enchantment.att2.spear": "§2长矛",
+  "enchantment.att2.eternan": "§6永恒",
   "att2.mending.max_limit": "§c当前装备耐久值已达到最大值，无需修复",
-
   "att2.potion.show_time": "§2%s喝下了药水: %s",
   "att2.potion.total": "§2当前药水属性:",
-
   "att2.potion.str": "§e力量:%s%s §7| %s分:%s秒",
   "att2.potion.res": "§e防御:%s%s §7| %s分:%s秒",
   "att2.potion.crt": "§e暴击:%s%s §7| %s分:%s秒",
@@ -2603,13 +2600,8 @@
   "att2.alpha_test_feedback.exit.tip": "点击此处退出页面",
   "att2.alpha_test_feedback.title": "<穿越时空2反馈>",
   "att2.rune_powder_add": "符文粉末:%s%s",
-  "att2.number":"%s",
-
-  "att2.quest_chest_open":"%s打开了装有%s的道具宝箱",
-
-  "att2.dark_resin":"暗影树脂: %s/27",
-
-  "att2.zombie":"僵尸"
-
-
-} 
+  "att2.number": "%s",
+  "att2.quest_chest_open": "%s打开了装有%s的道具宝箱",
+  "att2.dark_resin": "暗影树脂: %s/27",
+  "att2.zombie": "僵尸"
+}
