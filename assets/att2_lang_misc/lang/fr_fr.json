@@ -2603,7 +2603,7 @@
   "att2.alpha_test_feedback.google": "Canal de retour Google Forms",
   "att2.alpha_test_feedback.exit": "Quitter la page",
   "att2.alpha_test_feedback.exit.tip": "Cliquez ici pour quitter la page",
-  "att2.alpha_test_feedback.title": "<Retour ATT2>",
+  "att2.alpha_test_feedback.title": "<ATT2 Feedback>",
   "att2.rune_powder_add": "Poudre de rune : %s%s",
   "att2.number": "%s"
 }
