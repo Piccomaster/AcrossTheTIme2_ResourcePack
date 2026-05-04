@@ -173,7 +173,7 @@
   "att2.bank.10000": "§a1w§a个§achrontons",
   "att2.bank.all": "§a全部的§achrontons",
   "att2.bank.check": "§a查看",
-  "att2.bank.account": "§a当前银行余额",
+  "att2.bank.account": "§a银行余额",
   "隐藏点位": "///",
   "att2.hidden_spots.billgart.2.sign.1.line.1": "§0你以为",
   "att2.hidden_spots.billgart.2.sign.1.line.2": "§0我们会",
@@ -433,6 +433,8 @@
   "att2.launcher.lore.1": "§4◸§8/§4◞§c⎝§4⸜§8§4◹",
   "att2.launcher.lore.2": "§8⧼§4〈§c✧§4〉§8⧽",
   "att2.launcher.lore.3": "§4◺§8§4ᐠ§c⎞§4◜§8/§4◿",
+  "att2.launcher.lore.4": "§f将施法器丢出即可切换为法术书",
+  "att2.launcher.lore.5": "Dahal消耗: %s",
   "att2.spell1.launcher": "§c火球§8—%s",
   "att2.spell2.launcher": "§c火线冲击§8—%s",
   "att2.spell3.launcher": "§c烈焰灼地§8—%s",
@@ -2603,5 +2605,11 @@
   "att2.number": "%s",
   "att2.quest_chest_open": "%s打开了装有%s的道具宝箱",
   "att2.dark_resin": "暗影树脂: %s/27",
-  "att2.zombie": "僵尸"
+  "att2.zombie": "僵尸",
+  "att2.injured_trigger.head": "头部受到严重损伤...",
+  "att2.injured_trigger.chest": "胸部受到严重损伤...",
+  "att2.injured_trigger.legs": "腿部受到严重损伤...",
+  "att2.injured_trigger.feet": "足部受到严重损伤...",
+  "att2.injured_trigger.hand": "手部受到严重损伤...",
+  "att2.horse.space_limit": "附近空间过于狭窄，无法召唤坐骑"
 }
