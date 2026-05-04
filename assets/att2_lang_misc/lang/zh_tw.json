@@ -433,6 +433,8 @@
   "att2.launcher.lore.1": "§4◸§8/§4◞§c⎝§4⸜§8§4◹",
   "att2.launcher.lore.2": "§8⧼§4〈§c✧§4〉§8⧽",
   "att2.launcher.lore.3": "§4◺§8§4ᐠ§c⎞§4◜§8/§4◿",
+  "att2.launcher.lore.4": "§f将施法器丢出即可切换为法术书",
+  "att2.launcher.lore.5": "Dahal消耗: %s",
   "att2.spell1.launcher": "§c火球§8—%s",
   "att2.spell2.launcher": "§c火線衝擊§8—%s",
   "att2.spell3.launcher": "§c烈焰灼地§8—%s",

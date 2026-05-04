@@ -442,6 +442,8 @@
   "att2.launcher.lore.1": "§4◸§8/§4◞§c⎝§4⸜§8§4◹",
   "att2.launcher.lore.2": "§8⧼§4〈§c✧§4〉§8⧽",
   "att2.launcher.lore.3": "§4◺§8§4ᐠ§c⎞§4◜§8/§4◿",
+  "att2.launcher.lore.4": "§fThrow the casting device to switch to the spellbook",
+  "att2.launcher.lore.5": "Dahal Cost: %s",
   "att2.spell1.launcher": "§cFireball§8—%s",
   "att2.spell2.launcher": "§cFire Line§8—%s",
   "att2.spell3.launcher": "§cInferno§8—%s",
@@ -2604,5 +2606,11 @@
   "att2.alpha_test_feedback.exit.tip": "Click here to exit the page",
   "att2.alpha_test_feedback.title": "<ATT2 Feedback>",
   "att2.rune_powder_add": "Rune Powder: %s%s",
-  "att2.number": "%s"
+  "att2.number": "%s",
+  "att2.injured_trigger.head": "Severe damage to the head...",
+  "att2.injured_trigger.chest": "Severe damage to the chest...",
+  "att2.injured_trigger.legs": "Severe damage to the legs...",
+  "att2.injured_trigger.feet": "Severe damage to the feet...",
+  "att2.injured_trigger.hand": "Severe damage to the hand...",
+  "att2.horse.space_limit": "The surrounding space is too narrow to summon the mount"
 }

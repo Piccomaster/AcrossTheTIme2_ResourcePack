@@ -442,6 +442,8 @@
   "att2.launcher.lore.1": "§4◸§8/§4◞§c⎝§4⸜§8§4◹",
   "att2.launcher.lore.2": "§8⧼§4〈§c✧§4〉§8⧽",
   "att2.launcher.lore.3": "§4◺§8§4ᐠ§c⎞§4◜§8/§4◿",
+  "att2.launcher.lore.4": "§fLancez l'outil d'incantation pour passer au grimoire",
+  "att2.launcher.lore.5": "Coût en Dahal : %s",
   "att2.spell1.launcher": "§cBoule de feu§8—%s",
   "att2.spell2.launcher": "§cTrait de feu§8—%s",
   "att2.spell3.launcher": "§cBrasier ardent§8—%s",
@@ -2604,5 +2606,11 @@
   "att2.alpha_test_feedback.exit.tip": "Cliquez ici pour quitter la page",
   "att2.alpha_test_feedback.title": "<Retour ATT2>",
   "att2.rune_powder_add": "Poudre de rune : %s%s",
-  "att2.number": "%s"
+  "att2.number": "%s",
+  "att2.injured_trigger.head": "Dommages sévères à la tête...",
+  "att2.injured_trigger.chest": "Dommages sévères à la poitrine...",
+  "att2.injured_trigger.legs": "Dommages sévères aux jambes...",
+  "att2.injured_trigger.feet": "Dommages sévères aux pieds...",
+  "att2.injured_trigger.hand": "Dommages sévères à la main...",
+  "att2.horse.space_limit": "L'espace environnant est trop étroit pour invoquer la monture"
 }
