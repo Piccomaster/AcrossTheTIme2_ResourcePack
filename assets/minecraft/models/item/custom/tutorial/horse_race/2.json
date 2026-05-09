@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/custom/tutorial/background",
+    "textures": {
+        "texture": "minecraft:item/custom/tutorial/horse_race/2"
+    }
+}

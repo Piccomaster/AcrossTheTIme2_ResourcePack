@@ -1,7 +1,6 @@
 {
-    "parent": "item/custom/tutorial/background",
+    "parent": "minecraft:item/custom/tutorial/background",
     "textures": {
-        "particle": "gui/advancements/tutorial/death/11",
-        "texture": "gui/advancements/tutorial/death/11"
+        "texture": "minecraft:item/custom/tutorial/death/11"
     }
 }

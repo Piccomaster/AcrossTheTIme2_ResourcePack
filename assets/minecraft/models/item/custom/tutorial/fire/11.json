@@ -1,7 +1,6 @@
 {
-    "parent": "item/custom/tutorial/background",
+    "parent": "minecraft:item/custom/tutorial/background",
     "textures": {
-        "particle": "gui/advancements/tutorial/fire/11",
-        "texture": "gui/advancements/tutorial/fire/11"
+        "texture": "minecraft:item/custom/tutorial/fire/11"
     }
 }

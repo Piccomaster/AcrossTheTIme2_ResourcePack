@@ -1,0 +1,821 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "select",
+    "property": "custom_model_data",
+    "cases": [
+      {
+        "when": "advancement_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/advancement/0"
+        }
+      },
+      {
+        "when": "advancement_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/advancement/1"
+        }
+      },
+      {
+        "when": "advancement_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/advancement/2"
+        }
+      },
+      {
+        "when": "advancement_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/advancement/11"
+        }
+      },
+      {
+        "when": "bank_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/bank/0"
+        }
+      },
+      {
+        "when": "bank_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/bank/1"
+        }
+      },
+      {
+        "when": "bank_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/bank/2"
+        }
+      },
+      {
+        "when": "bank_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/bank/11"
+        }
+      },
+      {
+        "when": "currency_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/currency/0"
+        }
+      },
+      {
+        "when": "currency_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/currency/1"
+        }
+      },
+      {
+        "when": "currency_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/currency/2"
+        }
+      },
+      {
+        "when": "currency_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/currency/11"
+        }
+      },
+      {
+        "when": "death_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/death/0"
+        }
+      },
+      {
+        "when": "death_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/death/1"
+        }
+      },
+      {
+        "when": "death_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/death/2"
+        }
+      },
+      {
+        "when": "death_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/death/11"
+        }
+      },
+      {
+        "when": "consciousness_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/consciousness/0"
+        }
+      },
+      {
+        "when": "consciousness_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/consciousness/1"
+        }
+      },
+      {
+        "when": "consciousness_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/consciousness/2"
+        }
+      },
+      {
+        "when": "consciousness_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/consciousness/11"
+        }
+      },
+      {
+        "when": "quest_assistant_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/quest_assistant/0"
+        }
+      },
+      {
+        "when": "quest_assistant_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/quest_assistant/1"
+        }
+      },
+      {
+        "when": "quest_assistant_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/quest_assistant/2"
+        }
+      },
+      {
+        "when": "quest_assistant_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/quest_assistant/11"
+        }
+      },
+      {
+        "when": "keys_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/keys/0"
+        }
+      },
+      {
+        "when": "keys_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/keys/1"
+        }
+      },
+      {
+        "when": "keys_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/keys/2"
+        }
+      },
+      {
+        "when": "keys_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/keys/11"
+        }
+      },
+      {
+        "when": "recycle_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/recycle/0"
+        }
+      },
+      {
+        "when": "recycle_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/recycle/1"
+        }
+      },
+      {
+        "when": "recycle_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/recycle/2"
+        }
+      },
+      {
+        "when": "recycle_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/recycle/11"
+        }
+      },
+      {
+        "when": "rarity_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rarity/0"
+        }
+      },
+      {
+        "when": "rarity_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rarity/1"
+        }
+      },
+      {
+        "when": "rarity_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rarity/2"
+        }
+      },
+      {
+        "when": "rarity_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rarity/11"
+        }
+      },
+      {
+        "when": "rune_room_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_room/0"
+        }
+      },
+      {
+        "when": "rune_room_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_room/1"
+        }
+      },
+      {
+        "when": "rune_room_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_room/2"
+        }
+      },
+      {
+        "when": "rune_room_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_room/11"
+        }
+      },
+      {
+        "when": "rune_ore_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_ore/0"
+        }
+      },
+      {
+        "when": "rune_ore_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_ore/1"
+        }
+      },
+      {
+        "when": "rune_ore_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_ore/2"
+        }
+      },
+      {
+        "when": "rune_ore_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_ore/11"
+        }
+      },
+      {
+        "when": "ender_chest_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ender_chest/0"
+        }
+      },
+      {
+        "when": "ender_chest_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ender_chest/1"
+        }
+      },
+      {
+        "when": "ender_chest_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ender_chest/2"
+        }
+      },
+      {
+        "when": "ender_chest_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ender_chest/11"
+        }
+      },
+      {
+        "when": "stock_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/stock/0"
+        }
+      },
+      {
+        "when": "stock_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/stock/1"
+        }
+      },
+      {
+        "when": "stock_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/stock/2"
+        }
+      },
+      {
+        "when": "stock_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/stock/11"
+        }
+      },
+      {
+        "when": "spell_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/spell/0"
+        }
+      },
+      {
+        "when": "spell_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/spell/1"
+        }
+      },
+      {
+        "when": "spell_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/spell/2"
+        }
+      },
+      {
+        "when": "spell_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/spell/11"
+        }
+      },
+      {
+        "when": "ride_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ride/0"
+        }
+      },
+      {
+        "when": "ride_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ride/1"
+        }
+      },
+      {
+        "when": "ride_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ride/2"
+        }
+      },
+      {
+        "when": "ride_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/ride/11"
+        }
+      },
+      {
+        "when": "mount_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/mount/0"
+        }
+      },
+      {
+        "when": "mount_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/mount/1"
+        }
+      },
+      {
+        "when": "mount_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/mount/2"
+        }
+      },
+      {
+        "when": "mount_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/mount/11"
+        }
+      },
+      {
+        "when": "rune_enchantment_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_enchantment/0"
+        }
+      },
+      {
+        "when": "rune_enchantment_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_enchantment/1"
+        }
+      },
+      {
+        "when": "rune_enchantment_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_enchantment/2"
+        }
+      },
+      {
+        "when": "rune_enchantment_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/rune_enchantment/11"
+        }
+      },
+      {
+        "when": "exploration_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/exploration/0"
+        }
+      },
+      {
+        "when": "exploration_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/exploration/1"
+        }
+      },
+      {
+        "when": "exploration_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/exploration/2"
+        }
+      },
+      {
+        "when": "exploration_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/exploration/11"
+        }
+      },
+      {
+        "when": "attribute_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/attribute/0"
+        }
+      },
+      {
+        "when": "attribute_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/attribute/1"
+        }
+      },
+      {
+        "when": "attribute_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/attribute/2"
+        }
+      },
+      {
+        "when": "attribute_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/attribute/11"
+        }
+      },
+      {
+        "when": "dailyquest_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dailyquest/0"
+        }
+      },
+      {
+        "when": "dailyquest_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dailyquest/1"
+        }
+      },
+      {
+        "when": "dailyquest_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dailyquest/2"
+        }
+      },
+      {
+        "when": "dailyquest_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dailyquest/11"
+        }
+      },
+      {
+        "when": "dialog_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dialog/0"
+        }
+      },
+      {
+        "when": "dialog_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dialog/1"
+        }
+      },
+      {
+        "when": "dialog_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dialog/2"
+        }
+      },
+      {
+        "when": "dialog_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/dialog/11"
+        }
+      },
+      {
+        "when": "shop_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/shop/0"
+        }
+      },
+      {
+        "when": "shop_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/shop/1"
+        }
+      },
+      {
+        "when": "shop_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/shop/2"
+        }
+      },
+      {
+        "when": "shop_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/shop/11"
+        }
+      },
+      {
+        "when": "enemy_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/enemy/0"
+        }
+      },
+      {
+        "when": "enemy_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/enemy/1"
+        }
+      },
+      {
+        "when": "enemy_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/enemy/2"
+        }
+      },
+      {
+        "when": "enemy_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/enemy/11"
+        }
+      },
+      {
+        "when": "elytra_race_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/elytra_race/0"
+        }
+      },
+      {
+        "when": "elytra_race_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/elytra_race/1"
+        }
+      },
+      {
+        "when": "elytra_race_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/elytra_race/2"
+        }
+      },
+      {
+        "when": "elytra_race_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/elytra_race/11"
+        }
+      },
+      {
+        "when": "horse_race_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/horse_race/0"
+        }
+      },
+      {
+        "when": "horse_race_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/horse_race/1"
+        }
+      },
+      {
+        "when": "horse_race_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/horse_race/2"
+        }
+      },
+      {
+        "when": "horse_race_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/horse_race/11"
+        }
+      },
+      {
+        "when": "fire_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/fire/0"
+        }
+      },
+      {
+        "when": "fire_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/fire/1"
+        }
+      },
+      {
+        "when": "fire_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/fire/2"
+        }
+      },
+      {
+        "when": "fire_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/fire/11"
+        }
+      },
+      {
+        "when": "earthquake_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/earthquake/0"
+        }
+      },
+      {
+        "when": "earthquake_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/earthquake/1"
+        }
+      },
+      {
+        "when": "earthquake_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/earthquake/2"
+        }
+      },
+      {
+        "when": "earthquake_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/earthquake/11"
+        }
+      },
+      {
+        "when": "deposit_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/deposit/0"
+        }
+      },
+      {
+        "when": "deposit_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/deposit/1"
+        }
+      },
+      {
+        "when": "deposit_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/deposit/2"
+        }
+      },
+      {
+        "when": "deposit_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/deposit/11"
+        }
+      },
+      {
+        "when": "waypoint_0",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/waypoint/0"
+        }
+      },
+      {
+        "when": "waypoint_1",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/waypoint/1"
+        }
+      },
+      {
+        "when": "waypoint_2",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/waypoint/2"
+        }
+      },
+      {
+        "when": "waypoint_11",
+        "model": {
+          "type": "model",
+          "model": "item/custom/tutorial/waypoint/11"
+        }
+      }
+    ]
+  }
+}
