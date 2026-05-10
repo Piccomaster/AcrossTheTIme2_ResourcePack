@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/custom/tutorial/background",
+    "textures": {
+        "texture": "minecraft:item/custom/tutorial/recycle/1"
+    }
+}

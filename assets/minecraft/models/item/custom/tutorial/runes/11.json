@@ -1,7 +1,0 @@
-{
-    "parent": "item/custom/tutorial/background",
-    "textures": {
-        "particle": "gui/advancements/tutorial/runes/11",
-        "texture": "gui/advancements/tutorial/runes/11"
-    }
-}
