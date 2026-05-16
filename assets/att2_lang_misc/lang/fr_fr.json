@@ -117,7 +117,7 @@
   "att2.tutorial.waypoint.title": "Portails de téléportation",
   "att2.tutorial.waypoint.title.tip": "Cliquez ici pour consulter le tutoriel des portails de téléportation",
   "att2.tutorial.waypoint.detail": "Des portails de téléportation sont répartis sur le continent de Sylberländ. Ils permettent de vous déplacer instantanément entre deux points après les avoir débloqués.",
-  "att2.stat.display.crt": "§eCRT§7:%s§6 |",
+  "att2.stat.display.crt": "§eCRT§7:%s§6|",
   "att2.esc.price": "[%s Écailles Souveraines du Chaos]",
   "att2.rune_powder.list": "Échange de Poudre Runique",
   "att2.rune.list": "Échange de Matériaux Runiques",
