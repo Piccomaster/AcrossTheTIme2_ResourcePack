@@ -1,7 +1,7 @@
 {
   "pack": {
-    "min_format": [75, 0],
+    "min_format": [75, 0], 
     "max_format": [75, 0],
-    "description": "§4Across The Time 2 - Resource pack §7by §6Team Adventquest §f(§7For Minecraft 1.21.11§f)"
+    "description": "§7by §6Team Adventquest\n§4v1.1.1 §8For Minecraft 1.21.11"
   }
 }
