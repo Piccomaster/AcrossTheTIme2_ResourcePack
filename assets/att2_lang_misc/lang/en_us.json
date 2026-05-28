@@ -124,7 +124,7 @@
   "consciousness.guide.menu.gametip.tip": "Click here to enter §eGame Tips List",
   "consciousness.game_setting.spell_cooldown_tip": "Spell Cooldown Tip Settings",
   "consciousness.game_setting.spell_cooldown_tip.tip": "Click here to expand §6Spell Cooldown Tip Settings",
-  "att2.spell_cooldown.complete": "\"%s\" is ready",
+  "att2.spell_cooldown.complete": "« %s » is ready",
   "att2.checkpoint.trigger.new": "New respawn point activated",
   "att2.now_record": "§e【§6Current Record§e】",
   "att2.new_record": "§e【§4§kO§6New Record§4§kO§e】",
