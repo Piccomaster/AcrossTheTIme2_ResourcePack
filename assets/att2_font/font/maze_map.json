@@ -1,0 +1,229 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/wall.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "a"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/normal_chest.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "b"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/end_point.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "c"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/rune_chest.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "d"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/symbol.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "e"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/trap.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "f"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/waypoint.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "g"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/player_facing_n.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "h"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/player_facing_s.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "i"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/player_facing_w.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "j"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/player_facing_e.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "k"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/player_facing_s.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "l"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "m"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "n"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "o"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "p"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "q"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "r"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/maze_road_1.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "s"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/diamond_door.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "t"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/redstone_door.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "u"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/lapis_door.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "v"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/gold_door.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "w"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/nothing.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "x"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:item/custom/maze_map/empty.png",
+      "ascent": 20,
+      "height": 20,
+      "chars": [
+        "y"
+      ]
+    }
+  ]
+}
