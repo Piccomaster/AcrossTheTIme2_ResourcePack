@@ -2743,5 +2743,6 @@
   "att2.injured_trigger.legs": "Dommages sévères aux jambes...",
   "att2.injured_trigger.feet": "Dommages sévères aux pieds...",
   "att2.injured_trigger.hand": "Dommages sévères à la main...",
-  "att2.horse.space_limit": "L'espace environnant est trop étroit pour invoquer la monture"
+  "att2.horse.space_limit": "L'espace environnant est trop étroit pour invoquer la monture",
+  "att2.maze.torch_count": "Quantity: %s"
 }
