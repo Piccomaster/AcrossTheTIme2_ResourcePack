@@ -2745,5 +2745,6 @@
   "att2.injured_trigger.hand": "Severe damage to the hand...",
   "att2.horse.space_limit": "The surrounding space is too narrow to summon the mount",
   "att2.maze.load_error": "Load failed. Please increase the simulation distance and render distance in video settings (18+). You can reduce them again after successful loading.",
-  "att2.maze.loading": "Endless Maze: %s | Map initialization loading... (%s | %s)"
+  "att2.maze.loading": "Endless Maze: %s | Map initialization loading... (%s | %s)",
+  "att2.maze.torch_count": "Quantity: %s"
 }
