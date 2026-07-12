@@ -145,6 +145,8 @@
     "att2.advancement.collection_all.description.fishing": "Obtain all fishing gear",
     "att2.advancement.journey.title.checkpoint_runictrial": "Runic Trial Respawn Point",
     "att2.advancement.journey.description.checkpoint_runictrial": "Discover and activate all respawn points of the 'Runic Trial'",
+    "att2.advancement.journey.title.checkpoint_trialdungeon": "Trial Dungeon Respawn Point",
+    "att2.advancement.journey.description.checkpoint_trialdungeon": "Discover and activate all respawn points of the 'Trial Dungeon'",
     "att2.advancement.journey.title.checkpoint_soquai": "Soquai Forest Respawn Point",
     "att2.advancement.journey.description.checkpoint_soquai": "Discover and activate all respawn points of 'Soquai Forest'",
     "att2.advancement.quest.dailyquest.description.complete": "Successfully complete this daily quest",

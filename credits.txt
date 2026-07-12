@@ -1,7 +1,7 @@
 ADVENTQUEST
 https://www.adventquest.com/
 
-Resource Pack v1.1.0 for <Across The Time 2 - Time for Regrets> adventure map Remaster edition : made by Team Adventquest ("Piccomaster" & "Thundesrtruck")
+Resource Pack v1.0.0 Remastered for <Across The Time 2 - Time for Regrets> adventure map Remaster edition : made by Team Adventquest ("Piccomaster" & "Thundesrtruck")
 ---------------------------------------------------------------------------------
 
 Additionnal textures :
